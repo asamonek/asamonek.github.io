@@ -8,15 +8,26 @@ permalink: /talks/
 
 - _Nothing to hide. On the political aspects of the right to privacy_, April 20, 2019, Political Science Seminar Meeting, Institute of Political Science and International Relations of the Jagiellonian University (INPiSM UJ)
 
-- _Focusing proofs and logics for models of computation_, April 7 - 12, 2019, <a class="u-url" href="http://aitp-conference.org/2019/" hidden>4th Conference on Artificial Intelligence and Theorem Proving AITP 2019</a>, Obergurgl Conference Center of the University of Innsbruck
+- _Focusing proofs and logics for models of computation_, April 7 - 12, 2019, [4th Conference on Artificial Intelligence and Theorem Proving AITP 2019](http://aitp-conference.org/2019/), Obergurgl Conference Center of the University of Innsbruck
 
 
 #### Refereed conference talks
 
+- "About the Polish translation of Jaśkowski's paper entitled "On tautologies in which no variable occurs more than twice"_, September 26, 2019, [9th Non-Classical Logic. Theory and Applications](http://ncl.umk.pl/LNK18/lnk18_en.html), Department of Logic at Nicolaus Copernicus University in Toruń
+
+- _Formal learning theory and rationality in learning the natural language_, September 21, 2019, [6th Young Researchers Days in Logic, Philosophy and History of Science](http://www.bslps.be/YRD6.html) by The Belgian Society for Logic and Philosophy of Science (BSLPS), Brussels, Belgium
+
+- _What Poincare's conventional geometry means for anti-exceptionalism of logical calculi_, September 15, 2019, [Colloquium Logicum 2018](https://www.cl2018.uni-bayreuth.de/en/), Deutsche Vereinigung für Mathematische Logik und für Grundlagenforschung in den exakten Wissenschaften (DVMLG), University of Bayreuth, Germany
+
+
+- _On what anti-exceptionalism can do for the logic of conditionals_, 3 July, 2019, [Congrès de la Société de philosophie analytique (SoPhA)](https://sopha2018.sciencesconf.org/), Université catholique de Louvain
 
 
 #### Selected seminar and invited talks
 
 - _Axiomatizability of 3-element algebraic matrices_, December 12, 2019, Logic and Analysis Seminar, Gent University
 
-- _When is a logic applied successfully? On validity and genuine validity of logical inferences_, December 12, 2019, Work In Progress Seminar, CEFISES (Centre de Philosophie des Sciences et Sociétés) UCLouvain
+- _When is a logic applied successfully? On validity and genuine validity of logical inferences_, December 12, 2019, Work In Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
+
+- _Modes of thinking and the logic of conditionals. Rethinking the Oswald sentence_, 24 May, 2019, Munich Center for Mathematical Philosophy (MCMP) Work In Progress Seminar, Ludwig-Maximilians-Universität München 
+
