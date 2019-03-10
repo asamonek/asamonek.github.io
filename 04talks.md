@@ -13,7 +13,7 @@ permalink: /talks/
 
 #### Refereed conference talks
 
-- "About the Polish translation of Jaśkowski's paper entitled "On tautologies in which no variable occurs more than twice"_, September 26, 2018, [9th Non-Classical Logic. Theory and Applications](http://ncl.umk.pl/LNK18/lnk18_en.html), Department of Logic at Nicolaus Copernicus University in Toruń
+- _About the Polish translation of Jaśkowski's paper entitled "On tautologies in which no variable occurs more than twice"_, September 26, 2018, [9th Non-Classical Logic. Theory and Applications](http://ncl.umk.pl/LNK18/lnk18_en.html), Department of Logic at Nicolaus Copernicus University in Toruń
 
 - _Formal learning theory and rationality in learning the natural language_, September 21, 2018, [6th Young Researchers Days in Logic, Philosophy and History of Science](http://www.bslps.be/YRD6.html) by The Belgian Society for Logic and Philosophy of Science (BSLPS), Brussels, Belgium
 

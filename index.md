@@ -9,14 +9,21 @@ layout: home
 ---
 
 
-# Hello!
+## Hello!
 
-I am a doctoral researcher at UCLouvain working on mathematical and philosophical logic.
-<br><br>
-<br><br>
+I am a doctoral researcher at UCLouvain working on mathematical logic and philosophical logic. My thesis concerns the interpretation of hypothetical reasoning in terms of formal learning theory with potential applications to machine learning.
+
+
+My other interests are mathematical logic, universal algebra, proof theory and logic programming. You will find more about them in the [Research section](https://asamonek.github.io/research/).
+
+
+My ORCIDnumber is: 0000-0002-5742-7190
+
 <br><br>
 
-# My contact information
+
+
+## My contact information
 
 aleksandra.samonek@uclouvain.be
 
@@ -28,5 +35,4 @@ Place Cardinal Mercier 14, bte L3.06.01 \\
 1348 Louvain-la-Neuve, Belgium
 
 <br><br>
-<br><br>
-<br><br>
+
