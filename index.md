@@ -8,18 +8,25 @@
 layout: home
 ---
 
-This page is currently under construction, please come back later!
 
-### Hello!
+# Hello!
 
 I am a doctoral researcher at UCLouvain working on mathematical and philosophical logic.
+<br><br>
+<br><br>
+<br><br>
+
+# My contact information
+
+aleksandra.samonek@uclouvain.be
 
 
-### My contact information
-
-aleksandra.samonek@uclouvain.be \\
 
 Institut supérieur de philosophie \\
 Université catholique de Louvain \\
 Place Cardinal Mercier 14, bte L3.06.01 \\
 1348 Louvain-la-Neuve, Belgium
+
+<br><br>
+<br><br>
+<br><br>
