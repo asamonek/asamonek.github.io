@@ -17,7 +17,7 @@ I am a doctoral researcher at UCLouvain working on mathematical logic and philos
 My other interests are mathematical logic, universal algebra, proof theory and logic programming. You will find more about them in the [Research section](https://asamonek.github.io/research/).
 
 
-My ORCIDnumber is: 0000-0002-5742-7190
+My ORCID number is: 0000-0002-5742-7190
 
 <br><br>
 
