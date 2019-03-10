@@ -14,7 +14,7 @@ layout: home
 I am a doctoral researcher at UCLouvain working on mathematical logic and philosophical logic. My thesis concerns the interpretation of hypothetical reasoning in terms of formal learning theory with potential applications to machine learning.
 
 
-My other interests are mathematical logic, universal algebra, proof theory and logic programming. You will find more about them in the [Research section](https://asamonek.github.io/research/).
+My other interests are universal algebra, proof theory and logic programming. You will find more about them in the [Research section](https://asamonek.github.io/research/).
 
 
 My ORCID number is: 0000-0002-5742-7190
