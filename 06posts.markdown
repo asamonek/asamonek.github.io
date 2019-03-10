@@ -22,5 +22,5 @@ permalink: /posts/
       {%- endfor -%}
     </ul>
 
-    <p class="feed-subscribe"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p>
+    
   {%- endif -%}
