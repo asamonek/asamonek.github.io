@@ -9,7 +9,7 @@ layout: home
 ---
 
 
-## Hello!
+Hello!
 
 I am a doctoral researcher at UCLouvain working on mathematical logic and philosophical logic. My thesis concerns the interpretation of hypothetical reasoning in terms of formal learning theory with potential applications to machine learning.
 
