@@ -4,8 +4,4 @@ title: Research
 permalink: /research/
 ---
 
-#### This page will contain a list of research topics on which I am working
-
-- one
-- two
-- three
+This page is under construction. Please come back later!
