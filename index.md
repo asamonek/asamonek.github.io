@@ -11,7 +11,7 @@ layout: home
 
 <h2>Hello!</h2>
 
-I am a doctoral researcher at UCLouvain working on mathematical logic and philosophical logic. My thesis concerns the interpretation of hypothetical reasoning in terms of formal learning theory with potential applications to machine learning.
+I am a doctoral researcher at [UCLouvain](https://uclouvain.be/fr/index.html) working on mathematical logic and philosophical logic. My thesis concerns the interpretation of hypothetical reasoning in terms of formal learning theory with potential applications to machine learning.
 
 
 My other interests are universal algebra, proof theory and logic programming. You will find more about them in the [Research section](https://asamonek.github.io/research/).
