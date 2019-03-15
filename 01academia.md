@@ -16,11 +16,19 @@ Host: [Prof. DDr. Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/a
 
 - since 2017: [The Association for Symbolic Logic](https://aslonline.org/)
 - since 2018: [La Société de Philosophie Analytique](https://sopha.univ-paris1.fr/)
-- 2008 - 2012: Youth Section, Internationale Vereinigung für Rechts und Sozialphilosophie (2010 - 2012: President of Youth Section)
-- 2007 - 2012: [Towarzystwo Biblioteki Słuchaczów Prawa Uniwersytetu Jagiellońskiego](http://www.tbsp.wpia.uj.edu.pl/) (2010 - 2011: President of TBSP, 2009 - 2010: President of the Section of Legal Philosophy)
+- 2008 - 2012: Youth Section, Internationale Vereinigung für Rechts und Sozialphilosophie  
+  2010 - 2012: President of Youth Section
+- 2007 - 2012: [Towarzystwo Biblioteki Słuchaczów Prawa Uniwersytetu Jagiellońskiego](http://www.tbsp.wpia.uj.edu.pl/)  
+  2010 - 2011: President of TBSP  
+  2009 - 2010: President of the Section of Legal Philosophy
 
 
-### Academic events
+### Involvement in organising academic events
 
 
-- 2019, May 6-8: ExLog 2019 [Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics](https://sites.google.com/view/exlog2019), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve, Belgium
+- 2019, May 6-8: ExLog 2019 [Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics](https://sites.google.com/view/exlog2019), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve, Belgium (local organising committee)
+
+
+### Editorships
+
+- since 2016: [Logic and Philosophy of Logic](https://philpapers.org/browse/logic-and-philosophy-of-logic) Area Editor for PhilPapers
