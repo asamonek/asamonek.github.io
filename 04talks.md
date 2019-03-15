@@ -6,7 +6,7 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _Nothing to hide. On the political aspects of the right to privacy_, April 20, 2019, Political Science Seminar Meeting, Institute of Political Science and International Relations of the Jagiellonian University (INPiSM UJ)
+- _Nothing to hide. On the political aspects of the right to privacy_, March 20, 2019, Political Science Seminar, Institute of Political Science and International Relations of the Jagiellonian University (INPiSM UJ)
 
 - _Focusing proofs and logics for models of computation_, April 7 - 12, 2019, [4th Conference on Artificial Intelligence and Theorem Proving AITP 2019](http://aitp-conference.org/2019/), Obergurgl Conference Center of the University of Innsbruck
 

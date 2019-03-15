@@ -4,4 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
-This page is under construction. Please come back later!
+### Archive of courses
+
+1. Introduction to logic
+2. Introduction to philosophy with elementary logic
+3. E-Tutorial Concerning Studying Techniques
