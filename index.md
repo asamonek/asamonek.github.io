@@ -19,6 +19,10 @@ My other interests are universal algebra, proof theory and logic programming. Yo
 
 My ORCID number is: 0000-0002-5742-7190
 
+
+[Access my profile on ResearchGate here.](https://www.researchgate.net/profile/Aleksandra_Samonek)  
+[Access my profile on PhilPeople here.](https://philpeople.org/profiles/aleksandra-samonek)
+
 <br><br>
 
 
