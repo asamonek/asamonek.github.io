@@ -16,11 +16,10 @@ Host: [Prof. DDr. Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/a
 - [Deutsche Vereinigung für Mathematische Logik und für Grundlagenforschung der Exakten Wissenschaften (DVMLG)](https://www.math.uni-hamburg.de/home/loewe/DVMLG/index.html) (since 2019)
 - [The Association for Symbolic Logic](https://aslonline.org/) (since 2017)
 - [La Société de Philosophie Analytique](https://sopha.univ-paris1.fr/) (since 2018)
-- Youth Section, Internationale Vereinigung für Rechts und Sozialphilosophie  (2008 - 2012)
-  2010 - 2012: President of Youth Section
-- [Towarzystwo Biblioteki Słuchaczów Prawa Uniwersytetu Jagiellońskiego](http://www.tbsp.wpia.uj.edu.pl/) (2007 - 2012)
-  2010 - 2011: President of TBSP  
-  2009 - 2010: President of the Section of Legal Philosophy
+- Youth Section, Internationale Vereinigung für Rechts und Sozialphilosophie  (2008 - 2012),    
+  President of Youth Section in 2010 - 2012
+- [Towarzystwo Biblioteki Słuchaczów Prawa Uniwersytetu Jagiellońskiego](http://www.tbsp.wpia.uj.edu.pl/) (2007 - 2012),  
+  President in 2010 - 2011, President of the Section of Legal Philosophy in 2009 - 2010 
 
 
 ### Involvement in organising academic events
