@@ -16,6 +16,6 @@ The goal of my doctoral thesis is to obtain an interpretation of certain conditi
 
 I am also interested in a variety of topics related to universal algebra and algebraic logic, including:
 - the problem of the existence of a finite basis for certain algebraic matrices;
-- the relation between the existence of finite basis to term-equivalence of matrices;
+- the relation between the existence of a finite basis to the term-equivalence of matrices;
 - relational algebras treated as semantics for relevant logics and the properties of those algebras;
 - using relational algebras as semantics for various natural language structures and the application of relational algebraic semantics to databases.
