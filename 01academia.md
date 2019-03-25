@@ -13,7 +13,7 @@ Host: [Prof. DDr. Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/a
 
 ### Association membership
 
-
+- since 2019: [Deutsche Vereinigung für Mathematische Logik und für Grundlagenforschung der Exakten Wissenschaften (DVMLG)](https://www.math.uni-hamburg.de/home/loewe/DVMLG/index.html)
 - since 2017: [The Association for Symbolic Logic](https://aslonline.org/)
 - since 2018: [La Société de Philosophie Analytique](https://sopha.univ-paris1.fr/)
 - 2008 - 2012: Youth Section, Internationale Vereinigung für Rechts und Sozialphilosophie  
