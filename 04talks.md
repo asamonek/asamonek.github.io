@@ -6,7 +6,7 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _Deriving explanations from interpretable machine learning models and reliable task solutions in formal learning theory_, May 6 - 8, 2019,[ExLog 2019 Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics](https://sites.google.com/view/exlog2019), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
+- _Deriving explanations from interpretable machine learning models and reliable task solutions in formal learning theory_, May 6 - 8, 2019, [ExLog 2019 Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics](https://sites.google.com/view/exlog2019), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
 
 - _Focusing proofs and logics for models of computation_, April 10, 2019, [4th Conference on Artificial Intelligence and Theorem Proving AITP 2019](http://aitp-conference.org/2019/), April 7 - 12, 2019, Obergurgl Conference Center of the University of Innsbruck
 
