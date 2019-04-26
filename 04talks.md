@@ -8,10 +8,10 @@ permalink: /talks/
 
 - _Deriving explanations from interpretable machine learning models and reliable task solutions in formal learning theory_, May 6 - 8, 2019, [ExLog 2019 Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics](https://sites.google.com/view/exlog2019), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
 
-- _Focusing proofs and logics for models of computation_, April 10, 2019, [4th Conference on Artificial Intelligence and Theorem Proving AITP 2019](http://aitp-conference.org/2019/), April 7 - 12, 2019, Obergurgl Conference Center of the University of Innsbruck
-
 
 #### Refereed conference talks
+
+- _Focusing proofs and logics for models of computation_, April 11, 2019, [4th Conference on Artificial Intelligence and Theorem Proving AITP 2019](http://aitp-conference.org/2019/), April 7 - 12, 2019, Obergurgl Conference Center of the University of Innsbruck
 
 - _About the Polish translation of Jaśkowski's paper entitled "On tautologies in which no variable occurs more than twice"_, September 26, 2018, [9th Non-Classical Logic. Theory and Applications](http://ncl.umk.pl/LNK18/lnk18_en.html), Department of Logic at Nicolaus Copernicus University in Toruń
 
