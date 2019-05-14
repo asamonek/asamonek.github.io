@@ -21,6 +21,7 @@ My ORCID number is: 0000-0002-5742-7190
 [Access my profile on ResearchGate here](https://www.researchgate.net/profile/Aleksandra_Samonek)  
 [Access my profile on PhilPeople here](https://philpeople.org/profiles/aleksandra-samonek)  
 [Access my profile on GoogleScholar](https://scholar.google.be/citations?user=SVj1JLIAAAAJ&hl=pl)
+[View my personal webiste in the UCLouvain repository](https://uclouvain.be/fr/repertoires/aleksandra.samonek)
 
 
 

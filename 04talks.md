@@ -6,6 +6,8 @@ permalink: /talks/
 
 #### Upcoming talks
 
+- _On the problem of reliability of inferences in applied logics_, Universität Salzburg Bergseminar, August 17 - 24, 2019
+
 - _Dictionary-based learning of conditionals_, a poster for [Conditionals in Paris – logic, linguistics and psychology](https://conditionals19.sciencesconf.org/), June 3 - 7, 2019, INALCO, Paris
 
 #### Refereed conference talks
