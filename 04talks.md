@@ -6,7 +6,7 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _On the problem of reliability of inferences in applied logics_, Universität Salzburg Bergseminar, August 17 - 24, 2019
+- _On the problem of reliability of inferences in applied logics_, August 17 - 24, 2019, Universität Salzburg Bergseminar, Austria
 
 
 #### Poster presentations
