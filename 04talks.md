@@ -8,7 +8,14 @@ permalink: /talks/
 
 - _On the problem of reliability of inferences in applied logics_, Universität Salzburg Bergseminar, August 17 - 24, 2019
 
-- _Dictionary-based learning of conditionals_, a poster for [Conditionals in Paris – logic, linguistics and psychology](https://conditionals19.sciencesconf.org/), June 3 - 7, 2019, INALCO, Paris
+
+#### Poster presentations
+
+- _Dictionary-based learning of conditionals_, a poster for [Conditionals in Paris – logic, linguistics and psychology](https://conditionals19.sciencesconf.org/), June 3 - 7, 2019, INALCO, Paris [Download Poster](/papers/190602ASAMONEK.pdf)
+
+- _Focused proof systems and their automatic generation_, a poster for [1st International Summer School on Proof Theory](http://www.proofsociety.org/2018/05/05/summer-school-on-proof-theory/), September 2 - 5, 2018, Universiteit Gent
+
+
 
 #### Refereed conference talks
 
@@ -20,8 +27,7 @@ permalink: /talks/
 
 - _Formal learning theory and rationality in learning the natural language_, September 21, 2018, [6th Young Researchers Days in Logic, Philosophy and History of Science](http://www.bslps.be/YRD6.html) by The Belgian Society for Logic and Philosophy of Science (BSLPS), Brussels, Belgium
 
-- _What Poincare's conventional geometry means for anti-exceptionalism of logical calculi_, September 15, 2018, [Colloquium Logicum 2018](https://www.cl2018.uni-bayreuth.de/en/), Deutsche Vereinigung für Mathematische Logik und für Grundlagenforschung in den exakten Wissenschaften (DVMLG), University of Bayreuth, Germany
-
+- _What Poincare's conventional geometry means for anti-exceptionalism of logical calculi_, September 15, 2018, [Colloquium Logicum 2018](https://www.cl2018.uni-bayreuth.de/en/), Deutsche Vereinigung für Mathematische Logik und für Grundlagenforschung in den exakten Wissenschaften (DVMLG), University of Bayreuth, Germany  
 
 - _On what anti-exceptionalism can do for the logic of conditionals_, 3 July, 2018, [Congrès de la Société de philosophie analytique (SoPhA)](https://sopha2018.sciencesconf.org/), Université catholique de Louvain
 
