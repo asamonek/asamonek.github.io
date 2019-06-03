@@ -11,7 +11,7 @@ permalink: /talks/
 
 #### Poster presentations
 
-- _Dictionary-based learning of conditionals_, a poster for [Conditionals in Paris – logic, linguistics and psychology](https://conditionals19.sciencesconf.org/), June 3 - 7, 2019, INALCO, Paris [Download Poster](/papers/190602ASAMONEK.pdf)
+- _Dictionary-based learning of conditionals_, a poster for [Conditionals in Paris – logic, linguistics and psychology](https://conditionals19.sciencesconf.org/), June 3 - 7, 2019, INALCO, Paris [ [Download Poster] ](/papers/190602ASAMONEK.pdf)
 
 - _Focused proof systems and their automatic generation_, a poster for [1st International Summer School on Proof Theory](http://www.proofsociety.org/2018/05/05/summer-school-on-proof-theory/), September 2 - 5, 2018, Universiteit Gent
 
