@@ -19,3 +19,10 @@ I am also interested in a variety of topics related to universal algebra and alg
 - the relation between the existence of a finite basis to the term-equivalence of matrices;
 - relational algebras treated as semantics for relevant logics and the properties of those algebras;
 - using relational algebras as semantics for various natural language structures and the application of relational algebraic semantics to databases.
+
+### Political and legal theory
+
+Outside my main research area, I am involved in the following topics:
+- the right to privacy and its roots in protecting popular sovereignty,
+- the civil society and the methodology of evaluating its condition,
+- free journalism, free speech and their relation to national security.

@@ -10,13 +10,23 @@ permalink: /academia/
 - 2017, October 1 - December 31: Munich Center for Mathematical Philosophy, Ludwig-Maximilians-Universität München, Fakultät für Philosophie, Wissenschaftstheorie und Religionswissenschaft
 Host: [Prof. DDr. Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/about/setting/chair_logic_lang/index.html), Chair of Logic and Philosophy of Language
 
+### Awards
+
+
+- 2019: 1st place in the category Credible, engaging media at Hack Belgium 2019 (team).
+- 2018: Best Poster Award, Workshop on Proof Theory and its Applications (Gent), for a poster entitled _Focused proof systems and their automatic generation_.
+- 2016: 1st place award in an essay contest _Beyond Polish and Ahead of Hungarian Presidency of the Visegrad Group_ for an essay _Citizens’ cybersecurity in the Visegrad Group. The role and progress of the V4 countries in protecting the right to privacy related to mobile and digital communication and information_
+- 2013: Student’s choice award for the best lecture on legal topics (for a lecture entitled _An introduction to adaptive logics for lawyers_), Young Logicians’ Workshop, academic year 2012/2013.
+- 2012: Graduation Honors awarded by the Dean of Law and Administration Faculty of the Jagiellonian University, prof. dr hab. Krystyna Chojnicka
+
 
 ### Association membership
 
 - [Deutsche Vereinigung für Mathematische Logik und für Grundlagenforschung der Exakten Wissenschaften (DVMLG)](https://www.math.uni-hamburg.de/home/loewe/DVMLG/index.html) (since 2019)
 - [The Association for Symbolic Logic](https://aslonline.org/) (since 2017)
 - [La Société de Philosophie Analytique](https://sopha.univ-paris1.fr/) (since 2018)
-- Youth Section, Internationale Vereinigung für Rechts und Sozialphilosophie  (2008 - 2012),    
+- [Internationale Vereinigung für Rechts und Sozialphilosophie](https://elibrary.steiner-verlag.de/journal/arsp), [Sekcja Polska IVR](http://ivr.org.pl/) (since 2019)
+- Youth Section, Internationale Vereinigung für Rechts und Sozialphilosophie  (2008 - 2012),     
   President of Youth Section in 2010 - 2012
 - [Towarzystwo Biblioteki Słuchaczów Prawa Uniwersytetu Jagiellońskiego](http://www.tbsp.wpia.uj.edu.pl/) (2007 - 2012),  
   President in 2010 - 2011, President of the Section of Legal Philosophy in 2009 - 2010 
@@ -31,3 +41,4 @@ Host: [Prof. DDr. Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/a
 ### Editorships
 
 - since 2016: [Logic and Philosophy of Logic](https://philpapers.org/browse/logic-and-philosophy-of-logic) Area Editor for PhilPapers
+- _Legal theory between modernity and postmodernity_ (original title: _Teoria prawa między nowoczesnością a ponowoczesnością_), Wydawnictwo Uniwersytetu Jagiellońskiego, 2012 [Google Books](https://books.google.be/books?id=3x2mCwAAQBAJ&printsec=frontcover), volume editor.
