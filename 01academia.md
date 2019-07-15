@@ -13,7 +13,7 @@ Host: [Prof. DDr. Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/a
 ### Awards
 
 
-- 2019: 1st place in the category -Credible, engaging media_ at Hack Belgium 2019 (team).
+- 2019: 1st place in the category _Credible, engaging media_ at Hack Belgium 2019 (team).
 - 2018: Best Poster Award, Workshop on Proof Theory and its Applications (Gent), for a poster entitled _Focused proof systems and their automatic generation_.
 - 2016: 1st place award in an essay contest _Beyond Polish and Ahead of Hungarian Presidency of the Visegrad Group_ for an essay _Citizens’ cybersecurity in the Visegrad Group. The role and progress of the V4 countries in protecting the right to privacy related to mobile and digital communication and information_
 - 2013: Student’s choice award for the best lecture on legal topics (for a lecture entitled _An introduction to adaptive logics for lawyers_), Young Logicians’ Workshop, academic year 2012/2013.
