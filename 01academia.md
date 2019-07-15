@@ -41,4 +41,4 @@ Host: [Prof. DDr. Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/a
 ### Editorships
 
 - since 2016: [Logic and Philosophy of Logic](https://philpapers.org/browse/logic-and-philosophy-of-logic) Area Editor for PhilPapers
-- _Legal theory between modernity and postmodernity_ (original title: _Teoria prawa między nowoczesnością a ponowoczesnością_), Wydawnictwo Uniwersytetu Jagiellońskiego, 2012 [Google Books](https://books.google.be/books?id=3x2mCwAAQBAJ&printsec=frontcover), volume editor.
+- _Legal theory between modernity and postmodernity_ (original title: _Teoria prawa między nowoczesnością a ponowoczesnością_), Wydawnictwo Uniwersytetu Jagiellońskiego, 2012, [Google Books](https://books.google.be/books?id=3x2mCwAAQBAJ&printsec=frontcover), volume editor.
