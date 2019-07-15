@@ -16,22 +16,24 @@ I am a doctoral researcher at [UCLouvain](https://uclouvain.be/fr/index.html) wo
 
 My other interests are universal algebra, proof theory and logic programming. You will find more about them in the [Research section](https://asamonek.github.io/research/).
 
+<table border="0">
+	<tr>
+		<td>
+			My ORCID number is: 0000-0002-5742-7190  
+			[Access my profile on ResearchGate here](https://www.researchgate.net/profile/Aleksandra_Samonek)  
+			[Access my profile on PhilPeople here](https://philpeople.org/profiles/aleksandra-samonek)  
+			[Access my profile on GoogleScholar](https://scholar.google.be/citations?user=SVj1JLIAAAAJ&hl=pl)  
+			[View my personal webiste in the UCLouvain repository](https://uclouvain.be/fr/repertoires/aleksandra.samonek)
+		</td>
+		<td>
+			## My contact information
 
-My ORCID number is: 0000-0002-5742-7190  
-[Access my profile on ResearchGate here](https://www.researchgate.net/profile/Aleksandra_Samonek)  
-[Access my profile on PhilPeople here](https://philpeople.org/profiles/aleksandra-samonek)  
-[Access my profile on GoogleScholar](https://scholar.google.be/citations?user=SVj1JLIAAAAJ&hl=pl)  
-[View my personal webiste in the UCLouvain repository](https://uclouvain.be/fr/repertoires/aleksandra.samonek)
+			aleksandra.samonek@uclouvain.be
 
-
-
-## My contact information
-
-aleksandra.samonek@uclouvain.be
-
-
-
-Institut supérieur de philosophie \\
-Université catholique de Louvain \\
-Place Cardinal Mercier 14, bte L3.06.01 \\
-1348 Louvain-la-Neuve, Belgium
+			Institut supérieur de philosophie \\
+			Université catholique de Louvain \\
+			Place Cardinal Mercier 14, bte L3.06.01 \\
+			1348 Louvain-la-Neuve, Belgium
+		</td>
+	</tr>
+</table>
