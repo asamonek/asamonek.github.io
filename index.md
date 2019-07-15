@@ -16,7 +16,7 @@ I am a doctoral researcher at [UCLouvain](https://uclouvain.be/fr/index.html) wo
 
 My other interests are universal algebra, proof theory and logic programming. You will find more about them in the [Research section](https://asamonek.github.io/research/).
 
-<table border="1" bordercolor="#ffffff">
+<table border=-1 bordercolor="#ffffff">
 	<tr>
 		<td>
 			<b> My research profiles: </b> <br> <br>
