@@ -12,7 +12,9 @@ permalink: /papers/
 - Aleksandra Samonek, _Adaptive logic for legal reasoning - comparing classical and adaptive logics using the examples of courtroom witness examination_ (original title: _Logika adaptywna dla rozumowań w prawie - porównanie z użyciem klasycznego rachunku zdań na przykładzie sądowej analizy zeznań świadków_), Legal theory between modernity and postmodernity (original title: Teoria prawa między nowoczesnością a ponowoczesnością), ed. A. Samonek, Wydawnictwo Uniwersytetu Jagiellońskiego, 2012, pp. 197-201 [Google Books](https://books.google.be/books?id=3x2mCwAAQBAJ&printsec=frontcover).
 
 ### Translations
-- 
+- German to Polish: _Über tautologien, in welchen keine variable mehr als zweimal vorkommt_ (PL: _O tautologiach, w których żadna zmienna nie występuje więcej niż dwukrotnie_), Stanisław Jaśkowski, 1963, Zeitschrift für mathematische Logik und Grundlagen der Mathematik, vol. 9, pp. 219-229, (soon available online).
+- Polish to English: _O pewnym sposobie pojmowania teorji dedukcji_ (EN: _On a certain manner of understanding deductive theories_), the transcript of a talk given by Jan Łukasiewicz on December 8, 1924, (soon available online).
+
 
 ### Other publications
 - Aleksandra Samonek, _Relation algebras, representability and relevant logics_. Abstract of the talk for Logic Colloquium 2017, The Bulletin of Symbolic Logic.
