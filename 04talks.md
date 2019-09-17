@@ -6,7 +6,7 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _On the problem of reliability of inferences in applied logics_, October 16, 2019, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
+- _Probabilistic networks for natural language conditionals_, October 16, 2019, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
 
 
 #### Poster presentations
