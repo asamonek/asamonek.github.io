@@ -4,11 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### Active seminars and courses
-
-1. Introduction to logic for academics - webinar, open to all, start: October 2019
-2. Formal learning theory and conditionals in the natural language - webinar, open to all, start: October 2019
-
 
 ### Archive of courses
 

@@ -6,7 +6,7 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _On the problem of reliability of inferences in applied logics_, August 17 - 24, 2019, Universität Salzburg Bergseminar, Austria
+- _On the problem of reliability of inferences in applied logics_, October 16, 2019, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
 
 
 #### Poster presentations
@@ -38,7 +38,7 @@ permalink: /talks/
 
 - _Axiomatizability of 3-element algebraic matrices_, December 12, 2018, Logic and Analysis Seminar, Gent University
 
-- _When is a logic applied successfully? On validity and genuine validity of logical inferences_, December 12, 2018, Work In Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
+- _When is a logic applied successfully? On validity and genuine validity of logical inferences_, December 12, 2018, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
 
 - _Modes of thinking and the logic of conditionals. Rethinking the Oswald sentence_, 24 May, 2018, Munich Center for Mathematical Philosophy (MCMP) Work In Progress Seminar, Ludwig-Maximilians-Universität München 
 
