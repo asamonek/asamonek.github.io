@@ -30,4 +30,4 @@ permalink: /papers/
 - Theory and philosophy of law. A companion (original title: Teoria i filozofia prawa. Repetytorium.) Adam Dyrda, Nicolas Ghazal, Remigiusz Nowak, Oskar Pogorzelski, Aleksandra Samonek. Wolters Kluwer, ISBN 9788326406027. (1st edition: 6. 12. 2010).
 
 ### Other publications
-- (report) Aleksandra Samonek, _Współczesne metody rozumowań prawniczych w doborku polskiej teorii prawa - podsumowanie V Zjazdu Młodych Teoretyków Prawa "Teoria prawa między nowoczesnością a ponowoczesnością", Kraków 15-18 września 2011 r._, w: Archiwym Filozofii Prawa i Filozofii Społecznej, 2011(2).
+- (report) Aleksandra Samonek, _Współczesne metody rozumowań prawniczych w dorobku polskiej teorii prawa - podsumowanie V Zjazdu Młodych Teoretyków Prawa "Teoria prawa między nowoczesnością a ponowoczesnością", Kraków 15-18 września 2011 r._, w: Archiwym Filozofii Prawa i Filozofii Społecznej, 2011(2).
