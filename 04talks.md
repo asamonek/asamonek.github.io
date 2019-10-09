@@ -6,7 +6,7 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _Can intended models of mathematical theories change over time?_, a joint talk with Colin Rittberg (Vrije Universiteit Brussel)[https://cris.vub.be/en/persons/colin-jakob-rittberg(b0bc2ff1-4b71-47a2-941b-bd97d9cf4144).html]October 16, 2019, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
+- _Can intended models of mathematical theories change over time?_, a joint talk with Colin Rittberg [Vrije Universiteit Brussel](https://cris.vub.be/en/persons/colin-jakob-rittberg(b0bc2ff1-4b71-47a2-941b-bd97d9cf4144).html), October 16, 2019, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
 
 
 #### Poster presentations
