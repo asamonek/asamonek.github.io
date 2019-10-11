@@ -6,11 +6,14 @@ author: "Aleksandra Samonek"
 meta: 
 ---
 
-On October 16, 2019 [Colin Rittberg](https://cris.vub.be/en/persons/colin-jakob-rittberg(b0bc2ff1-4b71-47a2-941b-bd97d9cf4144).html) and myself will give a joint talk about our upcoming paper on intended models in mathematical practice at the Work In Progress seminar of the CEFISES at UCLouvain, Louvain-la-Neuve.
+On October 16, 2019, [Colin Rittberg](https://cris.vub.be/en/persons/colin-jakob-rittberg(b0bc2ff1-4b71-47a2-941b-bd97d9cf4144).html) and myself will give a joint talk about our upcoming paper on intended models in mathematical practice at the Work In Progress seminar of the CEFISES at UCLouvain, Louvain-la-Neuve.
+
+The seminar is open and all interested are invited to join.
 
 ### Venue
 
-Salle Ladrière (a.124 - 1st floor), Collège Mercier, Place du Cardinal Mercier, Louvain-la-Neuve, Belgium
+Salle Ladrière (a.124 - 1st floor), Collège Mercier, <br>
+Place du Cardinal Mercier, Louvain-la-Neuve, Belgium
 
 
 ### Can intended models of mathematical theories change over time?
