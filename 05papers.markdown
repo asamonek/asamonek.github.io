@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-- 2019 - Aleksandra Samonek, _Violation of privacy in migration control decreases citizens’ liberties and public accountability_, in: Zeszyty Naukowe Uniwersytetu Jagiellońskiego, Prace Historyczne, 146(3), pp. 637-647, published 30/09/2019, DOI 10.4467/20844069PH.19.036.10390, [PDF](http://www.ejournals.eu/Prace-Historyczne/2019/Numer-3/art/14849/).  
+- 2019 - Aleksandra Samonek, _Violation of privacy in migration control decreases citizens’ liberties and public accountability_, in: Zeszyty Naukowe Uniwersytetu Jagiellońskiego, Prace Historyczne, 146(3), pp. 637-647, (published September 30, 2019), DOI 10.4467/20844069PH.19.036.10390, [PDF](http://www.ejournals.eu/Prace-Historyczne/2019/Numer-3/art/14849/).  
 - 2019 - Peter Verdée, Inge De Bal, Aleksandra Samonek, _A non-transitive relevant implication corresponding to classical logic consequence_, [The Australasian Journal of Logic](https://ojs.victoria.ac.nz/ajl/index), Vol 16 No 2 (2019) (published February 3, 2019), [PDF](https://ojs.victoria.ac.nz/ajl/article/view/5273/4633).  
 - 2017 - Aleksandra Samonek, _Citizens’ cybersecurity in the Visegrad Group. The role and progress of the V4 countries in protecting the right to privacy related to mobile and digital communication and information_, BiztPol Affairs. Special edition of the V4 Youth Forum (6-7 May 2017), October 2017, Budapest, pp. 167-194, [PDF](http://corvinusculture.com/wp-content/uploads/2017/10/V4-Youth-Forum-2017-Selected-Essays.pdf).  
 - 2017 - Aleksandra Samonek, _Relation algebras, representability and relevant logics_. Abstract of the talk for Logic Colloquium 2017, The Bulletin of Symbolic Logic.   
