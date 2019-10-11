@@ -12,7 +12,7 @@ The seminar is open and all interested are invited to join.
 
 ### Venue and time
 
-15:00 - 17:00
+15:00 - 17:00 <br>
 Salle Ladrière (a.124 - 1st floor), Collège Mercier <br>
 Place du Cardinal Mercier, Louvain-la-Neuve, Belgium
 
