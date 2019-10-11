@@ -10,9 +10,10 @@ On October 16, 2019, [Colin Rittberg](https://cris.vub.be/en/persons/colin-jakob
 
 The seminar is open and all interested are invited to join.
 
-### Venue
+### Venue and time
 
-Salle Ladrière (a.124 - 1st floor), Collège Mercier, <br>
+15:00 - 17:00
+Salle Ladrière (a.124 - 1st floor), Collège Mercier <br>
 Place du Cardinal Mercier, Louvain-la-Neuve, Belgium
 
 
