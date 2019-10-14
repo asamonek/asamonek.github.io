@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Academia
-permalink: /academia/
+title: Activities
+permalink: /activities/
 ---
 
 ### Study visitorships

@@ -29,7 +29,7 @@ permalink: /talks/
 
 - _What Poincare's conventional geometry means for anti-exceptionalism of logical calculi_, September 15, 2018, [Colloquium Logicum 2018](https://www.cl2018.uni-bayreuth.de/en/), Deutsche Vereinigung für Mathematische Logik und für Grundlagenforschung in den exakten Wissenschaften (DVMLG), University of Bayreuth, Germany  
 
-- _On what anti-exceptionalism can do for the logic of conditionals_, 3 July, 2018, [Congrès de la Société de philosophie analytique (SoPhA)](https://sopha2018.sciencesconf.org/), Université catholique de Louvain
+- _On what anti-exceptionalism can do for the logic of conditionals_, July 3, 2018, [Congrès de la Société de philosophie analytique (SoPhA)](https://sopha2018.sciencesconf.org/), Université catholique de Louvain
 
 
 #### Selected seminar and invited talks
@@ -40,5 +40,7 @@ permalink: /talks/
 
 - _When is a logic applied successfully? On validity and genuine validity of logical inferences_, December 12, 2018, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
 
-- _Modes of thinking and the logic of conditionals. Rethinking the Oswald sentence_, 24 May, 2018, Munich Center for Mathematical Philosophy (MCMP) Work In Progress Seminar, Ludwig-Maximilians-Universität München 
+- _Modes of thinking and the logic of conditionals. Rethinking the Oswald sentence_, May 24, 2018, Munich Center for Mathematical Philosophy (MCMP) Work In Progress Seminar, Ludwig-Maximilians-Universität München  
+
+- _Modality and counterfactuality_, September 14, 2017, [CLAW-CEFISES Workshop](https://hiw.kuleuven.be/clps/events/agenda/claw-cefises-workshop), KULeuven, Belgium
 
