@@ -13,20 +13,3 @@ layout: home
 
 I am a doctoral researcher at [UCLouvain](https://uclouvain.be/fr/index.html) working on logic and probabilistic networks. My thesis concerns the interpretation of hypothetical reasoning in terms of formal learning theory with potential applications to machine learning.
 
-<h2>My research profiles</h2>
-
-<a href="https://orcid.org/0000-0002-5742-7190">My ORCID number is: 0000-0002-5742-7190</a>  <br>
-<a href='https://www.researchgate.net/profile/Aleksandra_Samonek'>Access my profile on ResearchGate here</a> <br>
-<a href='https://philpeople.org/profiles/aleksandra-samonek'>Access my profile on PhilPeople here</a>  <br>
-<a href='https://scholar.google.be/citations?user=SVj1JLIAAAAJ&hl=pl'>Access my profile on GoogleScholar</a> <br>  
-<a href='https://uclouvain.be/fr/repertoires/aleksandra.samonek'>View my personal webiste in the UCLouvain repo</a>
-
-<h2>My contact information</h2>
-
-aleksandra.samonek@uclouvain.be <br>
-
-Institut supérieur de philosophie  <br>
-Université catholique de Louvain  <br>
-Place Cardinal Mercier 14, bte L3.06.01  <br>
-1348 Louvain-la-Neuve, Belgium
-
