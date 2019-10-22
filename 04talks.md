@@ -6,15 +6,6 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _Can intended models of mathematical theories change over time?_, a joint talk with Colin Rittberg [Vrije Universiteit Brussel](https://cris.vub.be/en/persons/colin-jakob-rittberg(b0bc2ff1-4b71-47a2-941b-bd97d9cf4144).html), October 16, 2019, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
-
-
-#### Poster presentations
-
-- _Dictionary-based learning of conditionals_, a poster for [Conditionals in Paris – logic, linguistics and psychology](https://conditionals19.sciencesconf.org/), June 3 - 7, 2019, INALCO, Paris [ [Download Poster] ](/papers/190602ASAMONEK.pdf)
-
-- _Focused proof systems and their automatic generation_, a poster for [1st International Summer School on Proof Theory](http://www.proofsociety.org/2018/05/05/summer-school-on-proof-theory/), September 2 - 5, 2018, Universiteit Gent
-
 
 
 #### Refereed conference talks
@@ -31,8 +22,16 @@ permalink: /talks/
 
 - _On what anti-exceptionalism can do for the logic of conditionals_, July 3, 2018, [Congrès de la Société de philosophie analytique (SoPhA)](https://sopha2018.sciencesconf.org/), Université catholique de Louvain
 
+#### Poster presentations
+
+- _Dictionary-based learning of conditionals_, a poster for [Conditionals in Paris – logic, linguistics and psychology](https://conditionals19.sciencesconf.org/), June 3 - 7, 2019, INALCO, Paris [ [Download Poster] ](/papers/190602ASAMONEK.pdf)
+
+- _Focused proof systems and their automatic generation_, a poster for [1st International Summer School on Proof Theory](http://www.proofsociety.org/2018/05/05/summer-school-on-proof-theory/), September 2 - 5, 2018, Universiteit Gent
+
 
 #### Selected seminar and invited talks
+
+- _Can intended models of mathematical theories change over time?_, a joint talk with Colin Rittberg [Vrije Universiteit Brussel](https://cris.vub.be/en/persons/colin-jakob-rittberg(b0bc2ff1-4b71-47a2-941b-bd97d9cf4144).html), October 16, 2019, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
 
 - _Nothing to hide. On the political aspects of the right to privacy_, March 20, 2019, Political Science Seminar, Institute of Political Science and International Relations of the Jagiellonian University (INPiSM UJ)
 
