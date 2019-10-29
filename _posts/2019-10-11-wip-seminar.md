@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can intended models of mathematical theories change over time? Work In Progress talk at UCLouvain on October 16, 2019"
-categories: seminars 
+categories: events 
 author: "Aleksandra Samonek"
 meta: 
 ---
