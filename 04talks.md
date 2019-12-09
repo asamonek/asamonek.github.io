@@ -31,6 +31,8 @@ permalink: /talks/
 
 #### Selected seminar and invited talks
 
+- _On the conflicts of values and inefficiencies in the cooperation between the academia and the national security institutions. Case study of cyber security_, an interpellation for [18th Ethical Forum of the University Foundation, _Academics as soldiers? Is defence-related research a scandal or a duty?_](http://www.ethicalforum.be/downloads/2019), December 5, 2019, University Foundation, Brussels  
+
 - _Can intended models of mathematical theories change over time?_, a joint talk with Colin Rittberg [Vrije Universiteit Brussel](https://cris.vub.be/en/persons/colin-jakob-rittberg(b0bc2ff1-4b71-47a2-941b-bd97d9cf4144).html), October 16, 2019, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
 
 - _Nothing to hide. On the political aspects of the right to privacy_, March 20, 2019, Political Science Seminar, Institute of Political Science and International Relations of the Jagiellonian University (INPiSM UJ)
