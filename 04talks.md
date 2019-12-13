@@ -6,7 +6,7 @@ permalink: /talks/
 
 #### Upcoming talks
 
-
+- _Introduction to Complex Predicate Calculus for databases_, December 19, 2019, joint talk with Olga Poller, Seminar of the Section of Logical Rhetoric, Jagiellonian University, Kraków
 
 #### Refereed conference talks
 
