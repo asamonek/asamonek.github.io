@@ -6,12 +6,13 @@ permalink: /teaching/
 
 ### Courses as Teaching Assistant
 
-Between October 2014 and March 2017 I worked as a teaching assistant at the [Institute of Philosophy](https://filozofia.uj.edu.pl/en_GB/start) and the [Institute of Psychology](https://psychologia.uj.edu.pl/en_GB/start) of the Jagiellonian University in Kraków, Poland.
+Between October 2014 and March 2017 I worked as a teaching assistant at the [Institute of Philosophy](https://filozofia.uj.edu.pl/en_GB/start), the [Institute of Psychology](https://psychologia.uj.edu.pl/en_GB/start) and the [Centre for Comparative Studies of Civilisations](http://www.psc.uj.edu.pl/) of the Jagiellonian University in Kraków, Poland.
 
 1. **Introduction to logic** (Institute of Philosophy, WFz.IF-LO01pc, 60 hours, 12 ECTS): a mandatory course for full-time philosophy students, taught in 2015/2016 and 2016/2017 (180 hours total)  
 2. **Introduction to philosophy with elementary logic** (Instutute of Psychology, WFz.IPs-N-A04, 30 hours, 6 ECTS): a mandatory course for full-time psychology students, taught in 2014/2015, 2015/2016 and 2016/2017 (180 hours total)  
 3. **Introduction to philosophy with elementary logic** (Instutute of Psychology, WFz.IPs-N-A04-ns, 30 hours, 6 ECTS): a mandatory course for part-time psychology students, taught in 2014/2015, 2015/2016 and 2016/2017 (180 hours total)  
-4. **E-Tutorial Concerning Studying Techniques** (WFz.IF-ZTS, 1 ECTS): a tutorial class for philosophy students focused on learning LaTeX and other technologies related to undergraduate academic work, as well as critical source evaluation, argument constuction and academic writing; taught in 2016/2017  
+4. **E-Tutorial Concerning Studying Techniques** (MOOC, WFz.IF-ZTS, 1 ECTS): a tutorial class for philosophy students focused on learning LaTeX and other technologies related to undergraduate academic work, as well as critical source evaluation, argument constuction and academic writing; taught in 2016/2017  
+5. **Logics and Semiotics** (WFz.KPSC-8411, 30 hours, 6 ECTS): a class for the students of the Centre for Comparative Studies of Civilisations, taught in 2014/2015 (15 hours, taught jointly)
 
 ### Courses as Student Teaching Assistant
 
