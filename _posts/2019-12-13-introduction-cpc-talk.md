@@ -10,7 +10,7 @@ On December 19, 2019, [Olga Poller](https://www.researchgate.net/profile/Olga_Po
 
 ### Venue and time
 
-19:00 - 20:30 <br>
+17:30 - 19:00 <br>
 Room 28, I floor, Collegium Broscianum <br>
 Institute of Philosophy, Jagiellonian University<br>
 ul. Grodzka 52, Kraków, Poland
@@ -18,7 +18,7 @@ ul. Grodzka 52, Kraków, Poland
 
 ### Introduction to Complex Predicate Calculus for databases
 
-CPC (Complex Predicate Calculus) represents the process of creating complex predicates in the natural language in a such a way that the result of this process (which we will call a _query_) constitutes information included in a database. Initially, CPC was designed to represent prepositions, but it soon turned out that the rules of CPC can be applied much more universally, to a much wider class of phrases. The goal of this talk it to introduce the philosophical motivation behind CPC and also its theoretical foundations, such as the language, syntax and the CPC model. We will also discuss some preliminary results concerning compositionality and the rules of CPC. 
+CPC (Complex Predicate Calculus) represents the process of creating complex predicates in the natural language in a such a way that the result of this process (which we will call a _query_) constitutes information included in a database. Initially, CPC was designed to represent prepositions, but it soon turned out that the rules of CPC can be applied much more universally, to a much wider class of phrases. The goal of this talk is to introduce the philosophical motivation behind CPC and also its theoretical foundations, such as the language, syntax and the CPC model. We will also discuss some preliminary results concerning compositionality and the rules of CPC. 
 
 
 ### (PL) Wprowadzenie do rachunku złożonych predykatów dla baz danych  
