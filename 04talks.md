@@ -6,7 +6,6 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _Introduction to Complex Predicate Calculus for Databases_, December 19, 2019, joint talk with Olga Poller, Seminar of the Section of Logical Rhetoric, Jagiellonian University, Kraków
 
 #### Refereed conference talks
 
@@ -30,6 +29,8 @@ permalink: /talks/
 
 
 #### Selected seminar and invited talks
+
+- _Introduction to Complex Predicate Calculus for Databases_, December 19, 2019, joint talk with Olga Poller, [Seminar of the Section of Logical Rhetoric](https://filozofia.uj.edu.pl/pl_PL/pracownia-retoryki-logicznej/-/journal_content/56_INSTANCE_6gNtJ8CgcOC1/4371778/144142737), Jagiellonian University, Kraków
 
 - _On the conflicts of values and inefficiencies in the cooperation between the academia and the national security institutions. Case study of cyber security_, December 5, 2019, an interpellation for [18th Ethical Forum of the University Foundation _Academics as soldiers? Is defence-related research a scandal or a duty?_](http://www.ethicalforum.be/downloads/2019), University Foundation, Brussels  
 

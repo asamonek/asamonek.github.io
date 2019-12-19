@@ -11,5 +11,5 @@ layout: home
 
 <h2>Hello!</h2>
 
-I am a doctoral researcher at [UCLouvain](https://uclouvain.be/fr/index.html) working on logic and probabilistic networks. My thesis concerns the interpretation of hypothetical reasoning in terms of formal learning theory with potential applications to machine learning.
+I am a doctoral researcher at [UCLouvain](https://uclouvain.be/fr/index.html) working on logic and probabilistic networks. My thesis concerns the interpretation of hypothetical reasoning in terms of formal learning theory with potential applications to machine learning. 
 
