@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### Courses as Teaching Assistant
+### Teaching Assistant
 
 Between October 2014 and March 2017 I worked as a teaching assistant at the [Institute of Philosophy](https://filozofia.uj.edu.pl/en_GB/start), the [Institute of Psychology](https://psychologia.uj.edu.pl/en_GB/start) and the [Centre for Comparative Studies of Civilisations](http://www.psc.uj.edu.pl/) of the Jagiellonian University in Kraków, Poland.
 
@@ -14,7 +14,7 @@ Between October 2014 and March 2017 I worked as a teaching assistant at the [Ins
 4. **E-Tutorial Concerning Studying Techniques** (MOOC, WFz.IF-ZTS, 1 ECTS): a tutorial class for philosophy students focused on learning LaTeX and other technologies related to undergraduate academic work, as well as critical source evaluation, argument constuction and academic writing; taught in 2016/2017  
 5. **Logics and Semiotics** (WFz.KPSC-8411, 30 hours, 6 ECTS): a class for the students of the Centre for Comparative Studies of Civilisations, taught in 2014/2015 (15 hours, taught jointly)
 
-### Courses as Student Teaching Assistant
+### Student Teaching Assistant
 
 Between October 2008 and October 2010 I worked as a student teaching assistant at the [Department of Philosophy of Law and Legal Ethics](https://www.law.uj.edu.pl/~kfpep/joomla2/index.php?option=com_content&view=frontpage&Itemid=1&lang=en) at the [Faculty of Law and Administration of the Jagiellonian University](https://wpia.uj.edu.pl/) in Kraków, Poland. I assisted in class preparation and was responsible for preparing the exam questions, as well as overseeing exams and their evaluation.  
 

@@ -15,4 +15,4 @@ I am a doctoral researcher at [UCLouvain](https://uclouvain.be/fr/index.html) wo
 
 My other interests include social, political and economic issues related to digital technologies and applying formal and statistical methods to various problems in social sciences and humanities. My current projects and collaborations are listed in the [Research](https://asamonek.github.io/research/) section.
 
-If you would like to receive updates about my publications, talks and projects, please follow [my blog](https://asamonek.github.io/posts/) or some of my social media channels.
+If you would like to receive updates about my publications, talks and projects, please follow [my blog](https://asamonek.github.io/posts/) or my social media channels.
