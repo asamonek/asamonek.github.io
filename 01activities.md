@@ -4,8 +4,7 @@ title: Activities
 permalink: /activities/
 ---
 
-### Study visitorships
-
+### Study visits
 
 - 2017, October 1 - December 31: Munich Center for Mathematical Philosophy, Ludwig-Maximilians-Universität München, Fakultät für Philosophie, Wissenschaftstheorie und Religionswissenschaft
 Host: [Prof. DDr. Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/about/setting/chair_logic_lang/index.html), Chair of Logic and Philosophy of Language
@@ -21,6 +20,7 @@ Host: [Prof. DDr. Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/a
 
 ### Association membership
 
+- [The Proof Society](https://www.proofsociety.org/) (since October 2019)
 - [Deutsche Vereinigung für Mathematische Logik und für Grundlagenforschung der Exakten Wissenschaften (DVMLG)](https://www.math.uni-hamburg.de/home/loewe/DVMLG/index.html) (since 2019)
 - [The Association for Symbolic Logic](https://aslonline.org/) (since 2017)
 - [La Société de Philosophie Analytique](https://sopha.univ-paris1.fr/) (since 2018)
@@ -30,14 +30,17 @@ Host: [Prof. DDr. Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/a
 - [Towarzystwo Biblioteki Słuchaczów Prawa Uniwersytetu Jagiellońskiego](http://www.tbsp.wpia.uj.edu.pl/) (2007 - 2012),  
   President in 2010 - 2011, President of the Section of Legal Philosophy in 2009 - 2010 
 
+### Editorship
 
-### Involvement in organising academic events
-
-
-- 2019, May 6-8: ExLog 2019 [Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics](https://sites.google.com/view/exlog2019), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve, Belgium (local organising committee)
-
-
-### Editorships
-
-- since 2016: [Logic and Philosophy of Logic](https://philpapers.org/browse/logic-and-philosophy-of-logic) Area Editor for PhilPapers
+- [Logic and Philosophy of Logic](https://philpapers.org/browse/logic-and-philosophy-of-logic) Area Editor for PhilPapers, since 2016 (ongoing)
 - _Legal theory between modernity and postmodernity_ (original title: _Teoria prawa między nowoczesnością a ponowoczesnością_), Wydawnictwo Uniwersytetu Jagiellońskiego, 2012, [Google Books](https://books.google.be/books?id=3x2mCwAAQBAJ&printsec=frontcover), volume editor.
+
+### Organising & volunteering
+
+- 2020, February 1-2: FOSDEM [Free and Open source Software Developers' European Meeting](https://archive.fosdem.org/2020/), Brussels, Belgium (volunteer)  
+- 2019, August 2-3: [Heart of Clojure](https://heartofclojure.eu/), Leuven, Belgium (orga crew)  
+- 2019, May 6-8: ExLog 2019 [Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics](https://sites.google.com/view/exlog2019), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve, Belgium (local organising committee)  
+- 2019, February 2-3: FOSDEM [Free and Open source Software Developers' European Meeting](https://archive.fosdem.org/2019/), Brussels, Belgium (volunteer, session chair)  
+- 2018, April 26-28: Hack Belgium 2018, Brussels, Belgium (volunteer)
+
+
