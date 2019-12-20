@@ -11,11 +11,7 @@ layout: home
 
 <h2>Hello!</h2>
 
-I am a doctoral researcher at [UCLouvain](https://uclouvain.be/fr/index.html) working on logic and probabilistic networks. In my dissertation I propose an interpretation of hypothetical reasoning in terms of formal learning theory. My approach is multidisciplinary, ranging from logic and theoretical computer science to probability theory, Bayesian networks and machine learning. The following two aspects of my dissertation are particularly relevant:
-
-1. the interpretation of the process of hypothetical reasoning which I propose can be applied uniformly to human and machine learners, and  
-2. the probabilistic framework I use allows for producing explanations of all related processes, contributing to increased interpretability of certain machine learning models.  
-
+I am a doctoral researcher at [UCLouvain](https://uclouvain.be/fr/index.html) working on logic and probabilistic networks. In my dissertation I propose an interpretation of hypothetical reasoning in terms of formal learning theory. My approach is multidisciplinary, ranging from logic and theoretical computer science to probability theory, Bayesian networks and machine learning.
 
 My other interests include social, political and economic issues related to digital technologies and applying formal and statistical methods to various problems in social sciences and humanities. My current projects and collaborations are listed in the [Research](https://asamonek.github.io/research/) section.
 
