@@ -7,7 +7,7 @@ permalink: /activities/
 ### Study visits
 
 - 2017, October 1 - December 31: Munich Center for Mathematical Philosophy, Ludwig-Maximilians-Universität München, Fakultät für Philosophie, Wissenschaftstheorie und Religionswissenschaft
-Host: [Prof. DDr. Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/about/setting/chair_logic_lang/index.html), Chair of Logic and Philosophy of Language
+   Host: [Prof. DDr. Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/about/setting/chair_logic_lang/index.html), Chair of Logic and Philosophy of Language
 
 ### Awards
 
