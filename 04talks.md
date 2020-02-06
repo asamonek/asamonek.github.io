@@ -6,6 +6,11 @@ permalink: /talks/
 
 #### Upcoming talks
 
+- _Supervised learning vs learning with epistemic planning in probabilistic networks_, 3rd OLOFOS Workshop, [Clash between the scientific and the manifest image of the world ](https://clash.sciencesconf.org/), May 28 - 29, 2020, [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve  
+
+- _How probabilistic networks can learn scientific concepts_, [4th Logic, Relativity and Beyond International Conference](https://conferences.renyi.hu/lrb20/home), June 17 - 21, 2020, Simontornya, Hungary, organized by the Rényi Institute   
+
+- _The Logic of Learning: Formal Learning Systems and AI_, [ClojuTRE 2020](https://clojutre.org/2020/), October 8-9, 2020, Tampere, Finland
 
 #### Refereed conference talks
 
