@@ -15,8 +15,11 @@ An additional objective of my work is to ensure that the obtained interpretation
 1. the interpretation of the process of hypothetical reasoning which I propose can be applied uniformly to human and machine learners, and  
 2. the probabilistic framework I use allows for producing explanations of all related processes, contributing to increased interpretability of certain machine learning models.  
 
-### Representing natural language with logic and databases
 
-### Measuring civil society and democracy
+### Civil society and democracy in the CEE
+
 
 ### Privacy, data protection and surveillance
+
+
+

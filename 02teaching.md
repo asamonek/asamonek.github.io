@@ -24,6 +24,6 @@ Between October 2008 and October 2010 I worked as a student teaching assistant a
 4. The art of legal negotiations (WPA-10.P-3120, 45 hours, 6 ECTS)  
 5. Legal Ethics and Bioethics (WPA-10.P-3083, 45 hours, 6 ECTS)  
 
-### Courses at Workshops and Summerschools
+### Courses at Workshops and Summer Schools
 
 1. An introduction to adaptive logics for lawyers, Young Logicians’ Workshop, 2012/2013

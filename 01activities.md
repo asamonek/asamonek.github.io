@@ -37,10 +37,10 @@ permalink: /activities/
 
 ### Organising & volunteering
 
-- 2020, February 1-2: FOSDEM [Free and Open source Software Developers' European Meeting](https://archive.fosdem.org/2020/), Brussels, Belgium (volunteer)  
+- 2020, February 1-2: FOSDEM [Free and Open Source Software Developers' European Meeting](https://archive.fosdem.org/2020/), Brussels, Belgium (volunteer)  
 - 2019, August 2-3: [Heart of Clojure](https://heartofclojure.eu/), Leuven, Belgium (orga crew)  
 - 2019, May 6-8: ExLog 2019 [Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics](https://sites.google.com/view/exlog2019), [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve, Belgium (local organising committee)  
-- 2019, February 2-3: FOSDEM [Free and Open source Software Developers' European Meeting](https://archive.fosdem.org/2019/), Brussels, Belgium (volunteer, session chair)  
+- 2019, February 2-3: FOSDEM [Free and Open Source Software Developers' European Meeting](https://archive.fosdem.org/2019/), Brussels, Belgium (volunteer, session chair)  
 - 2018, April 26-28: Hack Belgium 2018, Brussels, Belgium (volunteer)
 
 
