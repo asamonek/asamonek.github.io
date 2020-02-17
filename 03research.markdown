@@ -4,22 +4,42 @@ title: Research
 permalink: /research/
 ---
 
-### Hypothetical reasoning in probabilistic logic and networks
+### Logic, Language and Information
 
-The preliminary title of my doctoral dissertation is _Hypothetical Reasoning. From Formal Learning Theory to Machine Learning_. My research is embedded in a broader project conducted by [Peter Verdée](https://www.researchgate.net/profile/Peter_Verdee) entitled _Relevance criteria in entailment, epistemic grounding and counterfactuals: semantic and linguistic aspects_. The project is funded by Fonds Spécial de Recherche (FSR) and started on March 1, 2017.
+My doctoral research lies at the intersection of probabilistic logic, formal learning theory and computer science. Areas of particular importance to this work are:
 
-The goal of my doctoral thesis is to obtain an interpretation of certain conditional sentences of the natural language in terms of [formal learning theory](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-1428-6_444); and more specifically, conditional sentences which correspond to various forms of hypothetical reasoning. This problem relates to an analogous program of interpreting conditional sentences in machine learning, in particular to the issue of opinion mining and feature- or topic-based sentiment analysis (see [Narayanan, Liu and Choudhary (2009)](http://www.aclweb.org/anthology/D09-1019) for an example of how to use conditional analysis to assign positive, neutral or negative sentiments to topics or product features).
+-- logic of reliable inquiry (formal learning theory),  
+-- probabilistic logics,   
+-- dependence and independence logics,  
+-- epistemic planning in belief revision,   
+-- probabilistic neural networks and machine learning.
 
-An additional objective of my work is to ensure that the obtained interpretation satisfies certain relevance and explainability criteria, which in machine learning correspond to the problem of black box interpretability. The following two aspects of my dissertation are particularly relevant:
+ _Hypothetical Reasoning. From Formal Learning Theory to Machine Learning_ I use probabilistic logic and neural networks to define the learning procedures for acquiring and testing conditional information. [(Read more)](/2017/03/01/conditionals.html/)
 
-1. the interpretation of the process of hypothetical reasoning which I propose can be applied uniformly to human and machine learners, and  
-2. the probabilistic framework I use allows for producing explanations of all related processes, contributing to increased interpretability of certain machine learning models.  
+### Logic, Proof Theory and Computer Science
 
+I am also interested in the following topics related to logic and computer science:
 
-### Civil society and democracy in the CEE
-
+-- algorithm interpretability,  
+-- algorithmic and probabilistic explanation,  
+-- focusing proof theory and its applications to artificial intelligence,   
+-- logic and Logical Data Analysis (LAD).
 
 ### Privacy, data protection and surveillance
 
+I work on a variety of problems related to privacy and surveillance, particularly those concerning political and economic dimensions of surveillance. I am especially interested in the following questions:
 
+-- How is privacy protection related to democracy?  
+-- What is the political value of the right to privacy?  
+-- What is the condition of privacy protection in the European Union?  
+-- What is the status of privacy in the areas of influence of the People's Republic of China?  
+-- How does surveillance influence the global market?
 
+### Civil society and democracy in the CEE
+
+Projects such as [the Varieties of Democracy (V-Dem)](https://www.v-dem.net/en/) have revolutionized the methodologies of studying civil society and democratization. With new tools for generating informative indicators, we may now reattempt to tackle important questions which could not have been conclusively answered so far. For example:
+
+-- Is the civil society in Central and Eastern Europe "weak"?   
+-- How does civil society relate to democratization and democratic backsliding?  
+-- What are the trends of development of civil society in the CEE region?  
+-- What is the condition of civil society in the European Union?

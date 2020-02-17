@@ -11,8 +11,8 @@ layout: home
 
 <h2>Hello!</h2>
 
-I am a doctoral researcher at [UCLouvain](https://uclouvain.be/fr/index.html) working on logic and probabilistic networks. In my dissertation I propose an interpretation of hypothetical reasoning in terms of formal learning theory. My approach is multidisciplinary, ranging from logic and theoretical computer science to probability theory, Bayesian networks and machine learning.
 
-My other interests include social, political and economic issues related to digital technologies and applying formal and statistical methods to various problems in social sciences and humanities. My current projects and collaborations are listed in the [Research](https://asamonek.github.io/research/) section.
+I am a doctoral researcher at [UCLouvain](https://uclouvain.be/fr/index.html). I work in logic, language and information, focusing on building probabilistic semantics for concept networks, providing relevance criteria for dependency patterns in these semantics, and characterizing the related learning procedures implementable in machine learning. In my dissertation, entitled _Hypothetical Reasoning. From Formal Learning Theory to Machine Learning_, I use probabilistic logic and neural networks to define learning procedures for acquiring and testing conditional information. My approach is multidisciplinary, ranging from logic and theoretical computer science to probability theory, Bayesian networks and machine learning.
 
-If you would like to receive updates about my publications, talks and projects, please follow [my blog](https://asamonek.github.io/posts/) or my social media channels.
+My other areas of expertise include legal, political and economic aspects of privacy and surveillance, as well as using new statistical methods to evaluate the development of civil society and the condition of modern democracies. I am particularly interested in methods used to diagnose the dynamics of civil society in Central and Eastern Europe and at the EU level.
+
