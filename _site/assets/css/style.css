@@ -1,6 +1,7 @@
 /**
  * Reset some basic elements
  */
+@import url(fonts/serif/cmun-serif.css);
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -11,7 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 Roboto, Helvetica, Arial;
+  font: 400 18px/1.5 "Computer Modern Serif";
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -54,7 +55,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 14px; }
+  font-size: 15.75px; }
 
 /**
  * Lists
@@ -76,10 +77,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #cb2431;
+  color: #828282;
   text-decoration: none; }
   a:visited {
-    color: #8a1821; }
+    color: #757575; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -95,7 +96,7 @@ blockquote {
   color: #828282;
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
-  font-size: 18px;
+  font-size: 20.25px;
   letter-spacing: -1px;
   font-style: italic; }
   blockquote > :last-child {
@@ -106,7 +107,7 @@ blockquote {
  */
 pre,
 code {
-  font-size: 15px;
+  font-size: 16.875px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
   background-color: #eef; }
@@ -151,7 +152,7 @@ pre {
  * Icons
  */
 .orange {
-  color: #d73a49; }
+  color: #828282; }
 
 .grey {
   color: #828282; }
@@ -192,11 +193,11 @@ table {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
   min-height: 55.95px;
-  line-height: 54px;
+  line-height: 60.75px;
   position: relative; }
 
 .site-title {
-  font-size: 26px;
+  font-size: 29.25px;
   font-weight: 300;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -274,7 +275,7 @@ table {
   padding: 30px 0; }
 
 .footer-heading {
-  font-size: 18px;
+  font-size: 20.25px;
   margin-bottom: 15px; }
 
 .contact-list,
@@ -283,7 +284,7 @@ table {
   margin-left: 0; }
 
 .footer-col-wrapper {
-  font-size: 15px;
+  font-size: 16.875px;
   color: #828282;
   margin-left: -15px; }
 
@@ -325,10 +326,10 @@ table {
   flex: 1 0 auto; }
 
 .page-heading {
-  font-size: 32px; }
+  font-size: 36px; }
 
 .post-list-heading {
-  font-size: 28px; }
+  font-size: 31.5px; }
 
 .post-list {
   margin-left: 0;
@@ -337,12 +338,12 @@ table {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 14px;
+  font-size: 15.75px;
   color: #828282; }
 
 .post-link {
   display: block;
-  font-size: 24px; }
+  font-size: 27px; }
 
 /**
  * Posts
@@ -352,31 +353,31 @@ table {
 
 .post-title,
 .post-content h1 {
-  font-size: 42px;
+  font-size: 47.25px;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (min-width: 800px) {
     .post-title,
     .post-content h1 {
-      font-size: 42px; } }
+      font-size: 47.25px; } }
 
 .post-content {
   margin-bottom: 30px; }
   .post-content h2 {
-    font-size: 28px; }
+    font-size: 31.5px; }
     @media screen and (min-width: 800px) {
       .post-content h2 {
-        font-size: 32px; } }
+        font-size: 36px; } }
   .post-content h3 {
-    font-size: 22px; }
+    font-size: 24.75px; }
     @media screen and (min-width: 800px) {
       .post-content h3 {
-        font-size: 26px; } }
+        font-size: 29.25px; } }
   .post-content h4 {
-    font-size: 18px; }
+    font-size: 20.25px; }
     @media screen and (min-width: 800px) {
       .post-content h4 {
-        font-size: 20px; } }
+        font-size: 22.5px; } }
 
 .social-media-list {
   display: table;
