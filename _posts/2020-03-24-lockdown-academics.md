@@ -16,7 +16,7 @@ Over the past few weeks I have seen some academics take back control over their 
 
 ### № 1. Freshen up your writing regimen
 
-Especially for junior researchers like myself, writing and research are a centerpiece of everyday work. Why not use the extra time off some of the pressure related to our main tasks and make them more engaging? Here are some strategies to try out.
+Especially for junior researchers like myself, writing and research are a centerpiece of everyday work. Why not use the extra time off to ease the pressure of our most time-consuming tasks and make them more engaging? Here are some strategies to try out.
 
 1. <b>Organize a round of academic NaNoWriMo</b> in April with friends and co-workers. Nicole Roccas (<a href="https://medium.com/@nicole.marie.roccas/10-alternatives-to-nanowrimo-for-nonfiction-and-academic-writers-f4f5c6932283">in her 2017 post on Medium</a>) listed some ideas for academic NaNoWriMo projects to start with, including the following goals:  
 	- Write a full draft of a paper of a book chapter.  
