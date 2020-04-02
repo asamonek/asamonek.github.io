@@ -6,7 +6,7 @@ permalink: /papers/
 
 
 <details>
-  <summary>Logic, Language and Information</summary>
+  <summary><b>Logic, Language and Information</b></summary>
 
 <br>
 <ol>
@@ -20,7 +20,7 @@ permalink: /papers/
 
 
 <details>
-  <summary>Logic, Proof Theory and Computer Science</summary>
+  <summary><b>Logic, Proof Theory and Computer Science</b></summary>
 
 <br>
 <ol>
@@ -33,24 +33,11 @@ permalink: /papers/
 </details>
 
 
-<details>
-  <summary>Translations</summary>
-
-<br>
-<ol>
-<li><p>(Translation, German to Polish) <em>Über tautologien, in welchen keine variable mehr als zweimal vorkommt</em> (PL: <em>O tautologiach, w których żadna zmienna nie występuje więcej niż dwukrotnie</em>), Stanisław Jaśkowski, 1963, Zeitschrift für mathematische Logik und Grundlagen der Mathematik, vol. 9, pp. 219-229, (soon available online).</p></li>
-
-<li><p>(Translation, Polish to English) <em>O pewnym sposobie pojmowania teorji dedukcji</em> (EN: <em>On a certain manner of understanding deductive theories</em>), the transcript of a talk given by Jan Łukasiewicz on December 8, 1924, (soon available online).</p></li>
-
-</ol>
-
-
-</details> 
 
 
 
 <details>
-  <summary>Civil society and democracy in the CEE</summary>
+  <summary><b>Civil society and democracy in the CEE</b></summary>
 
 <br>
 <ol>
@@ -64,7 +51,7 @@ permalink: /papers/
 
 
 <details>
-  <summary>Privacy, data protection and surveillance</summary>
+  <summary><b>Privacy, data protection and surveillance</b></summary>
 
 <br>
 <ol>
@@ -77,7 +64,21 @@ permalink: /papers/
 </details> 
 
 <details>
-  <summary>Miscellaneous</summary>
+  <summary><b>Translations</b></summary>
+
+<br>
+<ol>
+<li><p>(Translation, German to Polish) <em>Über tautologien, in welchen keine variable mehr als zweimal vorkommt</em> (PL: <em>O tautologiach, w których żadna zmienna nie występuje więcej niż dwukrotnie</em>), Stanisław Jaśkowski, 1963, Zeitschrift für mathematische Logik und Grundlagen der Mathematik, vol. 9, pp. 219-229, (soon available online).</p></li>
+
+<li><p>(Translation, Polish to English) <em>O pewnym sposobie pojmowania teorji dedukcji</em> (EN: <em>On a certain manner of understanding deductive theories</em>), the transcript of a talk given by Jan Łukasiewicz on December 8, 1924, (soon available online).</p></li>
+
+</ol>
+
+
+</details> 
+
+<details>
+  <summary><b>Miscellaneous</b></summary>
 
 <br>
 <ol>
