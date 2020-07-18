@@ -6,15 +6,13 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _Philosophy of science and political science: methodological aspects of political theories_, Political Science Seminar, May 19, 2020, Institute of Political Science and International Relations, [Jagiellonian University](https://www.uj.edu.pl/), Kraków, Poland
+- (postponed) _The Logic of Learning: Formal Learning Systems and AI_, keynote talk at [ClojuTRE 2020](https://clojutre.org/2020/), October 8-9, 2020, Tampere, Finland
 
-- _Supervised learning vs learning with epistemic planning in probabilistic networks_, 3rd OLOFOS Workshop, [Clash between the scientific and the manifest image of the world ](https://clash.sciencesconf.org/), May 28 - 29, 2020, [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve  
-
-- _The Logic of Learning: Formal Learning Systems and AI_, keynote talk at [ClojuTRE 2020](https://clojutre.org/2020/), October 8-9, 2020, Tampere, Finland
-
-- (postponed)_How probabilistic networks can learn scientific concepts_, [4th Logic, Relativity and Beyond International Conference](https://conferences.renyi.hu/lrb20/home), June 17 - 21, 2020, Simontornya, Hungary, organized by the Rényi Institute   
+- (postponed) _How probabilistic networks can learn scientific concepts_, [4th Logic, Relativity and Beyond International Conference](https://conferences.renyi.hu/lrb20/home), June 17 - 21, 2020, Simontornya, Hungary, organized by the Rényi Institute   
 
 #### Refereed conference talks
+
+- _Supervised learning vs learning with epistemic planning in probabilistic networks_, 3rd OLOFOS Workshop, [Clash between the scientific and the manifest image of the world ](https://clash.sciencesconf.org/), May 28 - 29, 2020, [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve 
 
 - _Deriving explanations from interpretable machine learning models and reliable task solutions in formal learning theory_, May 7, 2019, [ExLog 2019 Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics](https://sites.google.com/view/exlog2019), May 6 - 8, 2019, [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
 
@@ -36,6 +34,8 @@ permalink: /talks/
 
 
 #### Selected seminar and invited talks
+
+- _Philosophy of science and political science: methodological aspects of political theories_, Political Science Seminar, May 19, 2020, Institute of Political Science and International Relations, [Jagiellonian University](https://www.uj.edu.pl/), Kraków, Poland
 
 - _Introduction to Complex Predicate Calculus for Databases_, December 19, 2019, joint talk with Olga Poller, [Seminar of the Section of Logical Rhetoric](https://filozofia.uj.edu.pl/pl_PL/pracownia-retoryki-logicznej/-/journal_content/56_INSTANCE_6gNtJ8CgcOC1/4371778/144142737), Jagiellonian University, Kraków
 

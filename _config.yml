@@ -15,7 +15,7 @@ minima:
     github:  asamonek
     rss: rss
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: asamonek
     # flickr:   jekyll
     # instagram: jekyll
     linkedin: asamonek
@@ -29,8 +29,6 @@ minima:
 
     # Mastodon instances
     mastodon:
-    - username: asamonek
-      instance: masthead.social
     - username: asamonek
       instance: chaos.social
 

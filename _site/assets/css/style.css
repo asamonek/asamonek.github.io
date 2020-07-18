@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 18px/1.5 "Computer Modern Serif";
+  font: 400 16px/1.5 "Computer Modern Serif";
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -55,7 +55,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 15.75px; }
+  font-size: 14px; }
 
 /**
  * Lists
@@ -96,7 +96,7 @@ blockquote {
   color: #828282;
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
-  font-size: 20.25px;
+  font-size: 18px;
   letter-spacing: -1px;
   font-style: italic; }
   blockquote > :last-child {
@@ -107,7 +107,7 @@ blockquote {
  */
 pre,
 code {
-  font-size: 16.875px;
+  font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
   background-color: #eef; }
@@ -193,11 +193,11 @@ table {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
   min-height: 55.95px;
-  line-height: 60.75px;
+  line-height: 54px;
   position: relative; }
 
 .site-title {
-  font-size: 29.25px;
+  font-size: 26px;
   font-weight: 300;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -275,7 +275,7 @@ table {
   padding: 30px 0; }
 
 .footer-heading {
-  font-size: 20.25px;
+  font-size: 18px;
   margin-bottom: 15px; }
 
 .contact-list,
@@ -284,7 +284,7 @@ table {
   margin-left: 0; }
 
 .footer-col-wrapper {
-  font-size: 16.875px;
+  font-size: 15px;
   color: #828282;
   margin-left: -15px; }
 
@@ -326,10 +326,10 @@ table {
   flex: 1 0 auto; }
 
 .page-heading {
-  font-size: 36px; }
+  font-size: 32px; }
 
 .post-list-heading {
-  font-size: 31.5px; }
+  font-size: 28px; }
 
 .post-list {
   margin-left: 0;
@@ -338,12 +338,12 @@ table {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 15.75px;
+  font-size: 14px;
   color: #828282; }
 
 .post-link {
   display: block;
-  font-size: 27px; }
+  font-size: 24px; }
 
 /**
  * Posts
@@ -353,31 +353,31 @@ table {
 
 .post-title,
 .post-content h1 {
-  font-size: 47.25px;
+  font-size: 42px;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (min-width: 800px) {
     .post-title,
     .post-content h1 {
-      font-size: 47.25px; } }
+      font-size: 42px; } }
 
 .post-content {
   margin-bottom: 30px; }
   .post-content h2 {
-    font-size: 31.5px; }
+    font-size: 28px; }
     @media screen and (min-width: 800px) {
       .post-content h2 {
-        font-size: 36px; } }
+        font-size: 32px; } }
   .post-content h3 {
-    font-size: 24.75px; }
+    font-size: 22px; }
     @media screen and (min-width: 800px) {
       .post-content h3 {
-        font-size: 29.25px; } }
+        font-size: 26px; } }
   .post-content h4 {
-    font-size: 20.25px; }
+    font-size: 18px; }
     @media screen and (min-width: 800px) {
       .post-content h4 {
-        font-size: 22.5px; } }
+        font-size: 20px; } }
 
 .social-media-list {
   display: table;
