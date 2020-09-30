@@ -6,6 +6,10 @@ permalink: /talks/
 
 #### Upcoming talks
 
+- _Combining vector space logic with a semantic link network_, November 3-4, 2020, [LXVI Krakow Conference on History of Logic (LXVI Konferencja Historii Logiki)](https://filozofia.uj.edu.pl/khl), November 3-4, 2020, Jagiellonian University, Poland
+
+- _What will it take for the machines to understand counterfactual conditionals?_, February 10, 2021, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
+
 - (postponed) _The Logic of Learning: Formal Learning Systems and AI_, keynote talk at [ClojuTRE 2020](https://clojutre.org/2020/), October 8-9, 2020, Tampere, Finland
 
 - (postponed) _How probabilistic networks can learn scientific concepts_, [4th Logic, Relativity and Beyond International Conference](https://conferences.renyi.hu/lrb20/home), June 17 - 21, 2020, Simontornya, Hungary, organized by the Rényi Institute   
