@@ -24,6 +24,7 @@ permalink: /activities/
 - [Deutsche Vereinigung für Mathematische Logik und für Grundlagenforschung der Exakten Wissenschaften (DVMLG)](https://www.math.uni-hamburg.de/home/loewe/DVMLG/index.html) (since 2019)
 - [The Association for Symbolic Logic](https://aslonline.org/) (since 2017)
 - [La Société de Philosophie Analytique](https://sopha.univ-paris1.fr/) (since 2018)
+- [The Scandinavian Logic Society](https://scandinavianlogic.org/) (since 2017)
 - [Internationale Vereinigung für Rechts und Sozialphilosophie](https://elibrary.steiner-verlag.de/journal/arsp), [Sekcja Polska IVR](http://ivr.org.pl/) (since 2019)
 - Youth Section, Internationale Vereinigung für Rechts und Sozialphilosophie  (2008 - 2012),     
   President of Youth Section in 2010 - 2012
@@ -37,6 +38,7 @@ permalink: /activities/
 
 ### Organising & volunteering
 
+- 2020, November 3-4: [LXVI Conference on the History of Logic (LXVI Konferencja Historii Logiki)](https://filozofia.uj.edu.pl/pl_PL/khl), Jagiellonian University, Kraków, Poland (organising committee member) 
 - 2020, July 11: [Let's Phi! Life After Philosophy Virtual Conference](https://knit.works/letsphi/) facilitated by [Knit](https://knit.works/) (organising team member)  
 - 2020, February 1-2: FOSDEM [Free and Open Source Software Developers' European Meeting](https://archive.fosdem.org/2020/), Brussels, Belgium (volunteer)  
 - 2019, August 2-3: [Heart of Clojure](https://heartofclojure.eu/), Leuven, Belgium (orga crew)  
