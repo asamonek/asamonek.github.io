@@ -146,12 +146,12 @@ Samonek, A. (2020). What is the future of European cyber security? Three princip
 </ul>
 </details> 
 <br>
-Samonek, A. (2019). Violation of privacy in migration control cecreases citizens’ liberties and public accountability. <i>History Notebooks (Prace Historyczne)</i>, 2019 (146 (3)), 637-647. DOI: 10.4467/20844069PH.19.036.10390.
+Samonek, A. (2019). Violation of privacy in migration control decreases citizens’ liberties and public accountability. <i>History Notebooks (Prace Historyczne)</i>, 2019 (146 (3)), 637-647. DOI: 10.4467/20844069PH.19.036.10390.
 <details>
   <summary>See BiBTeX data</summary>
   <xmp style="font-size: 9pt; white-space: pre-wrap;">
 @article{samonek2019privacyviolation,
-  title={Violation of privacy in migration control cecreases citizens’ liberties and public accountability},
+  title={Violation of privacy in migration control decreases citizens’ liberties and public accountability},
   author={Samonek, Aleksandra},
   journal={History Notebooks (Prace Historyczne)},
   volume={2019},
