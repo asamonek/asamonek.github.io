@@ -6,7 +6,7 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _Combining vector space logic with a semantic link network_, November 3-4, 2020, [LXVI Krakow Conference on History of Logic (LXVI Konferencja Historii Logiki)](https://filozofia.uj.edu.pl/khl), November 3-4, 2020, Jagiellonian University, Poland
+- _How robots use language and what it means for applying social robotics to language learning_, November 20, 2020, Social Robotics Lab seminar, AGH University of Science and Technology  
 
 - _What will it take for the machines to understand counterfactual conditionals?_, February 10, 2021, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
 
@@ -15,6 +15,8 @@ permalink: /talks/
 - (postponed) _How probabilistic networks can learn scientific concepts_, [4th Logic, Relativity and Beyond International Conference](https://conferences.renyi.hu/lrb20/home), June 17 - 21, 2020, Simontornya, Hungary, organized by the Rényi Institute   
 
 #### Refereed conference talks
+
+- _Combining vector space logic with a semantic link network_, November 3-4, 2020, [LXVI Krakow Conference on History of Logic (LXVI Konferencja Historii Logiki)](https://filozofia.uj.edu.pl/khl), November 3-4, 2020, Jagiellonian University, Poland
 
 - _Supervised learning vs learning with epistemic planning in probabilistic networks_, 3rd OLOFOS Workshop, [Clash between the scientific and the manifest image of the world ](https://clash.sciencesconf.org/), May 28 - 29, 2020, [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve 
 
