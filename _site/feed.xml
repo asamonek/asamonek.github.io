@@ -1,13 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-07T00:02:42+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aleksandra Samonek</title><author><name>Aleksandra Samonek</name></author><entry><title type="html">Social Robotics Lab Seminars: Fall Semester 2020/2021</title><link href="http://localhost:4000/events/2020/11/06/slr-seminars.html" rel="alternate" type="text/html" title="Social Robotics Lab Seminars: Fall Semester 2020/2021" /><published>2020-11-06T00:00:00+01:00</published><updated>2020-11-06T00:00:00+01:00</updated><id>http://localhost:4000/events/2020/11/06/slr-seminars</id><content type="html" xml:base="http://localhost:4000/events/2020/11/06/slr-seminars.html">&lt;p&gt;The seminars of the Social Robotics Lab in the Fall semester of 2020/2021 will take place on Fridays, 17:00-19:00 CET. The mettings will be held via Cisco Webex Meetings (invitation via email is necessary to join). Our website will be live soon. Meanwhile, you can find all information related to the seminars below.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-13T19:39:31+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aleksandra Samonek</title><author><name>Aleksandra Samonek</name></author><entry><title type="html">Social Robotics Lab Seminars: Fall Semester 2020/2021</title><link href="http://localhost:4000/events/2020/11/06/slr-seminars.html" rel="alternate" type="text/html" title="Social Robotics Lab Seminars: Fall Semester 2020/2021" /><published>2020-11-06T00:00:00+01:00</published><updated>2020-11-06T00:00:00+01:00</updated><id>http://localhost:4000/events/2020/11/06/slr-seminars</id><content type="html" xml:base="http://localhost:4000/events/2020/11/06/slr-seminars.html">&lt;p&gt;The seminars of the Social Robotics Lab in the Fall semester of 2020/2021 will take place on Fridays, 17:00-19:00 CET. The mettings will be held &lt;i&gt;via&lt;/i&gt; Cisco Webex Meetings (invitation via email is necessary to join).&lt;/p&gt;
+
+&lt;p&gt;The SLR website is currently in preparation. Meanwhile, you can find the information related to our seminars below.&lt;/p&gt;
 
 &lt;h3 id=&quot;seminar-times-and-venue&quot;&gt;Seminar times and venue&lt;/h3&gt;
 
-&lt;p&gt;&lt;b&gt;November 20, 2020 (Friday), 17:00-19:00 CET&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;november-20-2020-friday-1700-1900-cet&quot;&gt;November 20, 2020 (Friday), 17:00-19:00 CET&lt;br /&gt;&lt;/h4&gt;
 
-&lt;p&gt;&lt;b&gt;November 13, 2020 (Friday), 17:00-19:00 CET&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Speakers: Aleksandra Samonek, Iwona Przybył&lt;br /&gt;
+Chair: Basia Wziętek&lt;br /&gt;
+Note-taking: Bartłomiej Lechowicz&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;October 31, 2020 (Saturday), 17:00-19:00 CET&lt;/b&gt;&lt;br /&gt;
-Kickoff meeting&lt;br /&gt;&lt;/p&gt;</content><author><name>Aleksandra Samonek</name></author><summary type="html">The seminars of the Social Robotics Lab in the Fall semester of 2020/2021 will take place on Fridays, 17:00-19:00 CET. The mettings will be held via Cisco Webex Meetings (invitation via email is necessary to join). Our website will be live soon. Meanwhile, you can find all information related to the seminars below.</summary></entry><entry><title type="html">66th Conference on the History of Logic (LXVI Konferencja Historii Logiki) in Kraków, Poland</title><link href="http://localhost:4000/events/2020/10/28/khl-66.html" rel="alternate" type="text/html" title="66th Conference on the History of Logic (LXVI Konferencja Historii Logiki) in Kraków, Poland" /><published>2020-10-28T00:00:00+01:00</published><updated>2020-10-28T00:00:00+01:00</updated><id>http://localhost:4000/events/2020/10/28/khl-66</id><content type="html" xml:base="http://localhost:4000/events/2020/10/28/khl-66.html">&lt;p&gt;Oficjalna strona konferencji: &lt;a href=&quot;https://filozofia.uj.edu.pl/khl&quot;&gt;https://filozofia.uj.edu.pl/khl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Aleksandra Samonek, &lt;i&gt;How robots use language and what it means for applying social robotics to language learning&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Recommended readings:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;van den Berghe, R., Verhagen, J., Oudgenoeg-Paz, O., Van der Ven, S., &amp;amp; Leseman, P. (2019). Social robots for language learning: A review. Review of Educational Research, 89(2), 259-295.
+URL: &lt;a href=&quot;https://journals.sagepub.com/doi/full/10.3102/0034654318821286&quot;&gt;https://journals.sagepub.com/doi/full/10.3102/0034654318821286&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tellex, S., Gopalan, N., Kress-Gazit, H., &amp;amp; Matuszek, C. (2020). Robots that use language. Annual Review of Control, Robotics, and Autonomous Systems, 3, 25-55. URL:
+&lt;a href=&quot;https://www.annualreviews.org/doi/abs/10.1146/annurev-control-101119-071628&quot;&gt;https://www.annualreviews.org/doi/abs/10.1146/annurev-control-101119-071628&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;november-13-2020-friday-1700-1900-cet&quot;&gt;November 13, 2020 (Friday), 17:00-19:00 CET&lt;br /&gt;&lt;/h4&gt;
+
+&lt;p&gt;Speakers: Sharon Spisak, Paulina Zguda&lt;br /&gt;
+Chair: Anna Kołota&lt;br /&gt;
+Note-taking: Paulina Zguda&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Sharon Spisak, &lt;i&gt;Why do we need cognitively biased robots?&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;
+Sharon introduced the biases used in the human-robot interaction  research by Biswas and Murray, together with two sets of experiments (ERWIN, MyKeepon).&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Recommended readings:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Biswas, M., &amp;amp; Murray, J. C. (2015, September). Towards an imperfect robot for long-term companionship: case studies using cognitive biases. In 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 5978-5983). IEEE. URL: &lt;a href=&quot;http://eprints.lincoln.ac.uk/19657/1/IROS15_Final_Biswas_Murray.pdf&quot;&gt;http://eprints.lincoln.ac.uk/19657/1/IROS15_Final_Biswas_Murray.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Paulina Zguda, Anna Kołota, &lt;i&gt;On the Role of Trust in Child-Robot Interaction&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;
+Anna and Paulina gave an introduction to the 2019 project conducted together with Bipin Indurkhya.They investigated the process of building trust in children towards robots and how it is influenced by the children’s perception of the robot during the first encounter.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;october-31-2020-saturday-1700-1900-cet&quot;&gt;October 31, 2020 (Saturday), 17:00-19:00 CET&lt;/h4&gt;
+
+&lt;p&gt;Kickoff meeting&lt;br /&gt;&lt;/p&gt;</content><author><name>Aleksandra Samonek</name></author><summary type="html">The seminars of the Social Robotics Lab in the Fall semester of 2020/2021 will take place on Fridays, 17:00-19:00 CET. The mettings will be held via Cisco Webex Meetings (invitation via email is necessary to join).</summary></entry><entry><title type="html">66th Conference on the History of Logic (LXVI Konferencja Historii Logiki) in Kraków, Poland</title><link href="http://localhost:4000/events/2020/10/28/khl-66.html" rel="alternate" type="text/html" title="66th Conference on the History of Logic (LXVI Konferencja Historii Logiki) in Kraków, Poland" /><published>2020-10-28T00:00:00+01:00</published><updated>2020-10-28T00:00:00+01:00</updated><id>http://localhost:4000/events/2020/10/28/khl-66</id><content type="html" xml:base="http://localhost:4000/events/2020/10/28/khl-66.html">&lt;p&gt;Oficjalna strona konferencji: &lt;a href=&quot;https://filozofia.uj.edu.pl/khl&quot;&gt;https://filozofia.uj.edu.pl/khl&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;platforma-online-oraz-czas-wydarzenia&quot;&gt;Platforma online oraz czas wydarzenia&lt;/h3&gt;
 
