@@ -12,6 +12,13 @@ The SLR website is currently in preparation. Meanwhile, you can find the informa
 
 ### Seminar times and venue
 
+#### <u>December 4, 2020 (Friday), 17:00-19:00 CET</u>
+
+Speakers: Magdalena Kaczmarek, Bartłomiej Lechowicz<br>
+Chair: Aleksandra Samonek<br>
+Note-taking: Iwona Przybył<br>
+
+
 #### <u>November 20, 2020 (Friday), 17:00-19:00 CET</u>
 
 Speakers: Aleksandra Samonek, Iwona Przybył<br>
