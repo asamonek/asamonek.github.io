@@ -6,8 +6,7 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _How robots use language and what it means for applying social robotics to language learning_, November 20, 2020, Social Robotics Lab seminar, AGH University of Science and Technology  
-
+- _Between language modelling and social science. Python for interdisciplinary research_, December 11-12, 2020 [PyCode Conference 2020, December 11-12, 2020](https://pycode-conference.org/) (online)  
 - _What will it take for the machines to understand counterfactual conditionals?_, February 10, 2021, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
 
 - (postponed) _The Logic of Learning: Formal Learning Systems and AI_, keynote talk at [ClojuTRE 2020](https://clojutre.org/2020/), October 8-9, 2020, Tampere, Finland
@@ -40,6 +39,8 @@ permalink: /talks/
 
 
 #### Selected seminar and invited talks
+
+- _How robots use language and what it means for applying social robotics to language learning_, November 20, 2020, Social Robotics Lab seminar, AGH University of Science and Technology 
 
 - _Philosophy of science and political science: methodological aspects of political theories_, Political Science Seminar, May 19, 2020, Institute of Political Science and International Relations, [Jagiellonian University](https://www.uj.edu.pl/), Kraków, Poland
 
