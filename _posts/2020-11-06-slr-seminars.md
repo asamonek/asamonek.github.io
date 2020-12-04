@@ -10,31 +10,51 @@ The seminars of the Social Robotics Lab in the Fall semester of 2020/2021 will t
 
 The SLR website is currently in preparation. Meanwhile, you can find the information related to our seminars below.
 
-### Seminar times and venue
+## Seminar times and talks
 
-#### <u>December 4, 2020 (Friday), 17:00-19:00 CET</u>
+### <u>January 8, 2021 (Friday), 17:00-19:00 CET</u>
+
+Speakers: Anna Chudzik, Aleksandra Samonek<br>
+Chair: Magdalena Kaczmarek<br>
+Note-taking: Anna Kołota<br>
+
+### <u>December 18, 2020 (Friday), 17:00-19:00 CET</u>
+
+Speakers: Anna Kołbasa, Barbara Wziętek<br>
+Chair: Sharon Spisak<br>
+Note-taking: Iwona Przybył<br>
+
+### <u>December 4, 2020 (Friday), 17:00-19:00 CET</u>
 
 Speakers: Magdalena Kaczmarek, Bartłomiej Lechowicz<br>
 Chair: Aleksandra Samonek<br>
-Note-taking: Iwona Przybył<br>
+Note-taking: Anna Chudzik<br>
 
+<b>Magdalena Kaczmarek, <i>CoZ: A crowd-powered system for social robotics</i></b><br>
 
-#### <u>November 20, 2020 (Friday), 17:00-19:00 CET</u>
+<b>Recommended readings:</b>
+- Abbas, T., Khan, V.-J., Gadiraju, U., Barakova, E., & Markopoulos, P. (2020). Crowd of Oz: A Crowd-powered Teleoperation System for Enhanced Human-Robot Conversations. Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction, 81–83. URL: [https://doi.org/10.1145/3371382.3378335](https://doi.org/10.1145/3371382.3378335)  
+- Abbas, T., Khan, V.-J., & Markopoulos, P. (2020). CoZ: A crowd-powered system for social robotics. SoftwareX, 11, 100421. URL: [https://doi.org/10.1016/j.softx.2020.100421](https://doi.org/10.1016/j.softx.2020.100421)  
+
+<b>Bartłomiej Lechowicz, <i>The impact of COVID-19 on HRI research</i></b><br>
+
+<b>Recommended readings:</b>
+- Feil-Seifer, D., Haring, K. S., Rossi, S., Wagner, A. R., & Williams, T. (2020). Where to next? The impact of COVID-19 on human-robot interaction research. ACM Transactions on Human-Robot Interaction (THRI), 10(1), 1-7. URL: [https://dl.acm.org/doi/pdf/10.1145/3405450](https://dl.acm.org/doi/pdf/10.1145/3405450)  
+
+### <u>November 20, 2020 (Friday), 17:00-19:00 CET</u>
 
 Speakers: Aleksandra Samonek, Iwona Przybył<br>
-Chair: Basia Wziętek<br>
-Note-taking: Bartłomiej Lechowicz<br>
+Chair: Bartłomiej Lechowicz<br>
+Note-taking: Barbara Wziętek<br>
 
 <b>Aleksandra Samonek, <i>How robots use language and what it means for applying social robotics to language learning</i></b><br>
 
 <b>Recommended readings:</b>
-- van den Berghe, R., Verhagen, J., Oudgenoeg-Paz, O., Van der Ven, S., & Leseman, P. (2019). Social robots for language learning: A review. Review of Educational Research, 89(2), 259-295.
-URL: [https://journals.sagepub.com/doi/full/10.3102/0034654318821286](https://journals.sagepub.com/doi/full/10.3102/0034654318821286)  
-- Tellex, S., Gopalan, N., Kress-Gazit, H., & Matuszek, C. (2020). Robots that use language. Annual Review of Control, Robotics, and Autonomous Systems, 3, 25-55. URL:
-[https://www.annualreviews.org/doi/abs/10.1146/annurev-control-101119-071628](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-101119-071628)
+- van den Berghe, R., Verhagen, J., Oudgenoeg-Paz, O., Van der Ven, S., & Leseman, P. (2019). Social robots for language learning: A review. Review of Educational Research, 89(2), 259-295. URL: [https://journals.sagepub.com/doi/full/10.3102/0034654318821286](https://journals.sagepub.com/doi/full/10.3102/0034654318821286)  
+- Tellex, S., Gopalan, N., Kress-Gazit, H., & Matuszek, C. (2020). Robots that use language. Annual Review of Control, Robotics, and Autonomous Systems, 3, 25-55. URL: [https://www.annualreviews.org/doi/abs/10.1146/annurev-control-101119-071628](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-101119-071628)
 <br>
 
-#### <u>November 13, 2020 (Friday), 17:00-19:00 CET</u>
+### <u>November 13, 2020 (Friday), 17:00-19:00 CET</u>
 
 Speakers: Sharon Spisak, Paulina Zguda<br>
 Chair: Anna Kołota<br>
@@ -50,6 +70,6 @@ Sharon introduced the biases used in the human-robot interaction  research by Bi
 Anna and Paulina gave an introduction to the 2019 project conducted together with Bipin Indurkhya.They investigated the process of building trust in children towards robots and how it is influenced by the children’s perception of the robot during the first encounter.
 <br>
 
-#### <u>October 31, 2020 (Saturday), 17:00-19:00 CET</u>
+### <u>October 31, 2020 (Saturday), 17:00-19:00 CET</u>
 
 Kickoff meeting<br>
