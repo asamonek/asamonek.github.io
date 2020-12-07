@@ -6,7 +6,7 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _Between language modelling and social science. Python for interdisciplinary research_, December 11-12, 2020, [PyCode Conference 2020, December 11-12, 2020](https://pycode-conference.org/) (online)  
+- _Between language modelling and social science. Python for interdisciplinary research_, December 11, 2020 (17:35-18:05), [PyCode Conference 2020, December 11-12, 2020](https://pycode-conference.org/) (online)  
 
 - _What will it take for the machines to understand counterfactual conditionals?_, February 10, 2021, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
 
