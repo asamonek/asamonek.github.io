@@ -20,7 +20,7 @@ Please send me an email if you would like to receive the link to our meeting.
 
 ## Reading group times and readings
 
-### <u>December 16, 2020 (Wednesday)</u>
+### <u>January 13, 2021 (Wednesday)</u>
 
 Time:<br>
 17:00 - 19:00 CET (Brussels)<br>
