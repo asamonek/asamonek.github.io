@@ -6,7 +6,7 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _Between language modelling and social science. Python for interdisciplinary research_, December 11, 2020 (17:30-18:00), [PyCode Conference 2020, December 11-12, 2020](https://pycode-conference.org/) (online)  
+- _Modeling inductive inference on linguistic content using dictionaries and vectors_, January 14, 2021, 3rd [UNESCO World Logic Day](http://www.wld.cipsh.international/index.html), a workshop organized by the Rényi Institute of Mathematics, Budapest  
 
 - _What will it take for the machines to understand counterfactual conditionals?_, February 10, 2021, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
 
@@ -15,6 +15,8 @@ permalink: /talks/
 - (postponed) _How probabilistic networks can learn scientific concepts_, [4th Logic, Relativity and Beyond International Conference](https://conferences.renyi.hu/lrb20/home), June 17 - 21, 2020, Simontornya, Hungary, organized by the Rényi Institute   
 
 #### Refereed conference talks
+
+- _Between language modelling and social science. Python for interdisciplinary research_, December 11, 2020 (17:30-18:00), [PyCode Conference 2020, December 11-12, 2020](https://pycode-conference.org/) (online)  
 
 - _Combining vector space logic with a semantic link network_, November 3-4, 2020, [LXVI Krakow Conference on History of Logic (LXVI Konferencja Historii Logiki)](https://filozofia.uj.edu.pl/khl), November 3-4, 2020, Jagiellonian University, Poland
 
