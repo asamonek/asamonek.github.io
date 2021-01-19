@@ -6,8 +6,6 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _Modeling inductive inference on linguistic content using dictionaries and vectors_, January 14, 2021, 3rd [UNESCO World Logic Day](http://www.wld.cipsh.international/index.html), a workshop organized by the Rényi Institute of Mathematics, Budapest  
-
 - _What will it take for the machines to understand counterfactual conditionals?_, February 10, 2021, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
 
 - (postponed) _The Logic of Learning: Formal Learning Systems and AI_, keynote talk at [ClojuTRE 2020](https://clojutre.org/2020/), October 8-9, 2020, Tampere, Finland
@@ -42,6 +40,8 @@ permalink: /talks/
 
 
 #### Selected seminar and invited talks
+
+- _Modeling inductive inference on linguistic content using dictionaries and vectors_, January 14, 2021, 3rd [UNESCO World Logic Day](http://www.wld.cipsh.international/index.html), a workshop organized by the Rényi Institute of Mathematics, Budapest  [(program)](https://conferences.renyi.hu/wld3)  
 
 - _How robots use language and what it means for applying social robotics to language learning_, November 20, 2020, Social Robotics Lab seminar, AGH University of Science and Technology 
 

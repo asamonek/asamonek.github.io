@@ -38,6 +38,7 @@ permalink: /activities/
 
 ### Organising & volunteering
 
+- 2021, February 6-7: FOSDEM [Free and Open Source Software Developers' European Meeting](https://fosdem.org/2021/), online (volunteer)  
 - 2020, November 3-4: [LXVI Conference on the History of Logic (LXVI Konferencja Historii Logiki)](https://filozofia.uj.edu.pl/pl_PL/khl), Jagiellonian University, Kraków, Poland (organising committee member) 
 - 2020, July 11: [Let's Phi! Life After Philosophy Virtual Conference](https://knit.works/letsphi/) facilitated by [Knit](https://knit.works/) (organising team member)  
 - 2020, February 1-2: FOSDEM [Free and Open Source Software Developers' European Meeting](https://archive.fosdem.org/2020/), Brussels, Belgium (volunteer)  
