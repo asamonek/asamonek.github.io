@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-05T20:48:26+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aleksandra Samonek</title><author><name>Aleksandra Samonek</name></author><entry><title type="html">Clojure for the Brave and True: meetups for beginner Clojurians</title><link href="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html" rel="alternate" type="text/html" title="Clojure for the Brave and True: meetups for beginner Clojurians" /><published>2021-01-01T00:00:00+01:00</published><updated>2021-01-01T00:00:00+01:00</updated><id>http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup</id><content type="html" xml:base="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html">&lt;p&gt;&lt;i&gt;Hello, everyone!&lt;/i&gt; Starting this January, we will be reading &lt;i&gt;Clojure for the Brave and True&lt;/i&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-20T13:13:03+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aleksandra Samonek</title><author><name>Aleksandra Samonek</name></author><entry><title type="html">Clojure for the Brave and True: meetups for beginner Clojurians</title><link href="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html" rel="alternate" type="text/html" title="Clojure for the Brave and True: meetups for beginner Clojurians" /><published>2021-01-01T00:00:00+01:00</published><updated>2021-01-01T00:00:00+01:00</updated><id>http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup</id><content type="html" xml:base="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html">&lt;p&gt;&lt;i&gt;Hello, everyone!&lt;/i&gt; Starting this January, we will be reading &lt;i&gt;Clojure for the Brave and True&lt;/i&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;[CBT]&lt;/b&gt; Higginbotham, D. (2015). Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer. No Starch Press.&lt;/p&gt;
 
@@ -8,9 +8,37 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
 
 &lt;p&gt;&lt;b&gt;About the meeting times.&lt;/b&gt; I did my best to find a time slot which would fit in with the maximum number of our time zones, but we may change it if it turns out that there is a better time which suits more people. I would also be willing to set up two meetings for each chapter of the book, so that none of the interested persons is excluded from reading along. Please let me know in case your time zone and/or work schedule don’t allow you to join in as things are set up now.&lt;/p&gt;
 
+&lt;h2 id=&quot;access-links&quot;&gt;Access links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://discord.gg/9tQpxzz99T&quot;&gt;Clojurians Discord server (open membership)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://teams.microsoft.com/l/team/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/conversations?groupId=2a3d4d2a-2c8d-416c-a6fe-003882aec9c9&amp;amp;tenantId=eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb&quot;&gt;Clojurians team on MS Teams&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;reading-group-times-and-readings&quot;&gt;Reading group times and readings&lt;/h2&gt;
 
+&lt;h3 id=&quot;february-3-2021-wednesday&quot;&gt;&lt;u&gt;February 3, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
+
+&lt;p&gt;Time:&lt;br /&gt;
+17:00 - 19:00 CET (Brussels)&lt;br /&gt;
+16:00 - 18:00 GMT (London)&lt;br /&gt;
+11:00 - 13:00 GMT-5 (New York)&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Readings:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CBT chapter 4: Core functions in depth (pp. 71-96)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Exercises:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1-4, p. 96 CBT&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;january-20-2021-wednesday&quot;&gt;&lt;u&gt;January 20, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
+
+&lt;h2 id=&quot;join-meeting-via-ms-teams&quot;&gt;&lt;a href=&quot;https://teams.microsoft.com/l/meetup-join/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/1609875147494?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d&quot;&gt;Join meeting via MS Teams&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;join-our-discord-server&quot;&gt;&lt;a href=&quot;https://discord.gg/9tQpxzz99T&quot;&gt;Join our Discord server&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Time:&lt;br /&gt;
 17:00 - 19:00 CET (Brussels)&lt;br /&gt;
@@ -31,7 +59,7 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
 
 &lt;p&gt;The first meeting will be dedicated to environment set-up, so we will cover the entire part I of the book (2 chapters). There are no exercises in part I, but if you have the time, try and set up your environment and play around with Emacs and the REPL.&lt;/p&gt;
 
-&lt;h2 id=&quot;join-meeting-via-ms-teams&quot;&gt;&lt;a href=&quot;https://teams.microsoft.com/l/meetup-join/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/1609875147494?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d&quot;&gt;Join meeting via MS Teams&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://teams.microsoft.com/l/meetup-join/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/1609875147494?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d&quot;&gt;Join meeting via MS Teams&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Time:&lt;br /&gt;
 17:00 - 19:00 CET (Brussels)&lt;br /&gt;
@@ -53,7 +81,7 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
 &lt;p&gt;&lt;a href=&quot;https://calendar.google.com/calendar/ical/r91io5fcbcg2jpl6ba32qe0ofg%40group.calendar.google.com/public/basic.ics&quot;&gt;Add schedule to iCal&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://calendar.google.com/calendar/embed?src=r91io5fcbcg2jpl6ba32qe0ofg%40group.calendar.google.com&amp;amp;ctz=Asia%2FKolkata&quot;&gt;Schedule on Google Calendar&lt;/a&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;https://calendar.google.com/calendar/embed?src=r91io5fcbcg2jpl6ba32qe0ofg%40group.calendar.google.com&amp;amp;ctz=Asia%2FKolkata&quot; style=&quot;border: 0&quot; width=&quot;800&quot; height=&quot;600&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</content><author><name>Aleksandra Samonek</name></author><summary type="html">Hello, everyone! Starting this January, we will be reading Clojure for the Brave and True.</summary></entry><entry><title type="html">Formal Learning Theory: a bi-weekly online reading group 2020/2021</title><link href="http://localhost:4000/events/2020/12/08/learning-theory-reading-group.html" rel="alternate" type="text/html" title="Formal Learning Theory: a bi-weekly online reading group 2020/2021" /><published>2020-12-08T00:00:00+01:00</published><updated>2020-12-08T00:00:00+01:00</updated><id>http://localhost:4000/events/2020/12/08/learning-theory-reading-group</id><content type="html" xml:base="http://localhost:4000/events/2020/12/08/learning-theory-reading-group.html">&lt;p&gt;Starting December 2020, we will be reading &lt;i&gt;Systems that learn: an introduction to learning theory&lt;/i&gt; by Jain, Osherson, Royer and Sharma.&lt;/p&gt;
+&lt;iframe src=&quot;https://calendar.google.com/calendar/embed?src=r91io5fcbcg2jpl6ba32qe0ofg%40group.calendar.google.com&amp;amp;ctz=Asia%2FKolkata&quot; style=&quot;border: 0&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</content><author><name>Aleksandra Samonek</name></author><summary type="html">Hello, everyone! Starting this January, we will be reading Clojure for the Brave and True.</summary></entry><entry><title type="html">Formal Learning Theory: a bi-weekly online reading group 2020/2021</title><link href="http://localhost:4000/events/2020/12/08/learning-theory-reading-group.html" rel="alternate" type="text/html" title="Formal Learning Theory: a bi-weekly online reading group 2020/2021" /><published>2020-12-08T00:00:00+01:00</published><updated>2020-12-08T00:00:00+01:00</updated><id>http://localhost:4000/events/2020/12/08/learning-theory-reading-group</id><content type="html" xml:base="http://localhost:4000/events/2020/12/08/learning-theory-reading-group.html">&lt;p&gt;Starting December 2020, we will be reading &lt;i&gt;Systems that learn: an introduction to learning theory&lt;/i&gt; by Jain, Osherson, Royer and Sharma.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;[STL2]&lt;/b&gt; Jain, S., Osherson, D., Royer, J. S., &amp;amp; Sharma, A. (1999). Systems that learn: an introduction to learning theory. MIT press.&lt;/p&gt;
 
