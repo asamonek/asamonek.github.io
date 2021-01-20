@@ -18,13 +18,13 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
 
 ## Access links
 
-- <a href="https://discord.gg/9tQpxzz99T">Clojurians Discord server (open membership)</a>  
-- <a href="https://teams.microsoft.com/l/team/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/conversations?groupId=2a3d4d2a-2c8d-416c-a6fe-003882aec9c9&tenantId=eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb">Clojurians team on MS Teams</a>  
+- <a href="https://discord.gg/9tQpxzz99T">Brave Clojurians Discord server (open membership)</a>  
+- (abandoned in favor of Discord) <a href="https://teams.microsoft.com/l/team/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/conversations?groupId=2a3d4d2a-2c8d-416c-a6fe-003882aec9c9&tenantId=eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb">Brave Clojurians team on MS Teams</a>  
 
 
 ## Reading group times and readings
 
-### <u>February 3, 2021 (Wednesday)</u>
+### <u>February 17, 2021 (Wednesday)</u>
 
 Time:<br>
 17:00 - 19:00 CET (Brussels)<br>
@@ -37,9 +37,25 @@ Readings:
 Exercises:
 - 1-4, p. 96 CBT 
 
+### <u>February 3, 2021 (Wednesday)</u>
+
+From February 3 onwards we will be meeting through Discord (instead of MS Teams):<br>
+## <a href="https://discord.gg/9tQpxzz99T">Join the Brave Clojurians Discord Server (open membership)</a>
+
+Time:<br>
+17:00 - 19:00 CET (Brussels)<br>
+16:00 - 18:00 GMT (London)<br>
+11:00 - 13:00 GMT-5 (New York)<br>
+
+Readings:
+- CBT chapter 3: Do things: a Clojure crash course, part 2 (pp. 48-69)   
+
+Exercises:
+- 1-6, pp. 69-70 CBT
+
 ### <u>January 20, 2021 (Wednesday)</u>
 
-## <a href="https://teams.microsoft.com/l/meetup-join/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/1609875147494?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d">Join meeting via MS Teams</a>
+<a href="https://teams.microsoft.com/l/meetup-join/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/1609875147494?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d">Join meeting via MS Teams</a>
 
 ## <a href="https://discord.gg/9tQpxzz99T">Join our Discord server</a>
 
