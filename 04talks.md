@@ -6,11 +6,11 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _What will it take for the machines to understand counterfactual conditionals?_, February 10, 2021, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
+- _What will it take for machines to understand counterfactual conditionals?_, February 10, 2021, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
+
+- _How probabilistic networks can learn scientific concepts_, July 14, 2021, [4th Logic, Relativity and Beyond International Conference](https://conferences.renyi.hu/lrb20/home), July 14-17, 2021 (originally planned for June 17-21, 2020, Simontornya, Hungary), organized by the Rényi Institute (online)  
 
 - (postponed) _The Logic of Learning: Formal Learning Systems and AI_, keynote talk at [ClojuTRE 2020](https://clojutre.org/2020/), October 8-9, 2020, Tampere, Finland
-
-- (postponed) _How probabilistic networks can learn scientific concepts_, [4th Logic, Relativity and Beyond International Conference](https://conferences.renyi.hu/lrb20/home), June 17 - 21, 2020, Simontornya, Hungary, organized by the Rényi Institute   
 
 #### Refereed conference talks
 
@@ -18,11 +18,11 @@ permalink: /talks/
 
 - _Combining vector space logic with a semantic link network_, November 3-4, 2020, [LXVI Krakow Conference on History of Logic (LXVI Konferencja Historii Logiki)](https://filozofia.uj.edu.pl/khl), November 3-4, 2020, Jagiellonian University, Poland
 
-- _Supervised learning vs learning with epistemic planning in probabilistic networks_, 3rd OLOFOS Workshop, [Clash between the scientific and the manifest image of the world ](https://clash.sciencesconf.org/), May 28 - 29, 2020, [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve 
+- _Supervised learning vs learning with epistemic planning in probabilistic networks_, 3rd OLOFOS Workshop, [Clash between the scientific and the manifest image of the world ](https://clash.sciencesconf.org/), May 28-29, 2020, [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve 
 
-- _Deriving explanations from interpretable machine learning models and reliable task solutions in formal learning theory_, May 7, 2019, [ExLog 2019 Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics](https://sites.google.com/view/exlog2019), May 6 - 8, 2019, [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
+- _Deriving explanations from interpretable machine learning models and reliable task solutions in formal learning theory_, May 7, 2019, [ExLog 2019 Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics](https://sites.google.com/view/exlog2019), May 6-8, 2019, [Université catholique de Louvain](https://uclouvain.be/fr/index.html), Louvain-la-Neuve
 
-- _Focusing proofs and logics for models of computation_, April 11, 2019, [4th Conference on Artificial Intelligence and Theorem Proving AITP 2019](http://aitp-conference.org/2019/), April 7 - 12, 2019, Obergurgl Conference Center of the University of Innsbruck
+- _Focusing proofs and logics for models of computation_, April 11, 2019, [4th Conference on Artificial Intelligence and Theorem Proving AITP 2019](http://aitp-conference.org/2019/), April 7-12, 2019, Obergurgl Conference Center of the University of Innsbruck
 
 - _About the Polish translation of Jaśkowski's paper entitled "On tautologies in which no variable occurs more than twice"_, September 26, 2018, [9th Non-Classical Logic. Theory and Applications](http://ncl.umk.pl/LNK18/lnk18_en.html), Department of Logic at Nicolaus Copernicus University in Toruń
 
@@ -34,9 +34,9 @@ permalink: /talks/
 
 #### Poster presentations
 
-- _Dictionary-based learning of conditionals_, a poster for [Conditionals in Paris – logic, linguistics and psychology](https://conditionals19.sciencesconf.org/), June 3 - 7, 2019, INALCO, Paris [ [Download Poster] ](/papers/190602ASAMONEK.pdf)
+- _Dictionary-based learning of conditionals_, a poster for [Conditionals in Paris – logic, linguistics and psychology](https://conditionals19.sciencesconf.org/), June 3-7, 2019, INALCO, Paris [ [Download Poster] ](/papers/190602ASAMONEK.pdf)
 
-- _Focused proof systems and their automatic generation_, a poster for [1st International Summer School on Proof Theory](http://www.proofsociety.org/2018/05/05/summer-school-on-proof-theory/), September 2 - 5, 2018, Universiteit Gent
+- _Focused proof systems and their automatic generation_, a poster for [1st International Summer School on Proof Theory](http://www.proofsociety.org/2018/05/05/summer-school-on-proof-theory/), September 2-5, 2018, Universiteit Gent
 
 
 #### Selected seminar and invited talks
