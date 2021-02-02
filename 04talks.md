@@ -30,7 +30,12 @@ permalink: /talks/
 
 - _What Poincare's conventional geometry means for anti-exceptionalism of logical calculi_, September 15, 2018, [Colloquium Logicum 2018](https://www.cl2018.uni-bayreuth.de/en/), Deutsche Vereinigung für Mathematische Logik und für Grundlagenforschung in den exakten Wissenschaften (DVMLG), University of Bayreuth, Germany  
 
-- _On what anti-exceptionalism can do for the logic of conditionals_, July 3, 2018, [Congrès de la Société de philosophie analytique (SoPhA)](https://sopha2018.sciencesconf.org/), Université catholique de Louvain
+- _On what anti-exceptionalism can do for the logic of conditionals_, July 3, 2018, [Congrès de la Société de philosophie analytique (SoPhA)](https://sopha2018.sciencesconf.org/), Université catholique de Louvain  
+
+- _Obtaining probabilistic semantics for conditional statements using van Fraassen’s method_, November 10, 2017, [LXIII Krakow Conference on History of Logic (LXIII Krakowska Konferencja Logiki „Historia i Perspektywy” dedykowana pamięci Profesora Marcina Mostowskiego)](https://filozofia.uj.edu.pl/khl), November 9-10, 2017, Jagiellonian University, Poland  
+
+- _Goal directed proofs and diagrams suitable for applications in the philosophy of science_, August 25, 2017, "Logic, Relativity and Beyond" 3rd Conference Honoring Hajnal Andréka’s 70th birthday, August 23-27, Budapest  
+
 
 #### Poster presentations
 
@@ -43,7 +48,7 @@ permalink: /talks/
 
 - _Modeling inductive inference on linguistic content using dictionaries and vectors_, January 14, 2021, 3rd [UNESCO World Logic Day](http://www.wld.cipsh.international/index.html), a workshop organized by the Rényi Institute of Mathematics, Budapest  [(program)](https://conferences.renyi.hu/wld3)  
 
-- _How robots use language and what it means for applying social robotics to language learning_, November 20, 2020, Social Robotics Lab seminar, AGH University of Science and Technology 
+- _How robots use language and what it means for applying social robotics to language learning_, November 20, 2020, Social Robotics Lab seminar, AGH University of Science and Technology (online)
 
 - _Philosophy of science and political science: methodological aspects of political theories_, Political Science Seminar, May 19, 2020, Institute of Political Science and International Relations, [Jagiellonian University](https://www.uj.edu.pl/), Kraków, Poland
 
@@ -61,5 +66,7 @@ permalink: /talks/
 
 - _Modes of thinking and the logic of conditionals. Rethinking the Oswald sentence_, May 24, 2018, Munich Center for Mathematical Philosophy (MCMP) Work In Progress Seminar, Ludwig-Maximilians-Universität München  
 
-- _Modality and counterfactuality_, September 14, 2017, [CLAW-CEFISES Workshop](https://hiw.kuleuven.be/clps/events/agenda/claw-cefises-workshop), KULeuven, Belgium
+- _Modality and counterfactuality_, September 14, 2017, [CLAW-CEFISES Workshop](https://hiw.kuleuven.be/clps/events/agenda/claw-cefises-workshop), KULeuven
+
+- _A new way of thinking about conditionals_, December 14, 2017, Work In Progress Seminar, Universität Salzburg
 

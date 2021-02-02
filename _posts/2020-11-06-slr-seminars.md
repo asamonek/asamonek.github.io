@@ -12,9 +12,21 @@ The SLR website is currently in preparation. Meanwhile, you can find the informa
 
 ## Seminar times and talks
 
+### <u>February 12, 2021 (Friday), 17:00-19:00 CET</u>
+
+Speaker: Anna Kołbasa<br>
+Chair: Paulina Zguda<br>
+Note-taking: Sharon Spisak<br>
+
+### <u>January 22, 2021 (Friday), 17:30-19:00 CET</u>
+
+Speaker: Paulina Zguda<br>
+Chair: Ania Chudzik<br>
+Note-taking: Anna Kołbasa<br>
+
 ### <u>January 8, 2021 (Friday), 17:00-19:00 CET</u>
 
-Speakers: Anna Chudzik, Aleksandra Samonek<br>
+Speaker: Anna Chudzik<br>
 Chair: Magdalena Kaczmarek<br>
 Note-taking: Anna Kołota<br>
 
