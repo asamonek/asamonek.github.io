@@ -2,7 +2,7 @@
 
 // Define defaults for each variable.
 
-$base-font-family: "Computer Modern Serif" !default;
+$base-font-family: Helvetica !default; /* "Computer Modern Serif" */
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -12,12 +12,12 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #828282 !default;
+$brand-color:      #6e8493 !default;
 
-$grey-color:       #828282 !default;
+$grey-color:       #a36f5d !default; /* #828282 #396acb */
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
-$orange-color:     #828282 /* #d73a49 */ !default;
+$orange-color:     #a36f5d /* #d73a49 */ !default;
 $table-text-align: left !default;
 
 // Width of the content area

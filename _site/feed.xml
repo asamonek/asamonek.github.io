@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-20T13:13:03+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aleksandra Samonek</title><author><name>Aleksandra Samonek</name></author><entry><title type="html">Clojure for the Brave and True: meetups for beginner Clojurians</title><link href="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html" rel="alternate" type="text/html" title="Clojure for the Brave and True: meetups for beginner Clojurians" /><published>2021-01-01T00:00:00+01:00</published><updated>2021-01-01T00:00:00+01:00</updated><id>http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup</id><content type="html" xml:base="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html">&lt;p&gt;&lt;i&gt;Hello, everyone!&lt;/i&gt; Starting this January, we will be reading &lt;i&gt;Clojure for the Brave and True&lt;/i&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-02T18:35:27+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aleksandra Samonek</title><author><name>Aleksandra Samonek</name></author><entry><title type="html">Clojure for the Brave and True: meetups for beginner Clojurians</title><link href="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html" rel="alternate" type="text/html" title="Clojure for the Brave and True: meetups for beginner Clojurians" /><published>2021-01-01T00:00:00+01:00</published><updated>2021-01-01T00:00:00+01:00</updated><id>http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup</id><content type="html" xml:base="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html">&lt;p&gt;&lt;i&gt;Hello, everyone!&lt;/i&gt; Starting this January, we will be reading &lt;i&gt;Clojure for the Brave and True&lt;/i&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;[CBT]&lt;/b&gt; Higginbotham, D. (2015). Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer. No Starch Press.&lt;/p&gt;
 
@@ -11,13 +11,13 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
 &lt;h2 id=&quot;access-links&quot;&gt;Access links&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://discord.gg/9tQpxzz99T&quot;&gt;Clojurians Discord server (open membership)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://teams.microsoft.com/l/team/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/conversations?groupId=2a3d4d2a-2c8d-416c-a6fe-003882aec9c9&amp;amp;tenantId=eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb&quot;&gt;Clojurians team on MS Teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://discord.gg/9tQpxzz99T&quot;&gt;Brave Clojurians Discord server (open membership)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;(abandoned in favor of Discord) &lt;a href=&quot;https://teams.microsoft.com/l/team/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/conversations?groupId=2a3d4d2a-2c8d-416c-a6fe-003882aec9c9&amp;amp;tenantId=eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb&quot;&gt;Brave Clojurians team on MS Teams&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;reading-group-times-and-readings&quot;&gt;Reading group times and readings&lt;/h2&gt;
 
-&lt;h3 id=&quot;february-3-2021-wednesday&quot;&gt;&lt;u&gt;February 3, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;february-17-2021-wednesday&quot;&gt;&lt;u&gt;February 17, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
 
 &lt;p&gt;Time:&lt;br /&gt;
 17:00 - 19:00 CET (Brussels)&lt;br /&gt;
@@ -34,9 +34,29 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
   &lt;li&gt;1-4, p. 96 CBT&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&quot;february-3-2021-wednesday&quot;&gt;&lt;u&gt;February 3, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
+
+&lt;p&gt;From February 3 onwards we will be meeting through Discord (instead of MS Teams):&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;join-the-brave-clojurians-discord-server-open-membership&quot;&gt;&lt;a href=&quot;https://discord.gg/9tQpxzz99T&quot;&gt;Join the Brave Clojurians Discord Server (open membership)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Time:&lt;br /&gt;
+17:00 - 19:00 CET (Brussels)&lt;br /&gt;
+16:00 - 18:00 GMT (London)&lt;br /&gt;
+11:00 - 13:00 GMT-5 (New York)&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Readings:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CBT chapter 3: Do things: a Clojure crash course, part 2 (pp. 48-69)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Exercises:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1-6, pp. 69-70 CBT&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;january-20-2021-wednesday&quot;&gt;&lt;u&gt;January 20, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
 
-&lt;h2 id=&quot;join-meeting-via-ms-teams&quot;&gt;&lt;a href=&quot;https://teams.microsoft.com/l/meetup-join/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/1609875147494?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d&quot;&gt;Join meeting via MS Teams&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://teams.microsoft.com/l/meetup-join/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/1609875147494?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d&quot;&gt;Join meeting via MS Teams&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;join-our-discord-server&quot;&gt;&lt;a href=&quot;https://discord.gg/9tQpxzz99T&quot;&gt;Join our Discord server&lt;/a&gt;&lt;/h2&gt;
 
@@ -81,45 +101,27 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
 &lt;p&gt;&lt;a href=&quot;https://calendar.google.com/calendar/ical/r91io5fcbcg2jpl6ba32qe0ofg%40group.calendar.google.com/public/basic.ics&quot;&gt;Add schedule to iCal&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://calendar.google.com/calendar/embed?src=r91io5fcbcg2jpl6ba32qe0ofg%40group.calendar.google.com&amp;amp;ctz=Asia%2FKolkata&quot;&gt;Schedule on Google Calendar&lt;/a&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;https://calendar.google.com/calendar/embed?src=r91io5fcbcg2jpl6ba32qe0ofg%40group.calendar.google.com&amp;amp;ctz=Asia%2FKolkata&quot; style=&quot;border: 0&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</content><author><name>Aleksandra Samonek</name></author><summary type="html">Hello, everyone! Starting this January, we will be reading Clojure for the Brave and True.</summary></entry><entry><title type="html">Formal Learning Theory: a bi-weekly online reading group 2020/2021</title><link href="http://localhost:4000/events/2020/12/08/learning-theory-reading-group.html" rel="alternate" type="text/html" title="Formal Learning Theory: a bi-weekly online reading group 2020/2021" /><published>2020-12-08T00:00:00+01:00</published><updated>2020-12-08T00:00:00+01:00</updated><id>http://localhost:4000/events/2020/12/08/learning-theory-reading-group</id><content type="html" xml:base="http://localhost:4000/events/2020/12/08/learning-theory-reading-group.html">&lt;p&gt;Starting December 2020, we will be reading &lt;i&gt;Systems that learn: an introduction to learning theory&lt;/i&gt; by Jain, Osherson, Royer and Sharma.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;[STL2]&lt;/b&gt; Jain, S., Osherson, D., Royer, J. S., &amp;amp; Sharma, A. (1999). Systems that learn: an introduction to learning theory. MIT press.&lt;/p&gt;
-
-&lt;p&gt;STL2 is not to be confused with an earlier version of the same book:&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;[STL1]&lt;/b&gt; Osherson, D., Stob, M., &amp;amp; Weinstein, S. (1986). Systems that learn, An introduction to learning theory. MIT press.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;The sessions are open to all interested.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Please send me an email if you would like to receive the link to our meeting.&lt;/p&gt;
-
-&lt;h2 id=&quot;reading-group-times-and-readings&quot;&gt;Reading group times and readings&lt;/h2&gt;
-
-&lt;h3 id=&quot;january-13-2021-wednesday&quot;&gt;&lt;u&gt;January 13, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
-
-&lt;p&gt;Time:&lt;br /&gt;
-17:00 - 19:00 CET (Brussels)&lt;br /&gt;
-16:00 - 18:00 GMT (London)&lt;br /&gt;
-11:00 - 13:00 GMT-5 (New York)&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Readings:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;STL2 chapter 1, Introduction (pp. 3-14)&lt;/li&gt;
-  &lt;li&gt;STL2 chapter 2, Formalities (pp. 15-26)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Exercises:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;2-1 — 2-8, p. 26 (STL2)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Aleksandra Samonek</name></author><summary type="html">Starting December 2020, we will be reading Systems that learn: an introduction to learning theory by Jain, Osherson, Royer and Sharma.</summary></entry><entry><title type="html">Social Robotics Lab Seminars: Fall Semester 2020/2021</title><link href="http://localhost:4000/events/2020/11/06/slr-seminars.html" rel="alternate" type="text/html" title="Social Robotics Lab Seminars: Fall Semester 2020/2021" /><published>2020-11-06T00:00:00+01:00</published><updated>2020-11-06T00:00:00+01:00</updated><id>http://localhost:4000/events/2020/11/06/slr-seminars</id><content type="html" xml:base="http://localhost:4000/events/2020/11/06/slr-seminars.html">&lt;p&gt;The seminars of the Social Robotics Lab in the Fall semester of 2020/2021 will take place on Fridays, 17:00-19:00 CET. The mettings will be held &lt;i&gt;via&lt;/i&gt; Cisco Webex Meetings (invitation via email is necessary to join).&lt;/p&gt;
+&lt;iframe src=&quot;https://calendar.google.com/calendar/embed?src=r91io5fcbcg2jpl6ba32qe0ofg%40group.calendar.google.com&amp;amp;ctz=Asia%2FKolkata&quot; style=&quot;border: 0&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</content><author><name>Aleksandra Samonek</name></author><summary type="html">Hello, everyone! Starting this January, we will be reading Clojure for the Brave and True.</summary></entry><entry><title type="html">Social Robotics Lab Seminars: Fall Semester 2020/2021</title><link href="http://localhost:4000/events/2020/11/06/slr-seminars.html" rel="alternate" type="text/html" title="Social Robotics Lab Seminars: Fall Semester 2020/2021" /><published>2020-11-06T00:00:00+01:00</published><updated>2020-11-06T00:00:00+01:00</updated><id>http://localhost:4000/events/2020/11/06/slr-seminars</id><content type="html" xml:base="http://localhost:4000/events/2020/11/06/slr-seminars.html">&lt;p&gt;The seminars of the Social Robotics Lab in the Fall semester of 2020/2021 will take place on Fridays, 17:00-19:00 CET. The mettings will be held &lt;i&gt;via&lt;/i&gt; Cisco Webex Meetings (invitation via email is necessary to join).&lt;/p&gt;
 
 &lt;p&gt;The SLR website is currently in preparation. Meanwhile, you can find the information related to our seminars below.&lt;/p&gt;
 
 &lt;h2 id=&quot;seminar-times-and-talks&quot;&gt;Seminar times and talks&lt;/h2&gt;
 
+&lt;h3 id=&quot;february-12-2021-friday-1700-1900-cet&quot;&gt;&lt;u&gt;February 12, 2021 (Friday), 17:00-19:00 CET&lt;/u&gt;&lt;/h3&gt;
+
+&lt;p&gt;Speaker: Anna Kołbasa&lt;br /&gt;
+Chair: Paulina Zguda&lt;br /&gt;
+Note-taking: Sharon Spisak&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;january-22-2021-friday-1730-1900-cet&quot;&gt;&lt;u&gt;January 22, 2021 (Friday), 17:30-19:00 CET&lt;/u&gt;&lt;/h3&gt;
+
+&lt;p&gt;Speaker: Paulina Zguda&lt;br /&gt;
+Chair: Ania Chudzik&lt;br /&gt;
+Note-taking: Anna Kołbasa&lt;br /&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;january-8-2021-friday-1700-1900-cet&quot;&gt;&lt;u&gt;January 8, 2021 (Friday), 17:00-19:00 CET&lt;/u&gt;&lt;/h3&gt;
 
-&lt;p&gt;Speakers: Anna Chudzik, Aleksandra Samonek&lt;br /&gt;
+&lt;p&gt;Speaker: Anna Chudzik&lt;br /&gt;
 Chair: Magdalena Kaczmarek&lt;br /&gt;
 Note-taking: Anna Kołota&lt;br /&gt;&lt;/p&gt;
 
