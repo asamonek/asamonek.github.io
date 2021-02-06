@@ -2,9 +2,9 @@
 
 // Define defaults for each variable.
 
-$base-font-family: Helvetica !default; /* "Computer Modern Serif" */
-$base-font-size:   16px !default;
-$base-font-weight: 400 !default;
+$base-font-family: nunito-sans !default; /* "Computer Modern Serif" */
+$base-font-size:   17px !default;
+$base-font-weight: 300 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
@@ -53,5 +53,6 @@ $on-large:         $on-laptop !default;
   "minima/base",
   "minima/layout",
   "minima/syntax-highlighting",
-  "fonts/serif/cmun-serif.css"
+  "fonts/serif/cmun-serif.css",
+  "fonts/nunito-sans.css"
 ;
