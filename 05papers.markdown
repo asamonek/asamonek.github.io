@@ -18,7 +18,7 @@ permalink: /papers/
   <summary>Get PDF</summary>
   <br>
   Please send me an email if you are interested in a draft version of this paper.
-  </details>  
+  </details>
 
 - Samonek, A. (in progress) Semantic representation of concepts through probabilistic learning in neural networks 
   <details>
