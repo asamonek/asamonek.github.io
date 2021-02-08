@@ -8,13 +8,13 @@ meta:
 
 On February 10, 2021, I will give a talk at the Work In Progress seminar of the CEFISES at UCLouvain, Louvain-la-Neuve. The seminar is open and all interested are invited to join online.
 
-#### Venue and time
+### Venue and time
 
 February 10, 2021, 15:00 - 17:00 CET <br>
 MS Teams (please email me or [the seminar organizers](https://uclouvain.be/fr/instituts-recherche/isp/cefises/evenements.html) to get a link to our meeting)
 
 
-#### What will it take for machines to understand counterfactual conditionals?
+### What will it take for machines to understand counterfactual conditionals?
 
 Machine understanding is an instance of so called system understanding. We say that a system understands a given domain if it contains appropriate linkages among all (or most) relevant concepts, actions or states. Given our current technology, the systems can easily be programmed to link, e.g., an English word "book" to a French "livre", but it is much harder to enable a system to correctly link "book" with "writer" or "doctoral student". A related problem is that of setting up machine understanding in a way which would mimic human understanding. In the context of natural language, a good example of difficulties in implementing human-like understanding emerges from conditionals, especially counterfactual conditionals.
 
