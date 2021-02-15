@@ -12,6 +12,12 @@ The SLR website is currently in preparation. Meanwhile, you can find the informa
 
 ## Seminar times and talks
 
+### <u>February 26, 2021 (Friday), 17:00-19:00 CET</u>
+
+Speakers: Ania Kołbasa, Basia Wziętek
+Chair: Aleksandra Samonek
+Note-taking: Sharon Spisak
+
 ### <u>February 12, 2021 (Friday), 17:00-19:00 CET</u>
 
 Speaker: Anna Kołbasa<br>

@@ -6,8 +6,6 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _What will it take for machines to understand counterfactual conditionals?_, February 10, 2021, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
-
 - _How probabilistic networks can learn scientific concepts_, July 14, 2021, [4th Logic, Relativity and Beyond International Conference](https://conferences.renyi.hu/lrb20/home), July 14-17, 2021 (originally planned for June 17-21, 2020, Simontornya, Hungary), organized by the Rényi Institute (online)  
 
 - (postponed) _The Logic of Learning: Formal Learning Systems and AI_, keynote talk at [ClojuTRE 2020](https://clojutre.org/2020/), October 8-9, 2020, Tampere, Finland
@@ -45,6 +43,8 @@ permalink: /talks/
 
 
 #### Selected seminar and invited talks
+
+- _What will it take for machines to understand counterfactual conditionals?_, February 10, 2021, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
 
 - _Modeling inductive inference on linguistic content using dictionaries and vectors_, January 14, 2021, 3rd [UNESCO World Logic Day](http://www.wld.cipsh.international/index.html), a workshop organized by the Rényi Institute of Mathematics, Budapest  [(program)](https://conferences.renyi.hu/wld3)  
 
