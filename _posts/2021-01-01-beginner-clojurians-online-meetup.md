@@ -26,6 +26,8 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
 
 ### <u>March 3, 2021 (Wednesday)</u>
 
+Our host: Aaron Bell (<a href="https://twitter.com/AttentionAaron">@AttentionAaron</a>, <a href="https://aarondeobell.com/">aarondeobell.com</a>)
+
 Time:<br>
 17:00 - 19:00 CET (Brussels)<br>
 16:00 - 18:00 GMT (London)<br>
@@ -45,6 +47,8 @@ Exercises:
 
 ### <u>February 17, 2021 (Wednesday)</u>
 
+Our host: Aaron Bell (<a href="https://twitter.com/AttentionAaron">@AttentionAaron</a>, <a href="https://aarondeobell.com/">aarondeobell.com</a>)
+
 Time:<br>
 17:00 - 19:00 CET (Brussels)<br>
 16:00 - 18:00 GMT (London)<br>
@@ -55,9 +59,6 @@ Readings:
 
 
 ### <u>February 3, 2021 (Wednesday)</u>
-
-From February 3 onwards we will be meeting through Discord (instead of MS Teams):<br>
-## <a href="https://discord.gg/9tQpxzz99T">Join the Brave Clojurians Discord Server (open membership)</a>
 
 Time:<br>
 17:00 - 19:00 CET (Brussels)<br>
@@ -72,9 +73,6 @@ Exercises:
 
 ### <u>January 20, 2021 (Wednesday)</u>
 
-<a href="https://teams.microsoft.com/l/meetup-join/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/1609875147494?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d">Join meeting via MS Teams</a>
-
-## <a href="https://discord.gg/9tQpxzz99T">Join our Discord server</a>
 
 Time:<br>
 17:00 - 19:00 CET (Brussels)<br>
@@ -90,8 +88,6 @@ Exercises:
 ### <u>January 6, 2021 (Wednesday)</u>
 
 The first meeting will be dedicated to environment set-up, so we will cover the entire part I of the book (2 chapters). There are no exercises in part I, but if you have the time, try and set up your environment and play around with Emacs and the REPL.
-
-<a href="https://teams.microsoft.com/l/meetup-join/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/1609875147494?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d">Join meeting via MS Teams</a>
 
 Time:<br>
 17:00 - 19:00 CET (Brussels)<br>

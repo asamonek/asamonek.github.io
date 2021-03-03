@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-08T22:52:52+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aleksandra Samonek</title><author><name>Aleksandra Samonek</name></author><entry><title type="html">Clojure for the Brave and True: meetups for beginner Clojurians</title><link href="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html" rel="alternate" type="text/html" title="Clojure for the Brave and True: meetups for beginner Clojurians" /><published>2021-01-01T00:00:00+01:00</published><updated>2021-01-01T00:00:00+01:00</updated><id>http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup</id><content type="html" xml:base="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html">&lt;p&gt;&lt;i&gt;Hello, everyone!&lt;/i&gt; Starting this January, we will be reading &lt;i&gt;Clojure for the Brave and True&lt;/i&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-03T15:28:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aleksandra Samonek</title><author><name>Aleksandra Samonek</name></author><entry><title type="html">What will it take for machines to understand counterfactual conditionals? Work In Progress talk at UCLouvain on February 10, 2021</title><link href="http://localhost:4000/events/2021/02/10/wip-seminar.html" rel="alternate" type="text/html" title="What will it take for machines to understand counterfactual conditionals? Work In Progress talk at UCLouvain on February 10, 2021" /><published>2021-02-10T00:00:00+01:00</published><updated>2021-02-10T00:00:00+01:00</updated><id>http://localhost:4000/events/2021/02/10/wip-seminar</id><content type="html" xml:base="http://localhost:4000/events/2021/02/10/wip-seminar.html">&lt;p&gt;On February 10, 2021, I will give a talk at the Work In Progress seminar of the CEFISES at UCLouvain, Louvain-la-Neuve. The seminar is open and all interested are invited to join online.&lt;/p&gt;
+
+&lt;h3 id=&quot;venue-and-time&quot;&gt;Venue and time&lt;/h3&gt;
+
+&lt;p&gt;February 10, 2021, 15:00 - 17:00 CET &lt;br /&gt;
+MS Teams (please email me or &lt;a href=&quot;https://uclouvain.be/fr/instituts-recherche/isp/cefises/evenements.html&quot;&gt;the seminar organizers&lt;/a&gt; to get a link to our meeting)&lt;/p&gt;
+
+&lt;h3 id=&quot;what-will-it-take-for-machines-to-understand-counterfactual-conditionals&quot;&gt;What will it take for machines to understand counterfactual conditionals?&lt;/h3&gt;
+
+&lt;p&gt;Machine understanding is an instance of so called system understanding. We say that a system understands a given domain if it contains appropriate linkages among all (or most) relevant concepts, actions or states. Given our current technology, the systems can easily be programmed to link, e.g., an English word “book” to a French “livre”, but it is much harder to enable a system to correctly link “book” with “writer” or “doctoral student”. A related problem is that of setting up machine understanding in a way which would mimic human understanding. In the context of natural language, a good example of difficulties in implementing human-like understanding emerges from conditionals, especially counterfactual conditionals.&lt;/p&gt;
+
+&lt;p&gt;I discuss the problem of formal representation of counterfactual conditionals in a wider context of machine understanding. Two general approaches to machine understanding in artificial intelligence research are connectionism, with machine learning and deep learning as its main paradigms, and symbolism, whose methods are rooted in formal logic. A range of hybrid approaches exists for solving specific problems, such as the implementation of understanding of conditional sentences. In my talk I will discuss how such approaches allow us to derive the notion of understanding, which goes beyond book-livre and ventures into book-writer-type of linkages in the natural language. Thus improved understanding is a step towards approximating human understanding of the natural language.&lt;/p&gt;</content><author><name>Aleksandra Samonek</name></author><summary type="html">On February 10, 2021, I will give a talk at the Work In Progress seminar of the CEFISES at UCLouvain, Louvain-la-Neuve. The seminar is open and all interested are invited to join online.</summary></entry><entry><title type="html">Clojure for the Brave and True: meetups for beginner Clojurians</title><link href="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html" rel="alternate" type="text/html" title="Clojure for the Brave and True: meetups for beginner Clojurians" /><published>2021-01-01T00:00:00+01:00</published><updated>2021-01-01T00:00:00+01:00</updated><id>http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup</id><content type="html" xml:base="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html">&lt;p&gt;&lt;i&gt;Hello, everyone!&lt;/i&gt; Starting this January, we will be reading &lt;i&gt;Clojure for the Brave and True&lt;/i&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;[CBT]&lt;/b&gt; Higginbotham, D. (2015). Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer. No Starch Press.&lt;/p&gt;
 
@@ -17,7 +28,9 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
 
 &lt;h2 id=&quot;reading-group-times-and-readings&quot;&gt;Reading group times and readings&lt;/h2&gt;
 
-&lt;h3 id=&quot;february-17-2021-wednesday&quot;&gt;&lt;u&gt;February 17, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;march-3-2021-wednesday&quot;&gt;&lt;u&gt;March 3, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
+
+&lt;p&gt;Our host: Aaron Bell (&lt;a href=&quot;https://twitter.com/AttentionAaron&quot;&gt;@AttentionAaron&lt;/a&gt;, &lt;a href=&quot;https://aarondeobell.com/&quot;&gt;aarondeobell.com&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;Time:&lt;br /&gt;
 17:00 - 19:00 CET (Brussels)&lt;br /&gt;
@@ -29,15 +42,34 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
   &lt;li&gt;CBT chapter 4: Core functions in depth (pp. 71-96)&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;Focus:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;lazy sequences for efficient computing,&lt;/li&gt;
+  &lt;li&gt;infinite sequences for flexibility,&lt;/li&gt;
+  &lt;li&gt;collection abstractions, to add things to other things, and&lt;/li&gt;
+  &lt;li&gt;higher-order functions for precision&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;Exercises:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;1-4, p. 96 CBT&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;february-3-2021-wednesday&quot;&gt;&lt;u&gt;February 3, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;february-17-2021-wednesday&quot;&gt;&lt;u&gt;February 17, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
 
-&lt;p&gt;From February 3 onwards we will be meeting through Discord (instead of MS Teams):&lt;br /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;join-the-brave-clojurians-discord-server-open-membership&quot;&gt;&lt;a href=&quot;https://discord.gg/9tQpxzz99T&quot;&gt;Join the Brave Clojurians Discord Server (open membership)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Our host: Aaron Bell (&lt;a href=&quot;https://twitter.com/AttentionAaron&quot;&gt;@AttentionAaron&lt;/a&gt;, &lt;a href=&quot;https://aarondeobell.com/&quot;&gt;aarondeobell.com&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Time:&lt;br /&gt;
+17:00 - 19:00 CET (Brussels)&lt;br /&gt;
+16:00 - 18:00 GMT (London)&lt;br /&gt;
+11:00 - 13:00 GMT-5 (New York)&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Readings:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CBT chapter 4: Core functions in depth (pp. 71-96)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;february-3-2021-wednesday&quot;&gt;&lt;u&gt;February 3, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
 
 &lt;p&gt;Time:&lt;br /&gt;
 17:00 - 19:00 CET (Brussels)&lt;br /&gt;
@@ -55,10 +87,6 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;january-20-2021-wednesday&quot;&gt;&lt;u&gt;January 20, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://teams.microsoft.com/l/meetup-join/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/1609875147494?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d&quot;&gt;Join meeting via MS Teams&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;join-our-discord-server&quot;&gt;&lt;a href=&quot;https://discord.gg/9tQpxzz99T&quot;&gt;Join our Discord server&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Time:&lt;br /&gt;
 17:00 - 19:00 CET (Brussels)&lt;br /&gt;
@@ -78,8 +106,6 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
 &lt;h3 id=&quot;january-6-2021-wednesday&quot;&gt;&lt;u&gt;January 6, 2021 (Wednesday)&lt;/u&gt;&lt;/h3&gt;
 
 &lt;p&gt;The first meeting will be dedicated to environment set-up, so we will cover the entire part I of the book (2 chapters). There are no exercises in part I, but if you have the time, try and set up your environment and play around with Emacs and the REPL.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://teams.microsoft.com/l/meetup-join/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/1609875147494?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d&quot;&gt;Join meeting via MS Teams&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Time:&lt;br /&gt;
 17:00 - 19:00 CET (Brussels)&lt;br /&gt;
@@ -106,6 +132,12 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
 &lt;p&gt;The SLR website is currently in preparation. Meanwhile, you can find the information related to our seminars below.&lt;/p&gt;
 
 &lt;h2 id=&quot;seminar-times-and-talks&quot;&gt;Seminar times and talks&lt;/h2&gt;
+
+&lt;h3 id=&quot;february-26-2021-friday-1700-1900-cet&quot;&gt;&lt;u&gt;February 26, 2021 (Friday), 17:00-19:00 CET&lt;/u&gt;&lt;/h3&gt;
+
+&lt;p&gt;Speakers: Ania Kołbasa, Basia Wziętek
+Chair: Aleksandra Samonek
+Note-taking: Sharon Spisak&lt;/p&gt;
 
 &lt;h3 id=&quot;february-12-2021-friday-1700-1900-cet&quot;&gt;&lt;u&gt;February 12, 2021 (Friday), 17:00-19:00 CET&lt;/u&gt;&lt;/h3&gt;
 
