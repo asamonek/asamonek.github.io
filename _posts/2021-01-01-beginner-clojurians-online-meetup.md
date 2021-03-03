@@ -24,6 +24,25 @@ My appreciation to the author, Daniel Higginbotham - thank you for making the bo
 
 ## Reading group times and readings
 
+### <u>March 3, 2021 (Wednesday)</u>
+
+Time:<br>
+17:00 - 19:00 CET (Brussels)<br>
+16:00 - 18:00 GMT (London)<br>
+11:00 - 13:00 GMT-5 (New York)<br>
+
+Readings:
+- CBT chapter 4: Core functions in depth (pp. 71-96)  
+
+Focus:
+- lazy sequences for efficient computing,  
+- infinite sequences for flexibility,  
+- collection abstractions, to add things to other things, and  
+- higher-order functions for precision  
+
+Exercises:
+- 1-4, p. 96 CBT 
+
 ### <u>February 17, 2021 (Wednesday)</u>
 
 Time:<br>
@@ -34,8 +53,6 @@ Time:<br>
 Readings:
 - CBT chapter 4: Core functions in depth (pp. 71-96)   
 
-Exercises:
-- 1-4, p. 96 CBT 
 
 ### <u>February 3, 2021 (Wednesday)</u>
 
