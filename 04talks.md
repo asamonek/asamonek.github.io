@@ -44,6 +44,8 @@ permalink: /talks/
 
 #### Selected seminar and invited talks
 
+- _Privacy, surveillance and their relation to fake news_, April 14, 2021, Media, Policy and Culture Research Group Seminar, University of Antwerp  
+
 - _What will it take for machines to understand counterfactual conditionals?_, February 10, 2021, Work in Progress Seminar, Centre de Philosophie des Sciences et Sociétés (CEFISES), Université catholique de Louvain
 
 - _Modeling inductive inference on linguistic content using dictionaries and vectors_, January 14, 2021, 3rd [UNESCO World Logic Day](http://www.wld.cipsh.international/index.html), a workshop organized by the Rényi Institute of Mathematics, Budapest  [(program)](https://conferences.renyi.hu/wld3)  
