@@ -6,6 +6,8 @@ permalink: /talks/
 
 #### Upcoming talks
 
+- _Badanie społeczeństwa obywatelskiego z wykorzystaniem analizy danych w Pythonie_ (_Measuring civil society using Python data analysis_), May 22, 18:00, PyData Trójmiasto (online)
+
 - _How probabilistic networks can learn scientific concepts_, July 14, 2021, [4th Logic, Relativity and Beyond International Conference](https://conferences.renyi.hu/lrb20/home), July 14-17, 2021 (originally planned for June 17-21, 2020, Simontornya, Hungary), organized by the Rényi Institute (online)  
 
 - (postponed) _The Logic of Learning: Formal Learning Systems and AI_, keynote talk at [ClojuTRE 2020](https://clojutre.org/2020/), October 8-9, 2020, Tampere, Finland
