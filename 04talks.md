@@ -6,11 +6,13 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _Badanie społeczeństwa obywatelskiego z wykorzystaniem analizy danych w Pythonie_ (_Measuring civil society using Python data analysis_), May 22, 18:00, [PyData Trójmiasto](https://www.meetup.com/pl-PL/PyData-Trojmiasto/events/278024936/) (online)
+
 
 - _How probabilistic networks can learn scientific concepts_, July 14, 2021, [4th Logic, Relativity and Beyond International Conference](https://conferences.renyi.hu/lrb20/home), July 14-17, 2021 (originally planned for June 17-21, 2020, Simontornya, Hungary), organized by the Rényi Institute (online)  
 
-- (postponed) _The Logic of Learning: Formal Learning Systems and AI_, keynote talk at [ClojuTRE 2020](https://clojutre.org/2020/), October 8-9, 2020, Tampere, Finland
+- _The New European Identity and Its Reception in Central and Eastern Europe_, [13th CEE Forum Conference](http://www.cee-forum.org/forum_2021_prague), Political Imagination and Utopian Energies in Central and Eastern Europe, September 16-17, 2021, Prague
+
+- _Odpowiedzialność za przywłaszczenia kulturowe a prawo własności intelektualnej: przyszłe ścieżki ochrony niematerialnych dóbr kultury_ (Responsibility for cultural appropriation and intellectual property law: future paths of protecting intellectual cultural heritage), Z Zagadnień Teorii i Filozofii Prawa. Odpowiedzialność (Theory and Philosophy of Law. Responsibility), September 20-21, 2021, University of Wrocław (online)
 
 #### Refereed conference talks
 
@@ -45,6 +47,8 @@ permalink: /talks/
 
 
 #### Selected seminar and invited talks
+
+- _Badanie społeczeństwa obywatelskiego z wykorzystaniem analizy danych w Pythonie_ (_Measuring civil society using Python data analysis_), May 22, 18:00, [PyData Trójmiasto](https://www.meetup.com/pl-PL/PyData-Trojmiasto/events/278024936/) (online)
 
 - _Privacy, surveillance and their relation to fake news_, April 14, 2021, Media, Policy and Culture Research Group Seminar, University of Antwerp  
 
