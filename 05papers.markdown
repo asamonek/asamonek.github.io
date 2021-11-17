@@ -4,95 +4,6 @@ title: Papers
 permalink: /papers/
 ---
 
-#### Logic, Language and Computer Science
-
-- Samonek, A. (in progress) How probabilistic networks can learn scientific concepts  
-  <details>
-  <summary>See BiBTeX data</summary>
-  <xmp style="font-size: 9pt; white-space: pre-wrap;">
-    Not available
-  </xmp>
-  <br>
-  </details> 
-  <details>
-  <summary>Get PDF</summary>
-  <br>
-  Please send me an email if you are interested in a draft version of this paper.
-  </details>
-
-- Samonek, A. (in progress) Semantic representation of concepts through probabilistic learning in neural networks 
-  <details>
-  <summary>See BiBTeX data</summary>
-  <xmp style="font-size: 9pt; white-space: pre-wrap;">
-  Not available
-  </xmp>
-  <br>
-  </details> 
-  <details>
-  <summary>Get PDF</summary>
-  <br>
-  Please send me an email if you are interested in a draft version of this paper.
-  </details>  
-
-- Verdée, P., De Bal, I., and Samonek, A. (2019). A non-transitive relevant implication corresponding to classical logic consequence. <i>The Australasian Journal of Logic</i>, 16(2), 10-40.
-  <details>
-  <summary>See BiBTeX data</summary>
-  <xmp style="font-size: 9pt; white-space: pre-wrap;">
-  @article{verdee2019non,
-  title={A non-transitive relevant implication corresponding to classical logic consequence},
-  author={Verd{\'e}e, Peter and De Bal, Inge and Samonek, Aleksandra},
-  journal={The Australasian Journal of Logic},
-  volume={16},
-  number={2},
-  pages={10--40},
-  year={2019}
-  }
-  </xmp>
-  </details> 
-  <details>
-  <summary>Get PDF</summary>
-  <br>
-  <ul style="list-style: square;">
-    <li><a href="/papers/195273-61-7300-1-10-20190203.pdf">Download directly from this site</a></li>
-    <li><a href="https://ojs.victoria.ac.nz/ajl/article/download/5273/4633/">Download from ojs.victoria.ac.nz: https://ojs.victoria.ac.nz/ajl/article/download/5273/4633/</a></li>
-  </ul>
-  </details> 
-
-- Samonek, A. (2017). Relation algebras, representability and relevant logics. Abstract of the talk for Logic Colloquium 2017, <i>The Bulletin of Symbolic Logic</i>
-  <details>
-  <summary>See BiBTeX data</summary>
-  <xmp style="font-size: 9pt; white-space: pre-wrap;">
-  Not available
-  </xmp>
-  <br>
-  </details> 
-  <details>
-  <summary>Get PDF</summary>
-  <br>
-  Please send me an email if you are interested in this document.
-  </details>  
-
-- Samonek, A. (2012). Adaptive logic for legal reasoning – comparing classical and adaptive logics using the examples of courtroom witness examination (Logika adaptywna dla rozumowań w prawie –  porównanie z użyciem klasycznego rachunku zdań na przykładzie sądowej analizy zeznań świadków). <i>Legal theory between modernity and postmodernity (Teoria prawa między nowoczesnością a ponowoczesnością)</i>, 2012, 197-201.
-  <details>
-  <summary>See BiBTeX data</summary>
-  <xmp style="font-size: 9pt; white-space: pre-wrap;">
-  @article{samonek2012logika,
-  title={Adaptive logic for legal reasoning – comparing classical and adaptive logics using the examples of courtroom witness examination (Logika adaptywna dla rozumowa{\'n} w prawie –  por{\'o}wnanie z u{\.z}yciem klasycznego rachunku zda{\'n} na przyk{\l}adzie s{\k{a}}dowej analizy zezna{\'n} {\'s}wiadk{\'o}w)},
-  author={Samonek, Aleksandra},
-  year={2012},
-  pages={197--201},
-  publisher={Krak{\'o}w: Wydawnictwo Uniwersytetu Jagiello{\'n}skiego}
-  }
-  </xmp>
-  <br>
-  </details> 
-  <details>
-  <summary>Get PDF</summary>
-  <br>
-  <ul style="list-style: square;">
-    <li><a href="https://books.google.be/books?id=3x2mCwAAQBAJ&amp;printsec=frontcover">Read on Google Books</a></li>
-  </ul>
-  </details> 
 
 #### Philosophy of technology, privacy and surveillance
 
@@ -171,6 +82,74 @@ permalink: /papers/
     <li><a href="http://corvinusculture.com/wp-content/uploads/2017/10/V4-Youth-Forum-2017-Selected-Essays.pdf">Download from corvinusculture.com: http://corvinusculture.com/wp-content/uploads/2017/10/V4-Youth-Forum-2017-Selected-Essays.pdf</a></li>
   </ul>
   </details> 
+
+
+
+#### Logic, Language and Computer Science
+
+
+
+- Verdée, P., De Bal, I., and Samonek, A. (2019). A non-transitive relevant implication corresponding to classical logic consequence. <i>The Australasian Journal of Logic</i>, 16(2), 10-40.
+  <details>
+  <summary>See BiBTeX data</summary>
+  <xmp style="font-size: 9pt; white-space: pre-wrap;">
+  @article{verdee2019non,
+  title={A non-transitive relevant implication corresponding to classical logic consequence},
+  author={Verd{\'e}e, Peter and De Bal, Inge and Samonek, Aleksandra},
+  journal={The Australasian Journal of Logic},
+  volume={16},
+  number={2},
+  pages={10--40},
+  year={2019}
+  }
+  </xmp>
+  </details> 
+  <details>
+  <summary>Get PDF</summary>
+  <br>
+  <ul style="list-style: square;">
+    <li><a href="/papers/195273-61-7300-1-10-20190203.pdf">Download directly from this site</a></li>
+    <li><a href="https://ojs.victoria.ac.nz/ajl/article/download/5273/4633/">Download from ojs.victoria.ac.nz: https://ojs.victoria.ac.nz/ajl/article/download/5273/4633/</a></li>
+  </ul>
+  </details> 
+
+- Samonek, A. (2017). Relation algebras, representability and relevant logics. Abstract of the talk for Logic Colloquium 2017, <i>The Bulletin of Symbolic Logic</i>
+  <details>
+  <summary>See BiBTeX data</summary>
+  <xmp style="font-size: 9pt; white-space: pre-wrap;">
+  Not available
+  </xmp>
+  <br>
+  </details> 
+  <details>
+  <summary>Get PDF</summary>
+  <br>
+  Please send me an email if you are interested in this document.
+  </details>  
+
+- Samonek, A. (2012). Adaptive logic for legal reasoning – comparing classical and adaptive logics using the examples of courtroom witness examination (Logika adaptywna dla rozumowań w prawie –  porównanie z użyciem klasycznego rachunku zdań na przykładzie sądowej analizy zeznań świadków). <i>Legal theory between modernity and postmodernity (Teoria prawa między nowoczesnością a ponowoczesnością)</i>, 2012, 197-201.
+  <details>
+  <summary>See BiBTeX data</summary>
+  <xmp style="font-size: 9pt; white-space: pre-wrap;">
+  @article{samonek2012logika,
+  title={Adaptive logic for legal reasoning – comparing classical and adaptive logics using the examples of courtroom witness examination (Logika adaptywna dla rozumowa{\'n} w prawie –  por{\'o}wnanie z u{\.z}yciem klasycznego rachunku zda{\'n} na przyk{\l}adzie s{\k{a}}dowej analizy zezna{\'n} {\'s}wiadk{\'o}w)},
+  author={Samonek, Aleksandra},
+  year={2012},
+  pages={197--201},
+  publisher={Krak{\'o}w: Wydawnictwo Uniwersytetu Jagiello{\'n}skiego}
+  }
+  </xmp>
+  <br>
+  </details> 
+  <details>
+  <summary>Get PDF</summary>
+  <br>
+  <ul style="list-style: square;">
+    <li><a href="https://books.google.be/books?id=3x2mCwAAQBAJ&amp;printsec=frontcover">Read on Google Books</a></li>
+  </ul>
+  </details> 
+
+
 
 #### Mathematics and formal methods in political science
 

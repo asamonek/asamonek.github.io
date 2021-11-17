@@ -8,13 +8,14 @@ permalink: /talks/
 
 
 
-- _How probabilistic networks can learn scientific concepts_, July 14, 2021, [4th Logic, Relativity and Beyond International Conference](https://conferences.renyi.hu/lrb20/home), July 14-17, 2021 (originally planned for June 17-21, 2020, Simontornya, Hungary), organized by the Rényi Institute (online)  
+- _Can Identity Pluralism Help Undo the de-democratization in CEE?_, November 17, 2021, [Trajectories of civil society in a de-democratizing context](https://www.facebook.com/events/4837275459657206), a workshop organized by the Társadalomtudományi Kutatóközpont (Centre for Social Sciences, Hungarian Academy of Sciences Centre of Excellence), September 17-19, 2021, Budapest (and online)  
 
-- _The New European Identity and Its Reception in Central and Eastern Europe_, [13th CEE Forum Conference](http://www.cee-forum.org/forum_2021_prague), Political Imagination and Utopian Energies in Central and Eastern Europe, September 16-17, 2021, Prague
-
-- _Odpowiedzialność za przywłaszczenia kulturowe a prawo własności intelektualnej: przyszłe ścieżki ochrony niematerialnych dóbr kultury_ (Responsibility for cultural appropriation and intellectual property law: future paths of protecting intellectual cultural heritage), Z Zagadnień Teorii i Filozofii Prawa. Odpowiedzialność (Theory and Philosophy of Law. Responsibility), September 20-21, 2021, University of Wrocław (online)
 
 #### Refereed conference talks
+
+- _Odpowiedzialność za przywłaszczenia kulturowe a prawo własności intelektualnej: przyszłe ścieżki ochrony niematerialnych dóbr kultury_ (Responsibility for cultural appropriation and intellectual property law: future paths of protecting intellectual cultural heritage), September 21, 2021 (11:00-11:15), Z Zagadnień Teorii i Filozofii Prawa. Odpowiedzialność (Theory and Philosophy of Law. Responsibility), September 20-21, 2021, University of Wrocław (online)
+
+- _The New European Identity and Its Reception in Central and Eastern Europe_, [13th CEE Forum Conference](http://www.cee-forum.org/forum_2021_prague), September 16, 2021 (14:50 – 16:10), Political Imagination and Utopian Energies in Central and Eastern Europe, September 16-17, 2021, Prague (Panel 6: Central European narratives of identity, Room 231)
 
 - _Between language modelling and social science. Python for interdisciplinary research_, December 11, 2020 (17:30-18:00), [PyCode Conference 2020, December 11-12, 2020](https://pycode-conference.org/) (online)  
 
