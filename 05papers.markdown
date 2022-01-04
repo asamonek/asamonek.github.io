@@ -7,6 +7,33 @@ permalink: /papers/
 
 #### Philosophy of technology, privacy and surveillance
 
+- Samonek, A. (2021). How is Political Privacy Different from Personal Privacy? An Argument from Democratic Governance, <i>Diametros</i>, 18(70), 2021, 64-77. DOI: https://doi.org/10.33392/diam.1544
+  <details>
+  <summary>See BiBTeX data</summary>
+  <xmp style="font-size: 9pt; white-space: pre-wrap;">
+  @article{samonek2021politicalprivacy,
+  title={How is Political Privacy Different from Personal Privacy? An Argument from Democratic Governance},
+  author={Samonek, Aleksandra},
+  journal={Diametros},
+  volume={70},
+  number={18},
+  pages={64--77},
+  year={2021},
+  publisher={Institute of Philosophy, Jagiellonian University}
+  </xmp>
+  <br>
+  </details> 
+  <details>
+  <summary>Get PDF</summary>
+  <br>
+  <ul style="list-style: square;">
+  <li><a href="/papers/211215-Samonek-Political-Privacy.pdf">Download directly from this site</a></li>
+  <li><a href="https://diametros.uj.edu.pl/diametros/article/view/1544/1558">Download from diametros.uj.edu.pl: https://diametros.uj.edu.pl/diametros/article/view/1544/1558</a></li>
+  <li><a href="https://diametros.uj.edu.pl/diametros/article/view/1544">Read online at diametros.uj.edu.pl</a></li>
+  </ul>
+  </details>  
+
+
 - Samonek, A. (2020). What is the future of European cyber security? Three principles of European cooperation and the hybrid joint strategy of cyber defense, <i>Studies in European Affairs (Studia Europejskie)</i>, 2(24), 2020, 43-60. ISSN: 1428-149X, e-ISSN: 2719-3780.
   <details>
   <summary>See BiBTeX data</summary>
