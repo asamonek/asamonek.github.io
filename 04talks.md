@@ -9,7 +9,7 @@ permalink: /talks/
 
 #### Refereed conference talks
 
-_ _Engineering Privacy: How Surveillance Capitalists Changed Our Understanding of Technology, Privacy, and Oversight_, April 1, 2022, workshop [Conceptual Engineering and Socially Disruptive Technologies](handouts/events/220401-workshop.pdf), March, 31 – April, 1, 2022 (online)  
+- _Engineering Privacy: How Surveillance Capitalists Changed Our Understanding of Technology, Privacy, and Oversight_, April 1, 2022, workshop [Conceptual Engineering and Socially Disruptive Technologies](handouts/events/220401-workshop.pdf), March, 31 – April, 1, 2022 (online)  
 
 - _Can Identity Pluralism Help Undo the de-democratization in CEE?_, November 17, 2021, [Trajectories of civil society in a de-democratizing context](https://www.facebook.com/events/4837275459657206), a workshop organized by the [Társadalomtudományi Kutatóközpont](https://tk.hu/en) (Centre for Social Sciences, Hungarian Academy of Sciences Centre of Excellence), November 17-19, 2021, Budapest (and online)  
 
