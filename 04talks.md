@@ -9,6 +9,8 @@ permalink: /talks/
 
 #### Refereed conference talks
 
+_ _Engineering Privacy: How Surveillance Capitalists Changed Our Understanding of Technology, Privacy, and Oversight_, April 1, 2022, workshop [Conceptual Engineering and Socially Disruptive Technologies](handouts/events/220401-workshop.pdf), March, 31 – April, 1, 2022 (online)  
+
 - _Can Identity Pluralism Help Undo the de-democratization in CEE?_, November 17, 2021, [Trajectories of civil society in a de-democratizing context](https://www.facebook.com/events/4837275459657206), a workshop organized by the [Társadalomtudományi Kutatóközpont](https://tk.hu/en) (Centre for Social Sciences, Hungarian Academy of Sciences Centre of Excellence), November 17-19, 2021, Budapest (and online)  
 
 - _Odpowiedzialność za przywłaszczenia kulturowe a prawo własności intelektualnej: przyszłe ścieżki ochrony niematerialnych dóbr kultury_ (Responsibility for cultural appropriation and intellectual property law: future paths of protecting intellectual cultural heritage), September 21, 2021 (11:00-11:15), Z Zagadnień Teorii i Filozofii Prawa. Odpowiedzialność (Theory and Philosophy of Law. Responsibility), September 20-21, 2021, University of Wrocław (online)
@@ -47,7 +49,7 @@ permalink: /talks/
 
 #### Selected seminar and invited talks
 
-- _Badanie społeczeństwa obywatelskiego z wykorzystaniem analizy danych w Pythonie_ (_Measuring civil society using Python data analysis_), May 22, 18:00, [PyData Trójmiasto](https://www.meetup.com/pl-PL/PyData-Trojmiasto/events/278024936/) (online)
+- _Badanie społeczeństwa obywatelskiego z wykorzystaniem analizy danych w Pythonie_ (_Measuring civil society using Python data analysis_), May 22, 2021, 18:00, [PyData Trójmiasto](https://www.meetup.com/pl-PL/PyData-Trojmiasto/events/278024936/) (online)
 
 - _Privacy, surveillance and their relation to fake news_, April 14, 2021, Media, Policy and Culture Research Group Seminar, University of Antwerp  
 
