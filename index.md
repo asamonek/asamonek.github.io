@@ -19,7 +19,7 @@ My PhD thesis submitted in the Institute of Political Science and International 
 
 My other areas of research include European affairs & integration, law & technology, media freedom, AI & ethics, and digitalization in public administration. I am also involved in a project focusing on the processs of democratization and democratic backsliding in Central and Eastern Europe. In May and June 2022, I visited University of Sarajevo, Bosnia and Herzegovina, as part of my research concerning media freedom and its impact on the development of civil society and democratic institutions.
 
-Most recently I have conducted an Una Europa "Digitalized!" project about digital citizenship at Universidad Complutense Madrid. The project focuses on the ”Impact of using technology in public administration on the quality of social services and civic participation” and I work on it in cooperation with MOVICON (Mobilization, Political Struggle and Social Change).
+Most recently I have conducted an Una Europa "Digitalized!" project about digital citizenship at Universidad Complutense Madrid. The project focuses on the effects of using technology in public administration on the quality of social services and civic participation, and I work on it in cooperation with MOVICON (Mobilization, Political Struggle and Social Change).
 
 
 
