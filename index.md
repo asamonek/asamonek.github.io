@@ -13,7 +13,9 @@ layout: home
 <br>
 <h2>Hello!</h2>
 
-My name is Aleksandra Samonek and I am a researcher in political philosophy and philosophy of technology, interested in the impact of surveillance on the condition of democracy, digital citizenship, and civil society. My PhD thesis submitted in the Institute of Political Science and International Relations of the Jagiellonian University is entitled _Political Privacy. How Privacy Protection Empowers Democracy_.
+My name is Aleksandra Samonek and I am a researcher in political philosophy and philosophy of technology, interested in the impact of surveillance on the condition of democracy, digital citizenship, and civil society. 
+
+My PhD thesis submitted in the Institute of Political Science and International Relations of the Jagiellonian University is entitled _Political Privacy. How Privacy Protection Empowers Democracy_.
 
 My other areas of research include European affairs & integration, law & technology, media freedom, AI & ethics, and digitalization in public administration. I am also involved in a project focusing on the processs of democratization and democratic backsliding in Central and Eastern Europe. In May and June 2022, I visited University of Sarajevo, Bosnia and Herzegovina, as part of my research concerning media freedom and its impact on the development of civil society and democratic institutions.
 
