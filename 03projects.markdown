@@ -18,7 +18,7 @@ permalink: /projects/
 
 - JIPhD Research Project (PI): The project entitled "The impact of media freedom on the development of civil society and democratic institutions", conducted at the University of Sarajevo, Bosnia and Herzegovina (Univerzitet u Sarajevu, UNSA, Fakultet Političkih Nauka), funded by the Jagiellonian Interdisciplinary PhD Programme (5-6/2022)  
 
-- Erasmus+ (Academic Intern)} Two single-semester internships at Katholieke Universiteit Leuven (02-07/2020) and Universiteit Antwerpen (02-07/2021)  
+- Erasmus+ (Academic Intern): Two single-semester internships at Katholieke Universiteit Leuven (02-07/2020) and Universiteit Antwerpen (02-07/2021)  
     
 - MCMP Visiting Researcher: Munich Center for Mathematical Philosophy, Ludwig-Maximilians-Universität München, Fakultät für Philosophie, Wissenschaftstheorie und Religionswissenschaft (10-12/2017)
 

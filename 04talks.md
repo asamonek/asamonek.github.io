@@ -6,7 +6,7 @@ permalink: /talks/
 
 #### Upcoming talks
 
-- _The Imact of Russian Re-invasion in Ukraine on the Europeanization of Ukraine's Constitutional Culture and Political Identity_, October 7, 2022, 14th CEE Forum "Legal Culture and Identity in Central and Eastern Europe", October 6-7, 2022, Budapest, Hungary (Panel 9, 14:50-16:10)   
+- _The Impact of Russian Re-invasion in Ukraine on the Europeanization of Ukraine's Constitutional Culture and Political Identity_, October 7, 2022, 14th CEE Forum "Legal Culture and Identity in Central and Eastern Europe", October 6-7, 2022, Budapest, Hungary (Panel 9, 14:50-16:10)   
 
 #### Refereed conference talks
 
