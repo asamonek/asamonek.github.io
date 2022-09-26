@@ -6,6 +6,8 @@ permalink: /talks/
 
 #### Upcoming talks
 
+- _Ukraine's civil society between the full-scale war and the path to EU accession_, October 17, 2022, Social Dynamics in the post -Covid age. Inequalities, integration, migration in regional, urban and rural context, Conference at the Centre for Social Sciences, October 16-17, 2022, Budapest, Hungary (Panel 4: Social and methodological challenges to research on civil society and social movements) 
+
 - _The Impact of Russian Re-invasion in Ukraine on the Europeanization of Ukraine's Constitutional Culture and Political Identity_, October 7, 2022, 14th CEE Forum "Legal Culture and Identity in Central and Eastern Europe", October 6-7, 2022, Budapest, Hungary (Panel 9, 14:50-16:10)   
 
 #### Refereed conference talks
