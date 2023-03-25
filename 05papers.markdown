@@ -3,10 +3,11 @@ layout: page
 title: Papers
 permalink: /papers/
 ---
+- Samonek, A. (forthcoming) Security Through Decentralization: Privacy by Default Supporting European Cyber Security Agenda. [Email for early access]
 
-- Samonek, A. (2022) The New European Identity and Its Reception in Central and Eastern Europe, in: <i>Central and Eastern European Forum for Legal, Political, and Social Theory Yearbook ”Political Imagination and Utopian Energies in Central and Eastern Europe” </i> (eds. Jan Géryk and Petr Agha), Peter Lang, forthcoming. [Email for early access]   
+- Samonek, A. (2023) The New European Identity and Its Reception in Central and Eastern Europe, in: <i>Central and Eastern European Forum for Legal, Political, and Social Theory Yearbook ”Political Imagination and Utopian Energies in Central and Eastern Europe” </i> (eds. Jan Géryk and Petr Agha), Peter Lang, forthcoming. [Email for early access]   
 
-- Samonek, A. & Pietrzyk-Reeves, D. (2022). Measuring Civil Society: Lessons from Central and Eastern Europe, <i>Communist and Post-Communist Studies</i>, forthcoming. [Email for early access]   
+- Samonek, A. & Pietrzyk-Reeves, D. (2023). Measuring Civil Society: Lessons from Central and Eastern Europe, <i>Communist and Post-Communist Studies</i>, 56 (1): 152–165. DOI: https://doi.org/10.1525/cpcs.2023.1787801 <a href="https://online.ucpress.edu/cpcs/article-abstract/56/1/152/195094/Measuring-Civil-SocietyLessons-from-Central-and?redirectedFrom=fulltext">[See pdf]</a>
 
 - Samonek, A. (2021). How is Political Privacy Different from Personal Privacy? An Argument from Democratic Governance, <i>Diametros</i>, 18(70), 2021, 64-77. DOI: https://doi.org/10.33392/diam.1544. <a href="https://diametros.uj.edu.pl/diametros/article/view/1544">[See pdf]</a>  
 
