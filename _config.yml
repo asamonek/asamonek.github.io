@@ -1,6 +1,6 @@
 title: Aleksandra Samonek
 author: Aleksandra Samonek
-email: asamonek at protonmail dot com
+# email: 
 description: # > # this means to ignore newlines until "show_exerpts:"
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -11,11 +11,11 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: asamonek
-    github:  asamonek
-    rss: rss
+    # twitter: asamonek
+    # github:  asamonek
+    # rss: rss
     # dribbble: jekyll
-    facebook: asamonek
+    # facebook: asamonek
     # flickr:   jekyll
     # instagram: jekyll
     linkedin: asamonek

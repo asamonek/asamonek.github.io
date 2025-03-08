@@ -13,13 +13,7 @@ layout: home
 <br>
 <h2>Hello!</h2>
 
-My name is Aleksandra Samonek and I am a researcher in political science, technology, and law. Currently, I also work as a Protection Associate at UNHCR. 
-
-I specialize in data protection, security, and political and legal philosophy. My MA in Law concerned using algorithms in legal decision-making. Subsequent PhD submitted in the Institute of Political Science and International Relations of the Jagiellonian University focused on political privacy & national and international security. My additional areas of expertise are philosophy of science, formal epistemology, and logic.
-
-My primary areas of research include law & technology, media freedom, AI & ethics, and digitalization in public administration. I am also involved in a project focusing on the processs of democratization and democratic backsliding in Central and Eastern Europe. In May and June 2022, I visited University of Sarajevo, Bosnia and Herzegovina, as part of my research concerning media freedom and its impact on the development of civil society and democratic institutions.
-
-Most recently I have conducted an Una Europa "Digitalized!" project about digital citizenship at Universidad Complutense Madrid. The project focuses on the effects of using technology in public administration on the quality of social services and civic participation, and I work on it in cooperation with MOVICON (Mobilization, Political Struggle and Social Change).
+This website is undergoing a few changes right now. If you'd like to contact me, please find me on <a href="https://www.linkedin.com/in/asamonek/">LinkedIn</a>.
 
 
 
