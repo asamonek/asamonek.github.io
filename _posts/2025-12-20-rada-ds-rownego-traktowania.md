@@ -13,7 +13,7 @@ Krakowska [Rada ds. Równego Traktowania](https://bip.krakow.pl/?bip_id=1&dok_id
 
 Zadaniem Rady jest promowanie postaw i rozwiązań o charakterze równościowym oraz przeciwdziałanie występowaniu zjawisk o charakterze dyskryminacyjnym. Pracami Rady kieruje [Pełnomocniczka Prezydenta Miasta Krakowa ds. Polityki Równościowej](https://www.bip.krakow.pl/struktura/PPR). Na początku obecnej kadencji stanowisko pełniła Nina Gabryś-Janowska, a od października 2024 roku Pełnomocniczką została [Ewelina Pytel](https://krakow.pl/aktualnosci/287433,26,komunikat,nowa_pelnomocniczka_prezydenta_ds__polityki_rownosciowej_.html).
 
-W praktyce cele Rady realizowane są przez wypracowywanie rekomendacji dotyczących rozwiązań równościowych dla Krakowa, przyznawanie partonatów i matronatów, opiniowanie dokumentów i podejmowanie uchwał mieszczących się w zakresie merytorycznym Rady. Zaliczają się do tego zakresu między innymi działania na rzecz:
+W praktyce cele Rady realizowane są przez wypracowywanie rekomendacji dotyczących rozwiązań równościowych dla Krakowa, przyznawanie patronatów i matronatów, opiniowanie dokumentów i podejmowanie uchwał mieszczących się w zakresie merytorycznym Rady. Zaliczają się do tego zakresu między innymi działania na rzecz:
 - budowania poczucia tolerancji i świadomości równości płci wsród mieszkanek i mieszkańców Krakowa,  
 - identyfikowania i przeciwdziałania dyskryminacji w przestrzeni miejskiej, w tym przeciwdziałanie wykluczeniu architektonicznemu i transportowemu,    
 - zwiększenia partycypacji i zrównoważonej reprezentacji w podejmowaniu decyzji na poziomie miasta,  
@@ -39,7 +39,7 @@ Czym zajmują się osoby członkowskie Rady ds. Równego Traktowania? Poniżej k
 
 ### A inne tematy?
 
-Powyższe przykłady pokazują działania Rady z mojej perspektywy. Pamiętajcie jednak, że nowe pomysły są w Radzie mile widziane. W moim odczuciu osoby, które wnoszą świeże spojrzenie na nasze obszary działalności czy proponują innowacyjne podejścia mogą liczyć na wspacie zarówno Pełnomocniczki ds. Polityki Równościowej, jak zaangażowanych przedstawicieli Urzędu Miasta i innych osób w Radzie. 
+Powyższe przykłady pokazują działania Rady z mojej perspektywy. Pamiętajcie jednak, że nowe pomysły są w Radzie mile widziane. W moim odczuciu osoby, które wnoszą świeże spojrzenie na nasze obszary działalności czy proponują innowacyjne podejścia mogą liczyć na wsparcie zarówno Pełnomocniczki ds. Polityki Równościowej, jak zaangażowanych przedstawicieli Urzędu Miasta i innych osób w Radzie. 
 
 Jeśli więc macie pomysły, które wykraczają poza to co wymieniłam, to zupełnie się nie przejmujcie -- każda z osób członkowskich w Radzie ma inne priorytety w polityce społecznej, inne umiejętności i doświadczenia, nie musicie więc tak jak ja skupiać się na prawie czy programach i politykach. W Radzie potrzebna jest reprezentacja młodzieży, osób starszych, rodziców i osób opiekuńczych, osób z niepełnosprawnościami, kobiet, mężczyzn, osób niebinarnych, osób z doświadczeniem migracji, kryzysu, dyskryminacji czy rasizmu -- wykluczenie i dyskryminacja mogą dotknąć każdego, nie ma więc grup niepotrzebnych w budowaniu miejskich polityk równościowych.
 
