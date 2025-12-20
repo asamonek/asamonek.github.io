@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-12-20T04:41:15+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aleksandra Samonek</title><author><name>Aleksandra Samonek</name></author><entry><title type="html">What will it take for machines to understand counterfactual conditionals? Work In Progress talk at UCLouvain on February 10, 2021</title><link href="http://localhost:4000/events/2021/02/10/wip-seminar.html" rel="alternate" type="text/html" title="What will it take for machines to understand counterfactual conditionals? Work In Progress talk at UCLouvain on February 10, 2021" /><published>2021-02-10T00:00:00+01:00</published><updated>2021-02-10T00:00:00+01:00</updated><id>http://localhost:4000/events/2021/02/10/wip-seminar</id><content type="html" xml:base="http://localhost:4000/events/2021/02/10/wip-seminar.html"><![CDATA[<p>On February 10, 2021, I will give a talk at the Work In Progress seminar of the CEFISES at UCLouvain, Louvain-la-Neuve. The seminar is open and all interested are invited to join online.</p>
+
+<h3 id="venue-and-time">Venue and time</h3>
+
+<p>February 10, 2021, 15:00 - 17:00 CET <br />
+MS Teams (please email me or <a href="https://uclouvain.be/fr/instituts-recherche/isp/cefises/evenements.html">the seminar organizers</a> to get a link to our meeting)</p>
+
+<h3 id="what-will-it-take-for-machines-to-understand-counterfactual-conditionals">What will it take for machines to understand counterfactual conditionals?</h3>
+
+<p>Machine understanding is an instance of so called system understanding. We say that a system understands a given domain if it contains appropriate linkages among all (or most) relevant concepts, actions or states. Given our current technology, the systems can easily be programmed to link, e.g., an English word “book” to a French “livre”, but it is much harder to enable a system to correctly link “book” with “writer” or “doctoral student”. A related problem is that of setting up machine understanding in a way which would mimic human understanding. In the context of natural language, a good example of difficulties in implementing human-like understanding emerges from conditionals, especially counterfactual conditionals.</p>
+
+<p>I discuss the problem of formal representation of counterfactual conditionals in a wider context of machine understanding. Two general approaches to machine understanding in artificial intelligence research are connectionism, with machine learning and deep learning as its main paradigms, and symbolism, whose methods are rooted in formal logic. A range of hybrid approaches exists for solving specific problems, such as the implementation of understanding of conditional sentences. In my talk I will discuss how such approaches allow us to derive the notion of understanding, which goes beyond book-livre and ventures into book-writer-type of linkages in the natural language. Thus improved understanding is a step towards approximating human understanding of the natural language.</p>]]></content><author><name>Aleksandra Samonek</name></author><category term="events" /><summary type="html"><![CDATA[On February 10, 2021, I will give a talk at the Work In Progress seminar of the CEFISES at UCLouvain, Louvain-la-Neuve. The seminar is open and all interested are invited to join online.]]></summary></entry><entry><title type="html">Clojure for the Brave and True: meetups for beginner Clojurians</title><link href="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html" rel="alternate" type="text/html" title="Clojure for the Brave and True: meetups for beginner Clojurians" /><published>2021-01-01T00:00:00+01:00</published><updated>2021-01-01T00:00:00+01:00</updated><id>http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup</id><content type="html" xml:base="http://localhost:4000/events/2021/01/01/beginner-clojurians-online-meetup.html"><![CDATA[<p><i>Hello, everyone!</i> Starting this January, we will be reading <i>Clojure for the Brave and True</i>.</p>
+
+<p><b>[CBT]</b> Higginbotham, D. (2015). Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer. No Starch Press.</p>
+
+<p>The book was published in open access at:
+<a href="https://www.braveclojure.com/clojure-for-the-brave-and-true/">braveclojure.com/clojure-for-the-brave-and-true</a>. <br />
+My appreciation to the author, Daniel Higginbotham - thank you for making the book freely available!</p>
+
+<p><b>About the meeting times.</b> I did my best to find a time slot which would fit in with the maximum number of our time zones, but we may change it if it turns out that there is a better time which suits more people. I would also be willing to set up two meetings for each chapter of the book, so that none of the interested persons is excluded from reading along. Please let me know in case your time zone and/or work schedule don’t allow you to join in as things are set up now.</p>
+
+<h2 id="access-links">Access links</h2>
+
+<ul>
+  <li><a href="https://discord.gg/9tQpxzz99T">Brave Clojurians Discord server (open membership)</a></li>
+  <li>(abandoned in favor of Discord) <a href="https://teams.microsoft.com/l/team/19%3a97a02589db2742f296e5af7715b9e50d%40thread.tacv2/conversations?groupId=2a3d4d2a-2c8d-416c-a6fe-003882aec9c9&amp;tenantId=eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb">Brave Clojurians team on MS Teams</a></li>
+</ul>
+
+<h2 id="reading-group-times-and-readings">Reading group times and readings</h2>
+
+<h3 id="march-17-2021-wednesday"><u>March 17, 2021 (Wednesday)</u></h3>
+
+<p>Our host: Aaron Bell (<a href="https://twitter.com/AttentionAaron">@AttentionAaron</a>, <a href="https://aarondeobell.com/">aarondeobell.com</a>)</p>
+
+<p>Time:<br />
+17:00 - 19:00 CET (Brussels)<br />
+16:00 - 18:00 GMT (London)<br />
+11:00 - 13:00 GMT-5 (New York)<br /></p>
+
+<p>Readings:</p>
+<ul>
+  <li>CBT chapter 4: Core functions in depth (pp. 71-96), part 3</li>
+</ul>
+
+<p>Focus:</p>
+<ul>
+  <li>lazy sequences for efficient computing,</li>
+  <li>infinite sequences for flexibility,</li>
+  <li>collection abstractions, to add things to other things, and</li>
+  <li>higher-order functions for precision</li>
+</ul>
+
+<p>Exercises:</p>
+<ul>
+  <li>1-4, p. 96 CBT</li>
+</ul>
+
+<h3 id="march-3-2021-wednesday"><u>March 3, 2021 (Wednesday)</u></h3>
+
+<p>Our host: Aaron Bell (<a href="https://twitter.com/AttentionAaron">@AttentionAaron</a>, <a href="https://aarondeobell.com/">aarondeobell.com</a>)</p>
+
+<p>Time:<br />
+17:00 - 19:00 CET (Brussels)<br />
+16:00 - 18:00 GMT (London)<br />
+11:00 - 13:00 GMT-5 (New York)<br /></p>
+
+<p>Readings:</p>
+<ul>
+  <li>CBT chapter 4: Core functions in depth (pp. 71-96), part 2</li>
+</ul>
+
+<h3 id="february-17-2021-wednesday"><u>February 17, 2021 (Wednesday)</u></h3>
+
+<p>Our host: Aaron Bell (<a href="https://twitter.com/AttentionAaron">@AttentionAaron</a>, <a href="https://aarondeobell.com/">aarondeobell.com</a>)</p>
+
+<p>Time:<br />
+17:00 - 19:00 CET (Brussels)<br />
+16:00 - 18:00 GMT (London)<br />
+11:00 - 13:00 GMT-5 (New York)<br /></p>
+
+<p>Readings:</p>
+<ul>
+  <li>CBT chapter 4: Core functions in depth (pp. 71-96), part 1</li>
+</ul>
+
+<h3 id="february-3-2021-wednesday"><u>February 3, 2021 (Wednesday)</u></h3>
+
+<p>Time:<br />
+17:00 - 19:00 CET (Brussels)<br />
+16:00 - 18:00 GMT (London)<br />
+11:00 - 13:00 GMT-5 (New York)<br /></p>
+
+<p>Readings:</p>
+<ul>
+  <li>CBT chapter 3: Do things: a Clojure crash course, part 2 (pp. 48-69)</li>
+</ul>
+
+<p>Exercises:</p>
+<ul>
+  <li>1-6, pp. 69-70 CBT</li>
+</ul>
+
+<h3 id="january-20-2021-wednesday"><u>January 20, 2021 (Wednesday)</u></h3>
+
+<p>Time:<br />
+17:00 - 19:00 CET (Brussels)<br />
+16:00 - 18:00 GMT (London)<br />
+11:00 - 13:00 GMT-5 (New York)<br /></p>
+
+<p>Readings:</p>
+<ul>
+  <li>CBT chapter 3: Do things: a Clojure crash course (pp. 35-69)</li>
+</ul>
+
+<p>Exercises:</p>
+<ul>
+  <li>1-6, pp. 69-70 CBT</li>
+</ul>
+
+<h3 id="january-6-2021-wednesday"><u>January 6, 2021 (Wednesday)</u></h3>
+
+<p>The first meeting will be dedicated to environment set-up, so we will cover the entire part I of the book (2 chapters). There are no exercises in part I, but if you have the time, try and set up your environment and play around with Emacs and the REPL.</p>
+
+<p>Time:<br />
+17:00 - 19:00 CET (Brussels)<br />
+16:00 - 18:00 GMT (London)<br />
+11:00 - 13:00 GMT-5 (New York)<br /></p>
+
+<p>Readings:</p>
+<ul>
+  <li>CBT chapter 1: Building, running and the REPL (pp. 3-9)</li>
+  <li>CBT chapter 2: How to use Emacs, an excellent Clojure editor (pp. 11-31)</li>
+</ul>
+
+<p>Exercises: none</p>
+
+<h2 id="calendar">Calendar</h2>
+
+<p>Many thanks to <a href="https://twitter.com/pradeepbishnoi">@pradeepbishnoi</a> for these calendar feeds!</p>
+
+<p><a href="https://calendar.google.com/calendar/ical/r91io5fcbcg2jpl6ba32qe0ofg%40group.calendar.google.com/public/basic.ics">Add schedule to iCal</a><br />
+<a href="https://calendar.google.com/calendar/embed?src=r91io5fcbcg2jpl6ba32qe0ofg%40group.calendar.google.com&amp;ctz=Asia%2FKolkata">Schedule on Google Calendar</a></p>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=r91io5fcbcg2jpl6ba32qe0ofg%40group.calendar.google.com&amp;ctz=Asia%2FKolkata" style="border: 0" width="600" height="450" frameborder="0" scrolling="no"></iframe>]]></content><author><name>Aleksandra Samonek</name></author><category term="events" /><summary type="html"><![CDATA[Hello, everyone! Starting this January, we will be reading Clojure for the Brave and True.]]></summary></entry><entry><title type="html">Social Robotics Lab Seminars: Fall Semester 2020/2021</title><link href="http://localhost:4000/events/2020/11/06/slr-seminars.html" rel="alternate" type="text/html" title="Social Robotics Lab Seminars: Fall Semester 2020/2021" /><published>2020-11-06T00:00:00+01:00</published><updated>2020-11-06T00:00:00+01:00</updated><id>http://localhost:4000/events/2020/11/06/slr-seminars</id><content type="html" xml:base="http://localhost:4000/events/2020/11/06/slr-seminars.html"><![CDATA[<p>The seminars of the Social Robotics Lab in the Fall semester of 2020/2021 will take place on Fridays, 17:00-19:00 CET. The mettings will be held <i>via</i> Cisco Webex Meetings (invitation via email is necessary to join).</p>
+
+<p>The SLR website is currently in preparation. Meanwhile, you can find the information related to our seminars below.</p>
+
+<h2 id="seminar-times-and-talks">Seminar times and talks</h2>
+
+<h3 id="february-26-2021-friday-1700-1900-cet"><u>February 26, 2021 (Friday), 17:00-19:00 CET</u></h3>
+
+<p>Speakers: Ania Kołbasa, Basia Wziętek
+Chair: Aleksandra Samonek
+Note-taking: Sharon Spisak</p>
+
+<h3 id="february-12-2021-friday-1700-1900-cet"><u>February 12, 2021 (Friday), 17:00-19:00 CET</u></h3>
+
+<p>Speaker: Anna Kołbasa<br />
+Chair: Paulina Zguda<br />
+Note-taking: Sharon Spisak<br /></p>
+
+<h3 id="january-22-2021-friday-1730-1900-cet"><u>January 22, 2021 (Friday), 17:30-19:00 CET</u></h3>
+
+<p>Speaker: Paulina Zguda<br />
+Chair: Ania Chudzik<br />
+Note-taking: Anna Kołbasa<br /></p>
+
+<h3 id="january-8-2021-friday-1700-1900-cet"><u>January 8, 2021 (Friday), 17:00-19:00 CET</u></h3>
+
+<p>Speaker: Anna Chudzik<br />
+Chair: Magdalena Kaczmarek<br />
+Note-taking: Anna Kołota<br /></p>
+
+<h3 id="december-18-2020-friday-1700-1900-cet"><u>December 18, 2020 (Friday), 17:00-19:00 CET</u></h3>
+
+<p>Speakers: Anna Kołbasa, Barbara Wziętek<br />
+Chair: Sharon Spisak<br />
+Note-taking: Iwona Przybył<br /></p>
+
+<h3 id="december-4-2020-friday-1700-1900-cet"><u>December 4, 2020 (Friday), 17:00-19:00 CET</u></h3>
+
+<p>Speakers: Magdalena Kaczmarek, Bartłomiej Lechowicz<br />
+Chair: Aleksandra Samonek<br />
+Note-taking: Anna Chudzik<br /></p>
+
+<p><b>Magdalena Kaczmarek, <i>CoZ: A crowd-powered system for social robotics</i></b><br /></p>
+
+<p><b>Recommended readings:</b></p>
+<ul>
+  <li>Abbas, T., Khan, V.-J., Gadiraju, U., Barakova, E., &amp; Markopoulos, P. (2020). Crowd of Oz: A Crowd-powered Teleoperation System for Enhanced Human-Robot Conversations. Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction, 81–83. URL: <a href="https://doi.org/10.1145/3371382.3378335">https://doi.org/10.1145/3371382.3378335</a></li>
+  <li>Abbas, T., Khan, V.-J., &amp; Markopoulos, P. (2020). CoZ: A crowd-powered system for social robotics. SoftwareX, 11, 100421. URL: <a href="https://doi.org/10.1016/j.softx.2020.100421">https://doi.org/10.1016/j.softx.2020.100421</a></li>
+</ul>
+
+<p><b>Bartłomiej Lechowicz, <i>The impact of COVID-19 on HRI research</i></b><br /></p>
+
+<p><b>Recommended readings:</b></p>
+<ul>
+  <li>Feil-Seifer, D., Haring, K. S., Rossi, S., Wagner, A. R., &amp; Williams, T. (2020). Where to next? The impact of COVID-19 on human-robot interaction research. ACM Transactions on Human-Robot Interaction (THRI), 10(1), 1-7. URL: <a href="https://dl.acm.org/doi/pdf/10.1145/3405450">https://dl.acm.org/doi/pdf/10.1145/3405450</a></li>
+</ul>
+
+<h3 id="november-20-2020-friday-1700-1900-cet"><u>November 20, 2020 (Friday), 17:00-19:00 CET</u></h3>
+
+<p>Speakers: Aleksandra Samonek, Iwona Przybył<br />
+Chair: Bartłomiej Lechowicz<br />
+Note-taking: Barbara Wziętek<br /></p>
+
+<p><b>Aleksandra Samonek, <i>How robots use language and what it means for applying social robotics to language learning</i></b><br /></p>
+
+<p><b>Recommended readings:</b></p>
+<ul>
+  <li>van den Berghe, R., Verhagen, J., Oudgenoeg-Paz, O., Van der Ven, S., &amp; Leseman, P. (2019). Social robots for language learning: A review. Review of Educational Research, 89(2), 259-295. URL: <a href="https://journals.sagepub.com/doi/full/10.3102/0034654318821286">https://journals.sagepub.com/doi/full/10.3102/0034654318821286</a></li>
+  <li>Tellex, S., Gopalan, N., Kress-Gazit, H., &amp; Matuszek, C. (2020). Robots that use language. Annual Review of Control, Robotics, and Autonomous Systems, 3, 25-55. URL: <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-control-101119-071628">https://www.annualreviews.org/doi/abs/10.1146/annurev-control-101119-071628</a>
+<br /></li>
+</ul>
+
+<h3 id="november-13-2020-friday-1700-1900-cet"><u>November 13, 2020 (Friday), 17:00-19:00 CET</u></h3>
+
+<p>Speakers: Sharon Spisak, Paulina Zguda<br />
+Chair: Anna Kołota<br />
+Note-taking: Paulina Zguda<br /></p>
+
+<p><b>Sharon Spisak, <i>Why do we need cognitively biased robots?</i></b><br />
+Sharon introduced the biases used in the human-robot interaction  research by Biswas and Murray, together with two sets of experiments (ERWIN, MyKeepon).</p>
+
+<p><b>Recommended readings:</b></p>
+<ul>
+  <li>Biswas, M., &amp; Murray, J. C. (2015, September). Towards an imperfect robot for long-term companionship: case studies using cognitive biases. In 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 5978-5983). IEEE. URL: <a href="http://eprints.lincoln.ac.uk/19657/1/IROS15_Final_Biswas_Murray.pdf">http://eprints.lincoln.ac.uk/19657/1/IROS15_Final_Biswas_Murray.pdf</a></li>
+</ul>
+
+<p><b>Paulina Zguda, Anna Kołota, <i>On the Role of Trust in Child-Robot Interaction</i></b><br />
+Anna and Paulina gave an introduction to the 2019 project conducted together with Bipin Indurkhya.They investigated the process of building trust in children towards robots and how it is influenced by the children’s perception of the robot during the first encounter.
+<br /></p>
+
+<h3 id="october-31-2020-saturday-1700-1900-cet"><u>October 31, 2020 (Saturday), 17:00-19:00 CET</u></h3>
+
+<p>Kickoff meeting<br /></p>]]></content><author><name>Aleksandra Samonek</name></author><category term="events" /><summary type="html"><![CDATA[The seminars of the Social Robotics Lab in the Fall semester of 2020/2021 will take place on Fridays, 17:00-19:00 CET. The mettings will be held via Cisco Webex Meetings (invitation via email is necessary to join).]]></summary></entry><entry><title type="html">66th Conference on the History of Logic (LXVI Konferencja Historii Logiki) in Kraków, Poland</title><link href="http://localhost:4000/events/2020/10/28/khl-66.html" rel="alternate" type="text/html" title="66th Conference on the History of Logic (LXVI Konferencja Historii Logiki) in Kraków, Poland" /><published>2020-10-28T00:00:00+01:00</published><updated>2020-10-28T00:00:00+01:00</updated><id>http://localhost:4000/events/2020/10/28/khl-66</id><content type="html" xml:base="http://localhost:4000/events/2020/10/28/khl-66.html"><![CDATA[<p>Oficjalna strona konferencji: <a href="https://filozofia.uj.edu.pl/khl">https://filozofia.uj.edu.pl/khl</a></p>
+
+<h3 id="platforma-online-oraz-czas-wydarzenia">Platforma online oraz czas wydarzenia</h3>
+
+<p>Dzień 1: 10:00-14:00 CET, 3 listopada, 2020<br />
+<a href="https://teams.microsoft.com/l/meetup-join/19%3aefe6f1a613e44fb88951513cb9b69b6d%40thread.tacv2/1603818035347?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d">https://teams.microsoft.com/l/meetup-join/19%3aefe6f1a613e44fb88951513cb9b69b6d%40thread.tacv2/1603818035347?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d</a><br /><br /></p>
+
+<p>Dzień 2: 10:00-14:00 CET, 4 listopada, 2020<br />
+<a href="https://teams.microsoft.com/l/meetup-join/19%3aefe6f1a613e44fb88951513cb9b69b6d%40thread.tacv2/1603818092431?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d">https://teams.microsoft.com/l/meetup-join/19%3aefe6f1a613e44fb88951513cb9b69b6d%40thread.tacv2/1603818092431?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d</a></p>
+
+<h3 id="program-konferencji">Program konferencji</h3>
+
+<p>Ostatnia aktualizacja programu: 1 listopada 2020 r.</p>
+
+<p><b>Wtorek - 3 listopada, 2020 r.</b><br /></p>
+
+<ul>
+  <li>
+    <p>9:55-10:00<br />
+Welcome</p>
+  </li>
+  <li>
+    <p>10:00-10:50<br />
+Dariusz Kalociński (Warszawa), Michał Wrocławski (Warszawa)<br />
+<em>What is computable regardless of the choice of notation?</em></p>
+  </li>
+  <li>
+    <p>10:50-11:10<br />
+Łukasz Stępień (Kraków), Teodor J. Stępień (Kraków)<br />
+<em>On the Inconsistency of Classical Logic</em></p>
+  </li>
+  <li>
+    <p>11:10-11:45<br />
+Aleksandra Samonek (Kraków)<br />
+<em>Combining vector space logic with a semantic link network</em></p>
+  </li>
+  <li>
+    <p>11:45 do 11:55<br />
+Przerwa</p>
+  </li>
+  <li>
+    <p>11:55-12:45<br />
+Jerzy Pogonowski (Poznań)<br />
+<em>Przyczynek do teorii systemów ogólnych</em></p>
+  </li>
+  <li>
+    <p>12:45-13:20<br />
+Piotr Łukowski (Kraków), Adam Olszewski (Kraków)<br />
+<em>Presupozycje w logice treści</em></p>
+  </li>
+  <li>
+    <p>13:20-13:55<br />
+Gabriela Besler (Katowice)<br />
+<em>Korespondencja Józefa M. Bocheńskiego z Heinrichem Scholzem w latach 1947-1954</em></p>
+  </li>
+</ul>
+
+<p><b>Środa - 4 listopada, 2020</b><br /></p>
+
+<ul>
+  <li>
+    <p>10:00-11:05<br />
+Maciej Kłeczek (Frankfurt nad Menem)<br />
+<em>A Solution to Kit Fine’s Paradox of the Variable</em></p>
+  </li>
+  <li>
+    <p>11:05-11:30<br />
+Jan Czerniawski (Kraków)<br />
+<em>Niereichenbachowska wspólna przyczyna a twierdzenie Bella</em></p>
+  </li>
+  <li>
+    <p>11:30-12:05<br />
+Kazimierz Czarnota (Warszawa)<br />
+<em>Logiczne aspekty teorii pytań Romana Ingardena</em></p>
+  </li>
+  <li>
+    <p>12:05 do 12:15<br />
+Przerwa</p>
+  </li>
+  <li>
+    <p>12:15-12:40<br />
+Tomasz Albiński (Gniezno)<br />
+<em>Dydaktyka logiki Adama Wiegnera</em></p>
+  </li>
+  <li>
+    <p>12:40-13:05<br />
+Anna Petiurenko (Kraków)<br />
+<em>Interpretacje księgi VI „Elementów” Euklidesa: Hilbert, Hartshorne, metoda pola</em></p>
+  </li>
+  <li>
+    <p>13:05-13:40<br />
+Andrzej Indrzejczak (Łódź)<br />
+<em>Ontologia Leśniewskiego w teoriodowodowym ujęciu</em></p>
+  </li>
+</ul>
+
+<h2 id="english-version">English version</h2>
+
+<p>Conference home page (in Polish): <a href="https://filozofia.uj.edu.pl/khl">https://filozofia.uj.edu.pl/khl</a></p>
+
+<h3 id="venue-and-time">Venue and time</h3>
+
+<p>Day 1: 10:00-14:00 CET, November 3, 2020<br />
+<a href="https://teams.microsoft.com/l/meetup-join/19%3aefe6f1a613e44fb88951513cb9b69b6d%40thread.tacv2/1603818035347?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d">https://teams.microsoft.com/l/meetup-join/19%3aefe6f1a613e44fb88951513cb9b69b6d%40thread.tacv2/1603818035347?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d</a><br /><br /></p>
+
+<p>Day 2: 10:00-14:00 CET, November 4, 2020<br />
+<a href="https://teams.microsoft.com/l/meetup-join/19%3aefe6f1a613e44fb88951513cb9b69b6d%40thread.tacv2/1603818092431?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d">https://teams.microsoft.com/l/meetup-join/19%3aefe6f1a613e44fb88951513cb9b69b6d%40thread.tacv2/1603818092431?context=%7b%22Tid%22%3a%22eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb%22%2c%22Oid%22%3a%22186dd879-401c-46d0-95b1-9d96fc430b9e%22%7d</a></p>]]></content><author><name>Aleksandra Samonek</name></author><category term="events" /><summary type="html"><![CDATA[Oficjalna strona konferencji: https://filozofia.uj.edu.pl/khl]]></summary></entry><entry><title type="html">Let’s Phi! Online conference about non-academic career opportunities for philosophers on July 11, 2020</title><link href="http://localhost:4000/events/2020/07/10/lets-phi.html" rel="alternate" type="text/html" title="Let’s Phi! Online conference about non-academic career opportunities for philosophers on July 11, 2020" /><published>2020-07-10T00:00:00+02:00</published><updated>2020-07-10T00:00:00+02:00</updated><id>http://localhost:4000/events/2020/07/10/lets-phi</id><content type="html" xml:base="http://localhost:4000/events/2020/07/10/lets-phi.html"><![CDATA[<p>Together with <a href="http://www.letsphi.com/">Let’s Phi!</a> we are kicking off a free online event dedicated to philosophy students interested in following non-academic career paths after graduation and we address the information gap which prevents philosophy graduates from making full use of their position at the job market.</p>
+
+<p>We are offering over 3 hours of workshops and talks with academics, recruiters and professionals from tech, law, IT, consulting and more.</p>
+
+<p>During the meeting we will be testing <a href="https://knit.works/">Knit - The Group Video Call</a> which helps you engage meaningfully in the social interactions online. Aside from the workshops and talks by philosophers working in different industries, Knit facilitates a number of fireside chats, where you can easily talk to other participants and a bar space, where you can mingle and meet everyone. Wear your best shirt and get your webcam ready!</p>
+
+<p>You can find the full program here: <a href="https://knit.works/letsphi-home/">https://knit.works/letsphi-home/</a></p>
+
+<p>Event page on facebook: <a href="https://www.facebook.com/events/3026195867500991/">https://www.facebook.com/events/3026195867500991/</a></p>
+
+<h3 id="venue-and-time">Venue and time</h3>
+
+<p>16:00 - 21:00 BST, July 11, 2020 <br />
+Online at: <a href="https://knit.works/letsphi-home/">https://knit.works/letsphi-home/</a></p>]]></content><author><name>Aleksandra Samonek</name></author><category term="events" /><summary type="html"><![CDATA[Together with Let’s Phi! we are kicking off a free online event dedicated to philosophy students interested in following non-academic career paths after graduation and we address the information gap which prevents philosophy graduates from making full use of their position at the job market.]]></summary></entry><entry><title type="html">Introduction to Complex Predicate Calculus for Databases</title><link href="http://localhost:4000/events/2019/12/13/introduction-cpc-talk.html" rel="alternate" type="text/html" title="Introduction to Complex Predicate Calculus for Databases" /><published>2019-12-13T00:00:00+01:00</published><updated>2019-12-13T00:00:00+01:00</updated><id>http://localhost:4000/events/2019/12/13/introduction-cpc-talk</id><content type="html" xml:base="http://localhost:4000/events/2019/12/13/introduction-cpc-talk.html"><![CDATA[<p>On December 19, 2019, <a href="https://www.researchgate.net/profile/Olga_Poller">Olga Poller</a> and me will give a talk about our joint research at the Departamental Seminar of the <a href="https://filozofia.uj.edu.pl/en_GB/department-of-logical-rethorics">Section of Logical Rhetoric</a>.</p>
+
+<h3 id="venue-and-time">Venue and time</h3>
+
+<p>17:30 - 19:00 <br />
+Room 28, I floor, Collegium Broscianum <br />
+Institute of Philosophy, Jagiellonian University<br />
+ul. Grodzka 52, Kraków, Poland</p>
+
+<h3 id="introduction-to-complex-predicate-calculus-for-databases">Introduction to Complex Predicate Calculus for databases</h3>
+
+<p>CPC (Complex Predicate Calculus) represents the process of creating complex predicates in the natural language in a such a way that the result of this process (which we will call a <em>query</em>) constitutes information included in a database. Initially, CPC was designed to represent prepositions, but it soon turned out that the rules of CPC can be applied much more universally, to a much wider class of phrases. The goal of this talk is to introduce the philosophical motivation behind CPC and also its theoretical foundations, such as the language, syntax and the CPC model. We will also discuss some preliminary results concerning compositionality and the rules of CPC.</p>
+
+<h3 id="pl-wprowadzenie-do-rachunku-złożonych-predykatów-dla-baz-danych">(PL) Wprowadzenie do rachunku złożonych predykatów dla baz danych</h3>
+
+<p>Rachunek złożonych predykatów CPC (Complex Predicate Calculus) pozwala na reprezentację procesu tworzenia złożonych predykatów w języku naturalnym w taki sposób, że wynik tego procesu można zapisać w postaci bazy danych. W pierwotnym założeniu CPC miał służyć do reprezentacji wyrażeń przyimkowych, jednak wkrótce okazało się, że reguły CPC pozwalają na reprezentację o wiele szerszej klasy wyrażeń. Celem tego wystąpienia będzie przestawienie motywacji filozoficznej oraz podstaw teoretycznych CPC, w szczególności podstawowych definicji, takich jak język, zasady syntaktyczne oraz model CPC. Przedstawimy także wstępne wyniki dotyczące kompozycjonalności oraz reguł CPC.</p>]]></content><author><name>Aleksandra Samonek</name></author><category term="events" /><summary type="html"><![CDATA[On December 19, 2019, Olga Poller and me will give a talk about our joint research at the Departamental Seminar of the Section of Logical Rhetoric.]]></summary></entry><entry><title type="html">Can intended models of mathematical theories change over time? Work In Progress talk at UCLouvain on October 16, 2019</title><link href="http://localhost:4000/events/2019/10/11/wip-seminar.html" rel="alternate" type="text/html" title="Can intended models of mathematical theories change over time? Work In Progress talk at UCLouvain on October 16, 2019" /><published>2019-10-11T00:00:00+02:00</published><updated>2019-10-11T00:00:00+02:00</updated><id>http://localhost:4000/events/2019/10/11/wip-seminar</id><content type="html" xml:base="http://localhost:4000/events/2019/10/11/wip-seminar.html"><![CDATA[<p>On October 16, 2019, <a href="https://cris.vub.be/en/persons/colin-jakob-rittberg(b0bc2ff1-4b71-47a2-941b-bd97d9cf4144).html">Colin Rittberg</a> and myself will give a joint talk about our upcoming paper on intended models in mathematical practice at the Work In Progress seminar of the CEFISES at UCLouvain, Louvain-la-Neuve. The seminar is open and all interested are invited to join.</p>
+
+<h3 id="venue-and-time">Venue and time</h3>
+
+<p>15:00 - 17:00 <br />
+Salle Ladrière (a.124 - 1st floor), Collège Mercier <br />
+Place du Cardinal Mercier, Louvain-la-Neuve, Belgium</p>
+
+<h3 id="can-intended-models-of-mathematical-theories-change-over-time">Can intended models of mathematical theories change over time?</h3>
+
+<p>The work of philosophers of mathematical practice has challenged our understanding of various concepts in mathematics. For example, observing how mathematical proofs develop over time and how they relate to our understanding of mathematical objects and phenomena, led Hanna (1989, 2002); Mancosu (2008); Macbeth (2012); Van Bendegem (2014) and others, to a conclusion that the adequate description of the notion of mathematical proof relies on processes that are much more complex than syntactic constructs and manipulations. In our paper we challenge another concept which has been highly idealised in classical philosophy of mathematics, namely the concept of an intended model. We will contest the widely accepted understanding of an intended model as simply one guaranteed to be found among all the models of a theory.</p>
+
+<p>We will discuss the notion of the intended model in the context of the distinction between what we call <em>content-driven practices</em> and <em>content-creating practices</em>, borrowing from Lakatos’ notion of the informal (<em>inhaltliche</em>) mathematics (<em>cf.</em> Krause and Arenhart (2016, p. 63)). Content-driven mathematical practices aim to explicate in terms of a mathematical theory some content or structure, or the so-called <em>intended model</em>, which is assumed to be given in advance: content first, theory later. We intentionally use the term <em>mathematical theory</em> instead of <em>axiomatic theory</em>, as we aim highlight the order in which mathematical concepts emerge. For example, number theory had featured an intended model of natural numbers long before the development of PA. Another case is geometry trying to capture the realities of space.</p>
+
+<p>In content-creating mathematical practices no such content is given in advance. Instead, an axiomatic theory defines a class of structures, its own object of study. The order is reversed compared to content-creating practices, that is we obtain theory first and content later. Classic examples of content-creating practices include algebra and graph theory, where the axiomatic theory is not meant to explicate any intended structure, but rather serves as a starting point of the process of discovering a class of structures which are presumed to be of mathematical interest.</p>
+
+<p>Assuming that some mathematical practices are content-driven, where does their content come from? A plausible answer to this question has been proposed by Ferreirós, namely the content of mathematical theories arises from the historical development of “technical practices” (Ferreirós, 2016, p.40). We will supplement Ferreirós’ case with an example from contemporary set theory, where in the current axiom selection debate, the theory has caught up to the content in ways that require (and have produced) new ways of understanding the intended model of set theory. Our principal case study to show this is H. Woodin’s Ultimate L argument (Woodin, 2017). We will also touch upon other proposals by Steel and Magidor.</p>
+
+<p>We will further argue that the understanding of an intended model for a given discipline of mathematics has the potential to change over time and even erode, so that the practice no longer aims at explicating an intended model at all. In this, within the same mathematical theory we can observe a shift from content-driven to content-creating practice. Starting with von Neumann, we will introduce the notion of epistemic pluralism and touch upon Väänänen’s work to formalise the notion. Epistemic pluralism already erodes, but does not discard, the idea of an intended model for a content-driven practice. We then report on how Hamkins shifts pluralism from the epistemic to metaphysical. We argue that with this shift, Hamkins places theory before content in the sense of our paper, and thereby suggests to transform set theory from a content-driven to a content-creating practice.</p>]]></content><author><name>Aleksandra Samonek</name></author><category term="events" /><summary type="html"><![CDATA[On October 16, 2019, Colin Rittberg and myself will give a joint talk about our upcoming paper on intended models in mathematical practice at the Work In Progress seminar of the CEFISES at UCLouvain, Louvain-la-Neuve. The seminar is open and all interested are invited to join.]]></summary></entry><entry><title type="html">Fighting Fake News: our winning project at Hack Belgium 2019</title><link href="http://localhost:4000/programming/2019/03/30/hack-belgium-2019.html" rel="alternate" type="text/html" title="Fighting Fake News: our winning project at Hack Belgium 2019" /><published>2019-03-30T00:00:00+01:00</published><updated>2019-03-30T00:00:00+01:00</updated><id>http://localhost:4000/programming/2019/03/30/hack-belgium-2019</id><content type="html" xml:base="http://localhost:4000/programming/2019/03/30/hack-belgium-2019.html"><![CDATA[<p>Last weekend (March 28 - 30, 2019) our team took first place at <a href="https://www.hackbelgium.be">Hack Belgium 2019</a> in the <em>Credible, Engaging Media</em> category (<em>Creating new experiences and new sources of trust</em>).<br />
+We were especially interested in the problem of <a href="https://www.hackbelgium.be/experiencing-true-media/">creating smarter media consumers</a>.</p>
+
+<p>Our app, called <em>Jamnik</em>, adds a “credibility layer” to links shared in feeds and private conversations on Facebook, Twitter, WhatsApp, <em>etc.</em>, by visualising the level of reliability of the news source in the link preview and under a thumbnail of a published link. The analysis of credibility focuses on targeting automatically generated content, forged images and videos, and sources related to known fake news generators.</p>
+
+<p>Our priorities were neutrality, transparency of the evaluation process and user-friendliness, including intuitive representation of the evaluation, fast delivery and eliminating the need of case-by-case evaluation assistance from the user. You can read the upshot of our idea in <a href="https://prezi.com/p/ybpjfpb7guto/hack-belgium-2019/">the presentation delivered during Hack Belgium 2019</a>.</p>
+
+<p><img src="https://raw.githubusercontent.com/asamonek/asamonek.github.io/master/images/2019-03-30-hbteam.jpg" alt="Our team" title="Our team" /></p>
+
+<p>I would like to thank the members of my team, <a href="https://www.linkedin.com/in/danny-moeuthwil-057417100/">Danny Moeuthwil</a>, <a href="https://www.linkedin.com/in/ben-bornemann-b5898377/">Ben Bornemann</a>, <a href="https://www.linkedin.com/in/gaetan-henry-8ba778132/">Gaetan Henry</a>, <a href="https://www.linkedin.com/in/stephanie-michaux/">Stéphanie Michaux</a> and <a href="https://www.linkedin.com/in/abali-essende-59355129/">Abali Essende</a>, for the three days of fruitful work and excellent company.<br />
+I also thank our mentors and workshop facilitators, particularly <a href="https://twitter.com/florisdaelemans">Floris Daelemans</a> of VRT for his invaluable feedback during critical moments of the project development.</p>
+
+<p>Stay tuned for news about project <em>Jamnik</em>!</p>]]></content><author><name>Aleksandra Samonek</name></author><category term="programming" /><summary type="html"><![CDATA[Last weekend (March 28 - 30, 2019) our team took first place at Hack Belgium 2019 in the Credible, Engaging Media category (Creating new experiences and new sources of trust). We were especially interested in the problem of creating smarter media consumers.]]></summary></entry><entry><title type="html">[Extended deadline] CfP ExLog 2019: Explaining explanation using new developments in logic and formal semantics (UCLouvain, 6-8 May 2019)</title><link href="http://localhost:4000/events/2019/03/13/cfp-exlog.html" rel="alternate" type="text/html" title="[Extended deadline] CfP ExLog 2019: Explaining explanation using new developments in logic and formal semantics (UCLouvain, 6-8 May 2019)" /><published>2019-03-13T00:00:00+01:00</published><updated>2019-03-13T00:00:00+01:00</updated><id>http://localhost:4000/events/2019/03/13/cfp-exlog</id><content type="html" xml:base="http://localhost:4000/events/2019/03/13/cfp-exlog.html"><![CDATA[<p>On 6-8 May 2019 we are organising a conference at UCLouvain in Louvain-la-Neuve, Belgium. The full topic of the conference is the following: <em>Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics</em>. You can find more information about the scope on <a href="https://sites.google.com/view/exlog2019">the conference website</a>.</p>
+
+<p>The list of invited speakers includes Hannes Leitgeb, Francesca Poggiolesi, Friederike Moltmann, Raymundo Morado, Joke Meheus, Kit Fine and J. Michael Dunn.</p>
+
+<p><a href="https://easychair.org/conferences/?conf=exlog2019">Go directly to the submission page.</a></p>
+
+<p>Currently the deadline for submissions is <strong>23 March 2019</strong>.</p>]]></content><author><name>Aleksandra Samonek</name></author><category term="events" /><summary type="html"><![CDATA[On 6-8 May 2019 we are organising a conference at UCLouvain in Louvain-la-Neuve, Belgium. The full topic of the conference is the following: Explaining explanation using new developments in logic and formal semantics. Hyperintensionality, relevance, counterfactuals, grounding and truth-maker semantics. You can find more information about the scope on the conference website.]]></summary></entry><entry><title type="html">Hypothetical Reasoning. From Formal Learning Theory to Machine Learning</title><link href="http://localhost:4000/2017/03/01/conditionals.html" rel="alternate" type="text/html" title="Hypothetical Reasoning. From Formal Learning Theory to Machine Learning" /><published>2017-03-01T00:00:00+01:00</published><updated>2017-03-01T00:00:00+01:00</updated><id>http://localhost:4000/2017/03/01/conditionals</id><content type="html" xml:base="http://localhost:4000/2017/03/01/conditionals.html"><![CDATA[<p>The preliminary title of my doctoral dissertation is <em>Hypothetical Reasoning. From Formal Learning Theory to Machine Learning</em>. My research is embedded in a broader project conducted by <a href="https://www.researchgate.net/profile/Peter_Verdee">Peter Verdée</a> entitled <em>Relevance criteria in entailment, epistemic grounding and counterfactuals: semantic and linguistic aspects</em>. The project is funded by Fonds Spécial de Recherche (FSR) and started on March 1, 2017.</p>
+
+<p>The goal of my doctoral thesis is to obtain an interpretation of certain conditional sentences of the natural language in terms of <a href="https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-1428-6_444">formal learning theory</a>; and more specifically, conditional sentences which correspond to various forms of hypothetical reasoning. This problem relates to an analogous program of interpreting conditional sentences in machine learning, in particular to the issue of opinion mining and feature- or topic-based sentiment analysis (see <a href="http://www.aclweb.org/anthology/D09-1019">Narayanan, Liu and Choudhary (2009)</a> for an example of how to use conditional analysis to assign positive, neutral or negative sentiments to topics or product features).</p>
+
+<p>An additional objective of my work is to ensure that the obtained interpretation satisfies certain relevance and explainability criteria, which in machine learning correspond to the problem of black box interpretability. The following two aspects of my dissertation are particularly relevant:</p>
+
+<ol>
+  <li>the interpretation of the process of hypothetical reasoning which I propose can be applied uniformly to human and machine learners, and</li>
+  <li>the probabilistic framework I use allows for producing explanations of all related processes, contributing to increased interpretability of certain machine learning models.</li>
+</ol>]]></content><author><name>Aleksandra Samonek</name></author><summary type="html"><![CDATA[The preliminary title of my doctoral dissertation is Hypothetical Reasoning. From Formal Learning Theory to Machine Learning. My research is embedded in a broader project conducted by Peter Verdée entitled Relevance criteria in entailment, epistemic grounding and counterfactuals: semantic and linguistic aspects. The project is funded by Fonds Spécial de Recherche (FSR) and started on March 1, 2017.]]></summary></entry></feed>
